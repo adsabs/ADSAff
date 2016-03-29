@@ -23,8 +23,12 @@ class TrieNode(object):
         self.values.add(value)
         
     def __str__(self):
-        return '{4} left: {0}, mid: {1}, right: {2}'.format(self.left, self.mid, self.right, self.key)
+        return u'{4} left: {0}, mid: {1}, right: {2}'.format(self.left, self.mid, self.right, self.key)
         
+
+STOPWORDS = {}
+for x in (u'university', u'department', u'dept', u'dpt', u'and', u'for', u'the', u'dep'):
+    STOPWORDS[x] = True
 
 class Trie(object):
     """Custom Trie object which ignores cases and recognizes
@@ -65,12 +69,22 @@ class Trie(object):
             
         return root
     
-    def _norm(self, key):
+    def _norm(self, key, aslist=False):
         r = []
+        _spacing = False
         for x in unicode(key):
             if x.isalnum():
                 r.append(x.lower())
-        return u''.join(r)
+                _spacing = False
+            elif x.isspace() and _spacing == False:
+                r.append(' ')
+                _spacing = True
+                
+        parts = filter(lambda x: x not in STOPWORDS, filter(lambda x: len(x) > 2, u''.join(r).split(u' ')))
+        if aslist:
+            return parts
+        return u' '.join(parts)
+        
     
     def get(self, key):
         k = self._norm(key)
@@ -93,8 +107,23 @@ class Trie(object):
                 return root.values
             else:
                 return self._get(root.mid, key, d+1)
+    
+    def generate_ngrams(self, key, n=3, minn=2):
+        """Helper function to split a string by space
+        and generate n-length ngrams."""
+        parts = self._norm(key, aslist=True)
+        if len(parts) <= n and len(parts) >= minn:
+            yield ' '.join(parts)
+        else:
+            for i in range(0, len(parts) - n+1):
+                yield ' '.join(parts[i:i+n])
+                
+    def search(self, key, n=3):
+        for k in self.generate_ngrams(key, n):
+            r = self.get(k)
+            if r and len(r):
+                yield k, r
             
-
 def test():
     t = Trie()
     t.put('sea', 0)

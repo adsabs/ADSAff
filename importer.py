@@ -3,30 +3,36 @@ import os
 class Affiliation(object):
     def __init__(self, id, value):
         self.id = id
-        self.value = value
+        self.value = unicode(value)
         self.parent = None
         self.other_names = set()
         self.abbreviation = None
         
     def add_alternative_name(self, name):
-        self.other_names.add(name)
+        self.other_names.add(unicode(name))
 
     def set_abbreviation(self, name):
-        self.abbreviation = name
-        self.add_alternative_name(name)
+        self.abbreviation = unicode(name)
+        self.add_alternative_name(self.abbreviation)
         
     def __hash__(self):
         return self.id
     
     def __str__(self):
         if self.abbreviation:
-            return 'Affiliation({0}{1}, {2}, [[{3}]])'.format(self.id, self.parent and '<<{0}:{1}>>'.format(self.parent.id, self.parent.value) or '', self.value, self.abbreviation)
+            return u'Affiliation({0}{1}, {2}, [[{3}]])'.format(self.id, self.parent and '<<{0}:{1}>>'.format(self.parent.id, self.parent.value) or '', self.value, self.abbreviation)
         else:
-            return 'Affiliation({0}{1}, {2})'.format(self.id, self.parent and '<<{0}:{1}>>'.format(self.parent.id, self.parent.value) or '', self.value)
+            return u'Affiliation({0}{1}, {2})'.format(self.id, self.parent and '<<{0}:{1}>>'.format(self.parent.id, self.parent.value) or '', self.value)
     
     def __repr__(self):
-        return 'Affiliation("{0}", "{1}")'.format(self.id, self.value)
-
+        return u'Affiliation("{0}", "{1}")'.format(self.id, self.value)
+    
+    def get_all_names(self):
+        yield self.value
+        for x in self.other_names:
+            yield x
+        if self.abbreviation:
+            yield self.abbreviation
 
 def load_affiliations(prefix_path):
     '''Helper function to load all information given a prefix
@@ -69,6 +75,7 @@ def load_canonical(fpath):
             if l[0] == '#':
                 continue
             try:
+                l = l.decode('utf8')
                 parent_id, inst_id, name = l.split('\t', 2)
                 ret[inst_id] = Affiliation(inst_id, name.strip())
                 if parent_id:
@@ -112,6 +119,7 @@ def load_variations(affs, fpath):
                 continue
             i += 1
             try:
+                l = l.decode('utf8')
                 aff_id, name = l.split('\t')
                 if aff_id in affs:
                     affs[aff_id].add_alternative_name(name.strip())
@@ -122,8 +130,8 @@ def load_variations(affs, fpath):
                     missed[aff_id] = True
                     print err_count, 'Missing affiliation', l.strip()
                     err_count += 1
-            except:
-                print err_count, 'Error processing variations {0}'.format(repr(l))
+            except Exception, e:
+                print err_count, 'Error processing variations {0}\n{1}'.format(repr(l), e)
                 err_count += 1
                 
     print 'Done adding {0} variant names ({1} affiliations were referenced but not found). {2} errors in total.'.format(i, len(missed), err_count)
@@ -150,6 +158,7 @@ def load_abbreviations(affs, fpath):
             if l[0] == '#':
                 continue
             try:
+                l = l.decode('utf8')
                 parent_id, inst_id, name = l.split('\t', 2)
                 parent_id = parent_id.strip()
                 
@@ -173,7 +182,7 @@ def load_abbreviations(affs, fpath):
                 aff.set_abbreviation(name.strip())
                 i += 1
             except Exception, e:
-                print err_count, 'Error processing abbreviations: {0}\n{1}'.format(repr(l), e.message)
+                print err_count, 'Error processing abbreviations: {0}\n{1}'.format(repr(l), e)
                 err_count += 1
                 
 

@@ -1,0 +1,5165 @@
+	A1004	Arecibo 
+	A1025	St Michael's Coll
+	A1048	USNO
+	A1058	FL Int U
+	A1072	AAS
+	A1118	Adler
+	A1135	ASTRA
+	A1146	SSI
+	A1151	Palmer Divide
+	A1159	CBA
+	A1161	PSI
+	A1200	Malin San Diego
+	A1201	SAI
+	A1206	SRI Stanford
+	A1240	FOM IPP
+	A1242	Belgian ISA
+	A1245	Belgium Ast Ass
+	A1247	Euro Ctr Geod Seis
+	A1269	Blauvac
+	A1270	CSEM
+	A1273	GANIL
+	A1281	Inst Sup Aero Espace
+	A1285	SPACE X
+	A1290	ISSI
+	A1297	Swiss Fed Obs
+	A1302	Norweg Geo Soc
+	A1304	EISCAT
+	A1306	Atalaia Crow
+	A1307	NUCLIO
+	A1312	ASTER
+	A1313	Fabra Barcelona
+	A1314	Duran Barcelona
+	A1315	Gualba Barcelona
+	A1327	Ryl Span Naval Obs
+	A1330	Catalan Phy Soc
+	A1335	FRACTAL SNLE
+	A1338	Ast Soc Croatia
+	A1341	Ast Soc Slovenia
+	A1344	Isaac Newton Inst
+	A1350	Hung Ast Ass
+	A1351	Bolyai Mil U
+	A1357	Bucharest Astroclub
+	A1363	Stefanik's Obs
+	A1365	Copernicus Obs
+	A1367	Upice Obs
+	A1371	Polish Soc Am Ast
+	A1372	Olsztyn Ast Obs
+	A1374	Chorzow Ast Obs
+	A1381	Obs Cantonal Neuchatel
+	A1390	EGO
+	A1402	EURAC
+	A1412	Ast Obs Aosta
+	A1413	Talmassons Obs
+	A1414	Geo Obs Coldigioco
+	A1415	Campo Catino Ast Obs
+	A1416	ECT
+	A1419	ISI, Torino
+	A1420	Bellatrix Ast Obs
+	A1430	Hellenic Mil Acad
+	A1433	Cyprus Coll
+	A1441	Odessa Natl Mar U
+	A1451	Belarus St U, Minsk
+	A1453	Ast Geod Soc Minsk
+	A1458	Samarkand St U
+	A1460	Georgia Tech U, Tbilisi
+	A1461	MEPhI
+	A1466	EAAS
+	A1468	Khrunichev St Res Prod Sp Ctr
+	A1469	Korolev Energia Sp Rocket Co
+	A1470	St Comm Stand, Moscow
+	A1471	Cen Aero Obs, Dolgoprudnyi
+	A1472	Rostov St Ped U
+	A1484	German Acad Sci, Potsdam
+	A1486	Potsdam Met Obs
+	A1487	Intl Metr Org
+	A1489	Archenhold Obs
+	A1490	BAV
+	A1491	Max Born Inst Nonlinear Opt
+	A1508	Michael Adrian Obs
+	A1517	Geo Surv Iran
+	A1518	Ast Sp Res Ctr, Baghdad
+	A1519	Nepal Ast Soc
+	A1521	Philippine Atmos Geop Ast Serv Admin
+	A1524	Ctr Volc Geohazards, Indonesia
+	A1525	BAKOSURTANAL
+	A1534	Thailand Ctr Excel Phy
+	A1535	VATLY Inst Nucl Sci Tech
+	A1543	Nikola Tesla U
+	A1546	Assam Sci Soc
+	A1548	Gvmnt New Sci Coll
+	A1549	Ind Inst Phy
+	A1550	Nucl Sci Ctr, New Delhi
+	A1559	Rad Res Lab, Korea
+	A1561	Korea Ast Obs
+	A1573	Beijing Plan
+	A1577	Var Star Obs League Japan
+	A1598	Kobe Sci Mus
+	A1615	Japan SpGuard Ass
+	A1630	Japan Sp Util Promo Ctr
+	A1640	Gunma Ast Obs
+	A1643	Toyoma Sci Mus
+	A1644	Geo Res Inst, Osaka
+	A1645	Osaka Sci Mus
+	A1646	ALPO, Japan
+	A1646	Nagano Natl Coll Tech
+	A1647	Misato Ast Obs
+	A1648	Hamanowa Ast Obs
+	A1649	Itagaki Ast Obs
+	A1654	Ryl Ast Soc NZ
+	A1655	DSIR, NZ
+	A1656	Carter Obs, NZ
+	A1657	Auckland Obs
+	A1664	Austr At Ener Comm
+	A1678	Perth Obs
+	A1680	Sydney Obs Mus
+	A1681	Hunters Hill Obs
+	A1682	AGSO
+	A1683	Mars Soc
+	A1684	Austr Bureau Min Res
+	A1685	Austr Mus Sydney
+	A1690	SKA
+	A1696	Ctr Hydro Res, Cameroon
+	A1697	Montserrat Volc Obs
+	A1699	INETER
+	A1700	Supernova Ltd
+	A1701	SPACE
+	A1709	Rosario Plan Ast Obs
+	A1716	SPACE, San Pedro
+	A1739	Armagh Obs
+	A1750	Can Ctr Rem Sens
+	A1751	CERCA
+	A1752	SNOLAB
+	A1756	Scottish U Res React Ctr
+	A1800	Env Res Inst Mich
+	A1804	AS&E
+	A1810	Interferometrics
+	A1811	Comp Phys, Inc.
+	A1812	Eureka Sci
+	A3003	FINCA
+	A3005	Swedish Sp Co
+	A3009	EURATOM
+	A3022	Uppsala Iono Obs 
+A1048	A1165	USNO, Flagstaff
+A1058	A1059	FL Intl U, SARA Obs
+A1146	A1147	Sp Sci Inst, Cassini Imag Cen Lab Op
+A1153	A1149	NOAA Sp Wthr Prediction Ctr
+A1153	A1150	NOAA Sp Env Ctr
+A1271	113461	LSCE
+A1271	130008	IPSL, LERMA
+A1271	A1280	IPSL, LATMOS
+A1309	A1310	La Palma Obs
+A1309	A1311	Tenerife Obs
+A1344	A1343	INI, Belgrade
+A1344	A1440	INI, Crimean Branch
+A1344	A1462	INI, Russia
+A3009	A1373	Inst Pl Phy Lsr mfusion
+	1004	Aalborg U
+	1006	Aarhus U
+1006	123250	Aarhus Inst Phy Ast
+1006	86966	Aarhus Inst Geos
+	1018	Robert Gordon U
+	1019	U Aberdeen
+1019	A1755	SUPA
+	1023	US Army
+1023	40737	USACE
+	1026	Aberystwyth U
+1026	151346	Aberystwyth Inst Geog Earth Sci
+1026	151350	Aberystwyth Inst Math Phy
+	1032	Hardin-Simmons U
+	1033	McMurry U
+	1040	Abo Akademi U
+	1044	OH Nrthn U
+	1057	S Austr Mus
+	1065	Flinders U
+	1066	U Adelaide
+1066	A1673	Adelaide Sch Phy
+1066	A1674	Adelaide Sch Earth Env Sci
+	1067	U South Austr
+	1068	UMD, Coll Park
+1068	223100	UMD Dep Chem
+1068	248497	UMD Dep Atmos Ocean Sci
+1068	248530	UMD Dep Phy
+1068	248531	UMD Dep Ast
+1068	88968	UMD Inst Phy Sci Tech
+1068	A1045	Ctr Res Expl Sp Sci & Tech
+	1074	US DoE
+	1085	SUNY Sys
+1085	1084	SUNY Albany
+1085	12292	SUNY Buffalo
+1085	12301	SUNY Stony Brook
+1085	14625	SUNY Adirondack
+1085	14787	SUNY Binghamton
+1085	14788	SUNY Brockport
+1085	14792	SUNY Canton
+1085	14795	SUNY Cobleskill
+1085	14800	SUNY Cortland
+1085	14801	SUNY Delhi
+1085	14805	SUNY Farmingdale
+1085	14808	SUNY Fredonia
+1085	14811	SUNY Geneseo
+1085	14821	SUNY New Paltz
+1085	14825	SUNY Oneonta
+1085	14828	SUNY Oswego
+1085	14829	SUNY Plattsburgh
+1085	14830	SUNY Potsdam
+1085	14840	SUNY Purchase
+	1098	Albion Coll
+	1104	UNM
+1104	A1172	UNM Dep Phy Ast
+1104	A1173	UNM Dep Earth Plan Sci
+	1105	Sandia Natl Lab
+1105	A1214	Sandia Natl Lab, Livermore
+	1109	Charles Sturt U
+	1132	Alfred U
+	1139	Abilene Christian U
+	1142	Grand Valley St U
+	1146	Cedar Crest Coll
+	1150	Alma Coll
+	1166	Univ Sys Georgia
+1166	1165	Georgia SW St U
+1166	124314	Skidaway Inst Ocean
+1166	1355	U Georgia
+1166	1372	Georgia Inst Tech
+1166	1373	Georgia St U
+1166	15609	Sthrn Poly U
+1166	15612	Clayton St U
+1166	15614	Valdosta St U
+1166	15617	Kennesaw St U
+1166	2291	U W Georgia
+1166	2634	Columbus St U
+1166	32193	U N Georgia
+	1177	IA St U
+1177	A1110	IA St Dep Phy Ast
+	1180	Amherst Coll
+1180	A1027	Five Coll Rad Ast Obs
+	1183	Hampshire Coll
+1183	A1027	Five Coll Rad Ast Obs
+	1190	VU Amsterdam
+1190	416511	VU Amsterdam Dep Earth Sci
+1190	A1237	VU Amsterdam Dep Phy Ast
+	1234	U van Amsterdam
+1234	226185	U van Amsterdam, Inst Phy
+1234	A1238	Ast Inst Anton Pannekoek
+	1259	UMich, Ann Arbor
+1259	14711	UMich, Dearborn
+1259	14712	UMich, Flint
+1259	242913	UMich, Dep Phy
+1259	A1079	UMich, Dep Ast
+1259	A1080	UMich, Rad Ast Obs
+1259	A1081	UMich, Sp Phy Res Lab
+1259	A1082	UMich, Dep Atmos Ocean Sp Sci
+1259	A1083	UMich, Dep Geo Sci
+	1260	US EPA
+1260	138030	US EPA, Res Tri Park
+	1263	Bard Coll
+	1268	St Johns Coll, Annapolis
+	1270	St Francis Xavier U
+	1279	Lawrence U
+	1286	CalState U Sys
+1286	10695	CalState Sacramento
+1286	1285	Humboldt St U
+1286	14662	CalState Bakersfield
+1286	14663	CalState Chico
+1286	14665	CalState Fresno
+1286	14666	CalState Fullerton
+1286	14667	CalState Hayward
+1286	14668	CalState Long Beach
+1286	14669	CalState Los Angeles
+1286	14670	CalState Monterey Bay
+1286	14671	CalState Northridge
+1286	14672	CalState San Bernardino
+1286	14673	CalState San Marcos
+1286	14674	CalState Turlock
+1286	14702	CalState Dominguez Hills
+1286	6647	Cal Poly U
+1286	6960	Sonoma St U
+1286	7117	SDSU
+1286	7147	SFSU
+1286	7161	San Jose St U
+1286	7162	Santa Clara U
+	1287	Marymount U
+	1291	Argonne Natl Lab
+1291	A1125	Argonne Phy Div
+	1314	Raytheon Co
+1314	A1220	Raytheon, CA
+1314	A1221	Raytheon, MD
+1314	A1222	Raytheon, AZ
+1314	A1223	Hughes Aircraft
+	1319	U New England Armidale
+	1348	Benedictine Coll
+	1349	Athabasca U
+	1354	Ohio U
+1354	A1428	Ohio U Dep Phy Ast
+1355	17219	U Georgia, Savannah River Lab
+1355	A1068	U Georgia, Dep Phy Ast
+	1357	Clark Atlanta U
+	1371	Emory U
+1372	A1063	GIT Ctr Reltv Astrop
+1372	A1064	GIT Earth Atmos Sci
+1372	A1065	GIT Dep Phy
+1373	A1066	Georgia St U, Dep Phy Ast
+	1375	Spelman Coll
+	1383	Auburn U
+1383	A1100	Auburn Dep Phy
+	1410	Auckland U Tech
+	1415	U Auckland
+1415	A1652	U Auckland, Dep Phy
+1438	114093	UCB Dep Earth Plan Sci
+1438	252113	UCB Dep Phy
+1438	A1188	UCB Dep Ast
+1438	A1189	UCB Sp Sci Lab
+1438	A1190	UCB Dep Geol Geop
+	1439	U Cal Sys
+1439	1438	UCal Humboldt
+1439	33244	UCal Merced
+1439	8783	UCLA
+1439	8784	UCSD
+1439	8786	UCSB
+1439	8786	UCSF
+1439	8787	UCSC
+1439	8788	UCI
+1439	8789	UCD
+1439	8790	UCR
+	1445	Babson Coll
+	1466	JHU
+1466	310920	JHU Dep Phy Ast
+1466	70603	JHU APL
+	1485	CIW
+1485	230212	Las Campanas Obs
+1485	53520	OCIW
+1485	89017	CIW Geop Lab
+1485	89019	CIW Dep Terr Magn
+1485	A1126	CIW Argonne Natl Lab
+	1490	Goucher Coll
+	1491	Morgan St U
+	1492	Towson U
+	1506	U Coll Bangor
+	1555	U Bath
+	1596	Queen's U Belfast
+1596	240524	Queen's U Sch Math Phy
+	1632	W Wash U
+	1634	Notre Dame Namur U
+	1643	MN St U Sys
+1643	38701	MN St U, Bemidji
+1643	38703	MN St U, Mankato
+1643	38707	MN St U, Winona
+1643	5528	MN St U, St Cloud
+1643	5627	MN St U, Moorhead
+	1646	Bennington Coll
+	1649	Curtin U
+1649	168274	Curtin U Tech
+1649	A1676	Intl Ctr Rad Ast Res
+1649	A1677	Curtin Dep Phy
+	1652	Berea Coll
+	1658	U Bergen
+1658	A1305	Bergen Dep Phy
+	1666	LBNL
+1666	A1218	LBNL Phy Div
+	1674	Andrews U
+	1687	Lehigh U
+	1701	Ferris St U
+	1705	MO St U Sys
+1705	33049	MO St U, Billings
+1705	33052	MO St U, Bozeman
+	1711	Indiana U 
+1711	A1094	Indiana Dep Ast
+1711	A1095	Indiana Dep Phy
+	1722	Aston U
+	1724	U Birmingham
+1724	152867	Birmingham Sch Phy Ast
+1724	152868	Birmingham Sch Geog, Earth Env Sci
+	1755	UK Mnstry Def
+1755	A1765	DSIR
+1755	A1766	Ryl Radar Estab
+1755	A1767	Ryl Aero Estab
+	1757	VA Poly Inst St U
+1757	A1807	Virginia Tech, Dep Geos
+1757	A1808	Virginia Tech, Dep Phy
+	1763	Simon Fraser U
+	1770	Illinois Wesleyan U
+	1773	Bloomsburg U Penn
+	1782	FL Atl U
+	1791	Boise St U
+	1801	Appalachian St U
+	1808	BC
+1808	124351	BC Weston Obs
+1808	205707	BC Dep Geol Geop
+1808	372741	BC Dep Chem
+1808	A1000	BC Dep Phy
+1808	A1001	BC Dep Earth Env Stud
+1808	A1002	BC Inst Sci Res
+	1809	MA St U Sys
+1809	10646	Bridgewater St U
+1809	7043	Salem St U
+	1810	Tufts U
+1810	399918	Tufts Sch Eng
+1810	A1005	Tufts Dep Phy Ast
+	1812	Harvard U
+1812	124324	Blue Hill Met Obs
+1812	164189	Harvard Dep Chem
+1812	1811	Harvard Med Sch
+1812	242596	Harvard Dep Phy
+1812	53785	Harvard Radcliffe Inst Adv Study
+1812	61814	CFA
+1812	A1034	HCO
+1812	A1035	Harvard Ctr Earth Plan Phy
+1812	A1036	Harvard Dep Ast
+	1828	Wheelock Coll
+	1846	BU
+1846	168350	BU Dep Geog
+1846	169392	BU Ctr Remote Sensing
+1846	201920	BU Dep Phy
+1846	310031	BU Dep Ast
+1846	310035	BU Dep Earth Sci
+	1848	Northeastern U
+1848	195089	Northeastern Dep Phy
+	1850	Suffolk U
+1850	226251	Suffolk U, Madrid
+	1851	UMass Sys
+1851	14707	UMass Amherst
+1851	14708	UMass Boston
+1851	14709	UMass Dartmouth
+1851	14710	UMass Lowell
+	1861	Brigham Women's Hosp
+1877	129418	U CO, Boulder, Dep Aero Eng
+1877	314450	U CO, Boulder, Coop Inst Res Env Sci
+1877	315568	U CO, Boulder, Dep Geo Sci
+1877	A1142	U CO, Boulder, Dep Astrop Plan Sci
+1877	A1143	U CO, Boulder, Lab Atmos Sp Phy
+1877	A1144	U CO, Boulder, Dep Phy
+	1878	U CO Sys
+1878	12226	U CO, Denver
+1878	14676	U CO, CO Springs
+1878	1877	U CO, Boulder
+	1879	NCAR
+1879	A1145	NCAR Hi Alt Obs
+	1888	Bowling Green St U
+	1889	W Kentucky U
+	1905	U Bradford
+	1912	St John's Coll
+	1916	Brandon U
+	1938	U Bridgeport
+	1947	U Brighton
+	1948	U Sussex
+1948	152136	Sussex Dep Phy Ast
+1948	A1768	SEPnet
+	1974	U Queensland
+1974	316549	Queensland Sch Earth Sci
+1974	326913	Queensland Sch Math Phy
+	1980	U Bristol
+1980	152332	Bristol Sch Chem
+1980	152333	Bristol Sch Earth Sci
+1980	152335	Bristol Sch Geog Sci
+1980	152336	Bristol Sch Math
+1980	152337	Bristol Sch Phy
+	1992	Roger Williams U
+	1994	U Tech Sydney
+	2007	Yeshiva U
+	2009	CUNY
+2009	14768	Manhattan Comm Coll
+2009	14771	CUNY St Island
+2009	14776	Kingsborough Comm Coll
+2009	14780	NYC Coll Tech
+2009	14781	CUNY Queens Coll
+2009	14782	Queensborough Comm Coll
+2009	2037	Brooklyn Coll
+	2010	Manhattan Coll
+	2019	S Dakota St U
+	2029	Syracuse U
+2029	251768	Syracuse Dep Phy
+	2044	USAF
+2044	115768	Kirtland AFB AFRL
+2044	149992	Peterson AFB AFRL
+2044	2611	USAF Acad, CO
+2044	392352	Wright-Patterson AFB
+2044	47794	Air Force Inst Tech
+2044	98976	Hanscom AFB AFRL
+	2045	Long Island U
+	2050	Bowdoin Coll
+	2058	Bryn Mahr Coll
+	2059	W Virg Wesleyan Coll
+	2060	U Buckingham
+	2071	Canisius Coll
+	2080	La Trobe U
+2080	428687	La Trobe Dep Phy
+	2092	UVM
+	2104	Deakin U
+	2112	Cardiff U
+2112	151290	Cardiff Sch Earth Ocean Sci
+2112	151301	Cardiff Sch Phy Ast
+2112	A1757	Cardiff Ctr Astrob
+	2118	Coll Idaho
+	2129	U Calgary
+2129	113480	Calgary Dep Geos
+2129	A1724	Calgary Dep Phy Ast
+2129	A1725	Calgary Inst Sp Res
+	2152	UCamb
+2152	151939	UCamb Ctr Atmos Sci
+2152	151955	UCamb IfA
+2152	151956	UCamb Dep Phy
+2152	53257	UCP
+2152	61434	UCamb Churchill Coll
+2152	61461	UCamb Trinity Coll
+2152	65899	UCamb Isaac Newton Math Inst
+2152	67366	UCamb Dep Earth Sci
+	2165	Schlumberger Ltd.
+2165	2164	Schlumberger Cambridge 
+2165	318641	Schlumberger Houston
+	2167	MIT
+2167	117274	Haystack Obs
+2167	203287	Singapore-MIT Alliance Res Tech Ctr
+2167	5763	MIT Lincoln Lab
+2167	A1012	MIT Ctr Sp Res/Kavli Inst
+2167	A1013	MIT Dep Earth Plan Sci
+2167	A1014	MIT Dep Phy
+2167	A1803	MIT/WHOI Jt Prog Ocean
+	2214	Austr Def Force Acad
+2214	155101	UNSW@ADFA
+	2219	ANU
+2219	111119	ANU Res Sch Phy Eng
+2219	170547	ANU Res Sch Earth Sci
+2219	217002	ANU Res Sch Ast Astrop
+2219	310804	ANU MSSSO
+	2221	CSIRO
+2221	113124	CSIRO Mar Atmos Res
+2221	123968	CSIRO Austr Tele Natl Fac
+2221	129603	CSIRO Div Rad
+2221	206425	CSIRO Earth Sci Resource Eng
+2221	206428	CSIRO Ast Sp Sci
+2221	A1675	CASWR
+	2222	DSTO
+	2234	U Canberra
+	2240	U Kent
+2240	152102	Kent Sch Phy Sci
+2240	152138	Kent Ctr Astrop Plan Sci
+2240	A1768	SEPnet
+	2244	Lincoln U, NZ
+	2250	St Lawrence U
+	2251	SE Missouri St U
+	2254	S Illinois U
+	2272	Dickinson U
+	2281	U Melbourne
+2281	A1671	Melbourne Dep Phy
+2281	A1672	Melbourne Dep Earth Sci
+	2310	U PR, San Juan 
+2310	19850	U PR, Arecibo
+	2313	U N Iowa
+	2331	UNC Chapel Hill
+2331	A1040	TUNL
+2331	A1043	UNC Dep Phy Ast
+	2332	NC Univ Sys
+2332	2739	W Carolina U
+2332	3189	Elizabeth City Carolina U
+2332	3627	E Carolina U
+	2340	Citadel Mil Coll S Carolina
+	2343	Coll Charleston
+	2344	E Illinois U
+	2348	Mass General
+	2358	UVA
+2358	A1050	UVA Dep Ast
+2358	A1051	UVA Dep Phy
+	2359	U PEI
+	2369	Anglia Ruskin U
+	2376	U Gloucestershire
+	2380	E Wash U
+	2392	Widener U
+	2415	Field Mus Nat Hist
+	2418	Columbia Coll
+	2451	Chicago St U
+	2453	DePaul U
+	2455	Illinois Inst Tech
+	2456	Loyola U Chicago
+	2458	NE Illinois U
+	2460	Roosevelt U
+	2462	U Chicago
+2462	166952	UChicago Dep Geop Sci
+2462	172335	UChicago Enrico Fermi Inst
+2462	226676	UChicago Dep Ast Astrop
+2462	A1115	UChicago Kavli Inst Cosmo Phy
+2462	A1116	UChicago Dep Phy
+2462	A1117	UChicago Yerkes Obs
+	2495	U Otago, NZ
+2495	168991	Otago Dep Phy
+	2496	U Canterbury
+2496	A1653	Canterbury Dep Phy Ast
+	2498	Edith Cowan U
+2514	A1801	U Cincinnati, Dep Phy
+	2515	Xavier U, Ohio
+	2525	Claremont U Cons
+2525	2529	Pomona Coll
+2525	2530	Claremont McKenna Coll
+2525	31750	Harvey Mudd Coll
+2525	31752	Scripps Coll
+	2536	Austin Peay St U
+	2541	Monash U
+2541	161674	Monash Sch Geos
+2541	161675	Monash Sch Math Sci
+2541	161676	Monash Sch Phy
+2541	A1669	Monash Sch Astrop
+2541	A1670	Monash Sch Earth Atmos Env
+	2545	Clemson U
+2545	A1054	Clemson Dep Phy Ast
+	2546	CWRU
+2546	271918	CWRU Dep Phy
+2546	A1089	CWRU Dep Ast
+	2576	Hamilton Coll
+	2591	U Essex
+	2596	U Ulster
+	2610	Colo Coll
+	2628	U MO
+2628	12271	U MO Columbia
+2628	12273	U MO Kansas City
+2628	14611	U MO St Louis
+2628	14717	U MO Rolla
+2628	312020	U MO Columbia Dep Phy
+2628	A1104	U MO St Louis Dep Phy Ast
+	2629	U S Carolina
+2629	A1069	U S Carolina Dep Phy Ast
+	2647	Ohio St U
+2647	242614	Ohio St Sch Earth Sci
+2647	A1090	Ohio St Dep Ast
+2647	A1091	Ohio St Dep Phy
+	2655	TX A&M U Sys
+2655	14736	TX A&M Coll Station
+2655	14737	TX A&M Commerce
+2655	14738	TX A&M Corp Christi
+2655	14739	TX A&M Kingsville
+2655	33604	TX A&M Galveston
+2655	6717	TX A&M Prairie View
+	2672	Coastal Carolina U
+	2673	U Cen AR
+2694	97120	OR St U, Corvallis, Coll Ocean Atmos Sci
+	2695	OR St U Sys
+2695	2694	OR St U, Corvallis
+2695	3265	U Oregon
+2695	6684	OR Health Sci U
+2695	6685	Portland St U
+2695	90665	OR St U, Newport
+	2706	Coventry U
+	2707	U Warwick
+2707	417804	Warwick Dep Phy
+	2717	Cranfield U
+	2719	Wabash Coll
+	2720	U West Austr
+2720	376303	West Austr Sch Earth Env
+2720	98501	West Austr Sch Phy
+2720	A1676	Intl Ctr Rad Ast Research
+	2764	Tenn Tech U
+	2765	SMU
+	2771	CT St U
+2771	2770	W CT St U
+2771	5745	Cen CT St U
+2771	5762	S CT St U
+2771	8600	E CT St U
+	2779	Central Coll
+	2814	Nova Southeastern U
+	2824	U Dayton
+	2830	Embry Riddle Aero U
+2830	52459	Embry Riddle, Prescott
+2830	A1055	Embry Riddle Dep Phy Sci
+	2837	Agnes Scott Coll
+	2840	Millikin U
+	2848	N Illinois U
+	2854	Ohio Wesleyan U
+	2859	TNO
+	2860	TU Delft
+2860	416685	TU Delft Fac Tech Geos Eng
+2860	A1233	TU Delft Inst Earth Obs Sp Sys
+	2905	NWO
+2905	55942	ASTRON
+2905	55944	SRON
+	2927	U Denver
+2927	236458	U Denver Dep Phy Ast
+	2928	USGS
+2928	110093	USGS, Sioux Falls
+2928	124307	USGS Flagstaff
+2928	124315	USGS Hawaii
+2928	189579	U Wash, USGS Sch Oceanog
+2928	265219	USGS Tucson
+2928	288473	USGS Alaska
+2928	70255	USGS Menlo Park
+2928	93526	USGS Colo
+2928	A1154	USGS Woods Hole
+	2948	Drake U
+	2954	Wayne St U
+2954	A1076	Wayne St Dep Phy Ast
+	3007	Delaware St U
+	3041	U Abertay
+	3042	U Dundee
+3042	A1755	SUPA
+	3057	Durham U
+3057	151525	Durham Dep Earth Sci
+3057	151527	Durham Dep Phy
+	3065	Duke U
+3065	101571	Duke Pratt Sch Eng
+3065	242248	Duke Dep Phy
+3065	A1040	TUNL
+	3066	NC Cen U
+	3067	UNH
+3067	A1024	UNH Dep Phy Ast
+	3078	Mich St U
+3078	369416	Mich St Dep Phy Ast
+3078	A1078	Mich St Natl Supercond Cycl Lab
+	3091	Lafayette Coll
+	3092	Stonehill Coll
+	3111	U Cagliari
+3111	A1382	Cagliari Dep Phy
+	3120	Heriot Watt U
+3120	A1755	SUPA
+	3121	Edinburgh Napier U
+	3124	U Edinburgh
+3124	151023	Edinburgh Sch Math
+3124	405902	Edinburgh Ctr Astrob
+3124	42207	Ryl Obs Edinburgh
+3124	70448	Edinburgh Sch Geos
+3124	97088	Edinburgh Sch Phy Ast
+3124	97089	Edinburgh Inst Ast
+3124	A1755	SUPA
+	3151	MacEwan U
+	3156	King's U, Edmonton
+	3158	U Alberta
+3158	124602	U Alberta, Dep Earth Atmos Sci
+3158	172274	U Alberta, Dep Phy
+3158	A1726	U Alberta, Inst Geop Res
+3158	A1727	U Alberta, Inst Theo Phy
+3162	A1768	SEPnet
+	3163	U London
+3163	3162	Ryl Halloway U London
+3163	4616	King's Coll London
+3163	4894	Birkbeck U London
+3163	4919	U Coll London
+	3169	TU Eindhoven
+	3187	Cen Wash U
+	3191	Elizabethtown Coll
+	3202	Elon U
+	3230	U Twente
+	3259	VTT, Tech Res Ctr Finland
+	3261	IBM
+3265	A1180	U Oregon, Dep Geo Sci
+3265	A1181	U Oregon, Dep Phy
+	3270	Northwestern U
+3270	205064	Northwestern U, Dep Earth Plan Sci
+3270	205075	Northwestern U, Dep Phy Ast
+3270	A1119	Northwestern U, Dearborn Obs
+	3272	U Evansville
+	3273	U Sthrn Indiana
+	3280	Coll New Jersey
+	3286	U Exeter
+3286	369460	U Exeter, Dep Phy Ast
+3286	418325	U Exeter, Dep Math
+	3292	U Alaska Sys
+3292	11414	U Alaska, Fairbanks
+3292	14657	U Alaska, Juneau
+3292	3291	U Alaska, Anchorage
+	3298	GMU
+3298	344572	GMU, Sch Phys, Ast Comp Sci
+3298	A1047	GMU, Ctr Earth Obs Sp Res
+	3301	GE
+	3323	N Dakota St U
+	3338	Fayetteville St U
+	3341	U Arkansas, Fayetteville
+	3356	Nrthn Arizona U
+	3364	Kettering U
+	3391	FL Gulf Coast U
+	3402	TX Christian U
+	3404	U Nthrn TX
+	3413	Kentucky St U
+	3427	U New Brunswick
+3427	152139	U New Brunswick, Dep Phy
+3427	A1747	U New Brunswick, Plan Sp Sci Ctr
+	3447	Colo St U
+3447	6759	Colo St U, Pueblo
+3447	A1140	Colo St U, Dep Phy
+3447	A1141	Colo St U, Dep Atmos Sci
+	3463	U FL
+3463	285989	Sp Life Sci Lab
+3463	A1070	U FL, Dep Ast
+3463	A1071	U FL, Dep Phy
+	3475	Kenyon Coll
+	3479	Adelphi U
+	3490	UN
+3490	17111	IAEA
+3490	226172	UN Office Outer Sp Affairs
+	3507	Gettysburg Coll
+	3525	Glasgow Caledonian U
+	3526	U Glasgow
+3526	150843	U Glasgow, Sch Geog Earth Sci
+3526	150844	U Glasgow, Sch Phy Ast
+3526	A1755	SUPA
+	3527	U Strathclyde
+3527	150721	U Strathclyde, Dep Phy
+3527	A1755	SUPA
+	3536	Rowan U
+	3557	Colo Sch Mines
+	3570	U Gothenburg 
+3570	101028	U Gothenburg, Dep Earth Sci 
+3570	201281	U Gothenburg, Dep Phy 
+	3575	Grambling St U
+	3579	U N Dakota
+3579	A1113	U N Dakota, Dep Sp Stud
+3579	A1114	U N Dakota, Dep Phy Ast
+	3580	Colo Mesa U
+	3595	Denison U
+	3595	Dennison U
+	3604	U Nrthn Colo
+	3608	DePauw U
+	3615	Guilford Coll
+	3616	NC Agr Tech St U
+	3624	Bob Jones U
+	3628	Furman U
+	3635	SAI, Co.
+	3644	Grinnell Coll
+	3647	Rijksuniv Groningen
+3647	A1230	Rijksuniv Groningen, Kapteyn Ast Inst
+3647	A1232	Rijksuniv Groningen, Ctr Theo Phy
+	3653	U Guelph
+3653	139148	U Guelph, Dep Phy
+	3660	U Surrey
+3660	152137	U Surrey, Dep Phy
+3660	A1768	SEPnet
+	3684	Mt St Vincent U
+	3688	Dalhousie U
+3688	152954	Dalhousie U, Dep Earth Sci
+3688	A1737	Dalhousie U, Dep Phy Ast
+	3690	St Mary's U
+3690	A1738	St Mary's U, Dep Phy Ast
+	3710	McMaster U
+3710	152956	McMaster U, Dep Earth Sci
+3710	153013	McMaster U, Dep Phy Ast
+	3717	U Waikato, New Zealand
+	3719	Colgate U
+	3722	SE Louisiana U
+	3723	Hampden-Sydney Coll
+	3726	Hampton U
+3726	A1809	Hampton U, Dep Atmos Plan Sci
+	3728	Dartmouth Coll
+3728	145792	Dartmouth Coll, Thayer Sch Eng
+3728	A1003	Dartmouth Coll, Dep Phy Ast
+	3745	James Madison U
+	3757	Trinity Coll, Hartford CT
+	3769	U Hertfordshire
+3769	322401	U Hertfordshire, Sch Phys, Ast Math
+3769	A1768	SEPnet
+	3776	Haverford Coll
+	3783	Swinburne U Tech
+3783	A1668	Swinburne U Tech, Ctr Astrop Supercomp
+	3835	U Helsinki
+3835	111628	U Helsinki, Fac Sci
+3835	357318	U Helsinki, Dep Phy
+3835	A3000	Helsinki U Obs
+	3871	Hofstra U
+	3888	High Point U
+	3890	Brunel U
+	3897	Nrthn Kentucky U
+	3904	Hillsdale Coll
+	3914	Hiram Coll
+	3925	U Tasmania
+3925	A1658	U Tasmania, Sch Math Phy
+3925	A1659	Ctr Excel Ore Dep
+3925	A1660	Antarc Cli Ecos Coop Res Ctr
+	3930	Hope Coll
+	3939	U Hawaii Sys
+3939	14679	U Hawaii, Hilo
+3939	3949	U Hawaii, Manoa
+3939	97007	Jt Ast Ctr
+	3948	Hawaii Pac U 
+3949	124316	U Hawaii, Manoa, Sch Earth Ocean Sci
+3949	124317	U Hawaii, Manoa, Inst Ast
+3949	199602	U Hawaii, Manoa, Dep Geol Geop
+3949	325745	U Hawaii, Mauna Kea Obs
+3949	53737	CFHT
+3949	A1227	U Hawaii, Manoa, Dep Phy Ast
+3949	A1229	U Hawaii, Infrared Tele Fac
+	3968	Mich Tech U
+3968	A1077	Mich Tech U, Dep Phy
+	3972	Benemerita Auton U Puebla
+	3990	Rice U
+3990	A1138	Rice U, Dep Phy Ast
+3990	A1139	Rice U, Dep Earth Sci
+	3991	TX Sthrn U
+	3992	U Houston
+3992	165992	U Houston, Dep Earth Atmos Sci
+3992	165994	U Houston, Dep Phy
+3992	A1229	U Hawaii, IR Tele Fac
+	3997	NASA
+3997	120422	CAB, Madrid
+3997	226557	NSSTC
+3997	285989	Sp Life Sci Lab
+3997	43834	NASA Johnson Sp Ctr
+3997	52523	NASA Goddard Sp Flight Ctr
+3997	53406	NASA Ames Res Ctr
+3997	53410	NASA JFK Sp Ctr
+3997	53411	NASA Jet Prop Lab
+3997	53522	NASA John H. Glenn Res Ctr
+3997	53523	NASA Wallops Fl Fac
+3997	53524	NASA Langley Res Ctr
+3997	53525	NASA Marshall Sp Flight Ctr
+3997	97058	Goddard Inst Sp Stud
+	4019	U Hull
+	4036	Lockheed Martin Corp
+4036	325340	Lockheed Martin, Palo Alto
+4036	61837	Lockheed Martin, Denver
+4036	A1225	Lockheed Martin, Houston
+	4038	Sam Houston St U
+	4052	Indiana U Penn
+	4065	Butler U
+	4083	U Iowa
+4083	A1111	U Iowa, Dep Phy Ast
+	4102	Ithaca Coll
+	4114	Jackson St U
+	4154	E Tenn St U
+	4168	U Jyvaskyla
+4168	154279	U Jyvaskyla, Dep Phy
+	4174	Kalamazoo Coll
+	4175	Wstrn Mich U
+	4180	Linnaeus U, Kalmar 
+	4194	Rockhurst U
+	4202	U Kansas
+4202	A1107	U Kansas, Dep Phy Ast
+	4209	Karlstad U
+	4212	Keele U
+4212	218230	Keele U, Sch Geog, Geol Env
+4212	218232	Keele U, Dep Phy Astrop
+	4224	Carthage Coll
+	4251	Austr Antarc Div
+	4257	Queen's U, Can
+4257	A1744	Queen's U, Dep Phy Ast
+	4260	URI
+	4264	Kingston U
+	4285	U Tenn
+4285	14733	U Tenn, Chattanooga
+4285	14734	U Tenn, Martin
+4285	271625	U Tenn, Dep Earth Plan Sci
+4285	312342	U Tenn, Dep Phy Ast
+4285	83490	U Tenn, Sp Inst
+	4321	U Copenhagen
+4321	111186	U Copenhagen, Geo Mus
+4321	56602	U Copenhagen, Neils Bohr Inst
+4321	87001	U Copenhagen, Nat Hist Mus
+	4334	U Sydney
+4334	144899	U Sydney, Dep Phy
+4334	150706	U Sydney, Dep Geos
+4334	A1666	U Sydney, Dep Ast
+4334	A1679	Cornell Sydney U
+	4365	U Louisiana
+	4377	Lake Forest Coll
+	4396	Lancaster U
+4396	151562	Lancaster U, Dep Env Sci
+4396	151566	Lancaster U, Dep Phy
+	4400	Franklin Marshall Coll
+	4402	Trinity Wstrn U
+	4403	Langston U
+	4416	U Wyoming
+4416	A1182	U Wyoming, Dep Phy Ast
+4416	A1183	U Wyoming, Dep Geol Geop
+	4423	NMSU
+4423	A1170	NMSU, Dep Ast
+4423	A1171	NMSU, Dep Phy
+	4425	NM Highlands U
+	4430	St Vincent Coll
+	4440	Laval U
+4440	A1729	CRAQ
+4440	A1730	Mont Megantic Obs
+4440	A1731	Laval U, Dep Phy
+	4444	Rider U
+	4455	Cumberland U
+	4468	U Leeds
+4468	150512	U Leeds, Sch Phy Ast
+4468	413466	U Leeds, Sch Earth Env
+	4487	De Montfort U
+	4488	U Leicester
+4488	150482	U Leicester, Dep Phy Ast
+	4496	U Leiden
+4496	201229	U Leiden, Inst Chem
+4496	220725	U Leiden, Lorentz Inst Theo Phy
+4496	A1239	Leiden Obs
+	4509	Bishop's U
+	4512	U Lethbridge
+4512	A1728	U Lethbridge, Dep Phy
+	4517	Bucknell U
+	4521	Bates Coll
+	4530	U Kentucky
+4530	174524	U Kentucky, Dep Ast
+	4532	Virginia Mil Inst
+	4536	William Jewell Coll
+	4550	Nebraska Wesleyan U
+	4566	Linkoping U 
+	4569	Benedictine U
+	4571	Sthrn Cross U
+	4578	LLNL
+4578	A1213	LLNL, Inst Geop Plan Phy
+4578	A1215	LLNL, Phy Div
+4578	A1216	LLNL, Earth Sci Div
+4578	A1217	LLNL, Nucl Div
+	4589	Liverpool John Moores U
+4589	151602	Liverpool John Moores U, Astrop Res Inst
+	4591	U Liverpool
+4591	105170	U Liverpool, Sch Env Sci
+4591	151585	U Liverpool, Dep Earth, Ocean Ecol Sci
+4591	151587	U Liverpool, Dep Phy
+	4606	Utah St U
+4606	A1155	Utah St U, Ctr Atmos Sp Sci
+4606	A1156	Utah St U, Sp Dyn Lab
+	4615	Imperial Coll, London
+4615	152935	Imperial Coll, Dep Earth Sci Eng
+4615	226072	Imperial Coll, Dep Phy
+4615	A1760	Imperial Coll, Astrop Group
+4615	A1761	Imperial Coll, Sp Atmos Res Ctr
+4616	A1763	King's Coll London, Dep Phy
+	4617	Queen Mary U, UK
+4617	390399	Queen Mary U, Sch Phy Ast
+4617	A1768	SEPnet
+	4633	British Aero Sys, PLC
+4894	387591	Birkbeck U London, Dep Earth Plan Sci
+4894	387681	Ctr Plan Sci UCL/Birkbeck
+	4895	City U London
+	4905	London Sch Econ
+	4918	U Greenwich
+4919	152582	U Coll London, Dep Earth Sci
+4919	154299	U Coll London, Dep Phy Ast
+4919	387681	Ctr Plan Sci UCL/Birkbeck
+4919	53255	U London Obs
+4919	A1762	U Coll London, Mullard Sp Sci Lab
+	4921	U Westminster
+	4946	British Mus Nat Hist
+	5104	U Sthrn Miss
+	5105	Boeing Company
+5105	325827	Boeing, Califoria
+5105	61815	Boeing, Seattle
+5105	A1224	McDonnell Douglas Aero
+	5108	U Ctr Svalbard
+	5112	LANL
+5112	A1166	LANL, Astrop
+5112	A1167	LANL, Phy
+5112	A1168	LANL, Sp Sci
+5112	A1169	LANL, Theo Div
+	5116	USC
+5116	166576	USC, Dep Earth Sci
+5116	A1202	USC, Dep Phy Ast
+	5121	Occidental Coll
+	5143	Loyola Marymount U
+	5152	Northrop Grumman Aero 
+5152	61831	Northrop Grumman Aero, Redondo Beach
+5152	A1226	TRW
+	5153	Aero Corp
+	5156	Loughborough U
+	5160	Louisiana Tech U
+	5170	U Louisville
+	5173	Siena Coll
+	5180	Geo Nucl Sci, Ltd.
+	5185	Lulea U Tech 
+	5193	U Lund 
+5193	111165	Lund Obs 
+5193	132076	U Lund, Dep Phy 
+5193	368845	U Lund, Dep Ast
+5193	A3016	Swedish Inst Sp Phys, Lund 
+	5195	U Bedfordshire
+	5205	DTU, Danish Tech U
+5205	243281	DTU Phys, Lyngby
+5205	68226	DTU, Inst Sp Res Tech
+5205	A3008	DTU, Danish Litho Ctr
+5205	A3012	DTU, Riso Natl Lab
+	5221	Wstrn Illinois U
+	5225	Mercer U
+5228	124349	U Wisc, Madison, Dep Geol Geop
+5228	206020	U Wisc, Madison, Dep Phy
+5228	312693	U Wisc, Madison, Dep Ast
+5228	A1127	U Wisc, Madison, Washburn Obs
+	5229	U Wisc
+5229	14747	U Wisc, Eau Claire
+5229	14749	U Wisc, Green Bay
+5229	14750	U Wisc, La Crosse
+5229	14751	U Wisc, Milwaukee
+5229	14752	U Wisc, Oshkosh
+5229	14753	U Wisc, Parkside
+5229	14754	U Wisc, Platteville
+5229	14755	U Wisc, River Falls
+5229	14756	U Wisc, Stevens Point
+5229	14757	U Wisc, Stout
+5229	14759	U Wisc, Whitewater
+5229	14766	U Wisc, Marathon County
+5229	5228	U Wisc, Madison
+	5235	Middle Tenn St U
+	5237	Drew U
+	5262	Pepperdine U
+	5264	Malmo U 
+	5292	U Manchester
+5292	151629	U Manchester, Sch Earth Atmos Env Sci
+5292	151632	U Manchester, Sch Phy Ast
+5292	223923	U Manchester, Inst Sci Tech
+5292	347652	Jodrell Bank Ctr Astrop
+	5308	Kansas St U
+5308	A1108	Kansas St U, Dep Phy
+	5322	Marietta Coll
+	5329	Marlboro Coll
+	5330	Marlborough Coll, UK
+	5336	Nrthn Mich U
+	5368	Allegheny Coll
+	5401	FL Inst Tech
+5401	A1059	FL Inst Tech, SARA Obs
+5401	A1060	FL Inst Tech, Dep Phy Sp Sci
+	5414	Rhodes Coll
+	5415	U Memphis
+	5419	Austr Nucl Sci Tech Org
+	5452	U Miami
+5452	362673	U Miami, Div Mar Geol Geop
+5452	96722	U Miami, Rosenstiel Sch Mar Atmos Sci
+5452	A1061	U Miami, Dep Phy
+	5457	Middlebury Coll
+	5462	Teesside U
+	5482	Millersville U
+	5488	Open U Milton Keynes
+5488	212058	Open U Scotland
+5488	218242	Open U, Dep Earth Env Sci
+5488	218243	Open U, Dep Phy Sci
+5488	218244	CEPSAR
+5488	57369	Open U Oxford
+5488	A1768	SEPnet
+	5506	Med Coll Wisconsin
+	5517	Augsburg Coll
+	5547	Miss St U
+	5557	U S Alabama
+	5568	U Moncton
+	5571	Wstrn Oregon U
+	5596	Ecole Poly Montreal
+	5618	Concordia U
+	5620	McGill U
+5620	A1729	CRAQ
+5620	A1730	Mont Megantic Obs
+5620	A1732	McGill U, Dep Earth Plan Sci
+5620	A1754	McGill U, Dep Phy
+	5622	U Montreal
+5622	204252	U Montreal, Dep Phy
+5622	236712	U Montreal, Ctr Res Math
+5622	A1729	CRAQ
+5622	A1746	U Montreal, Dep Ast
+	5623	U Quebec
+5623	14646	U Quebec, Rimouski
+5623	14661	U Quebec, Chicoutimi
+5623	14845	U Quebec, Montreal
+5623	14851	INRS
+	5628	St Mary's Coll
+	5629	Concordia Coll
+	5630	Morehead St U
+	5631	W Virginia U
+5635	172302	UMN, Dep Ast
+5635	172309	UMN, Dep Earth Sci
+5635	A1020	UMN, Dep Phy
+5635	A1021	UMN, Dep Geol Geop
+	5640	U Idaho
+	5649	Cen Mich U
+	5651	Cornell Coll
+	5659	Berry Coll
+	5666	Ball St U
+	5673	Murdoch U
+	5675	Murray St U
+	5676	AT&T Bell Lab
+	5687	Stephen F Austin St U
+	5716	Fisk U
+	5717	Tenn St U
+	5718	Vanderbilt U
+5718	A1017	Vanderbilt U, Dep Phy Ast
+5718	A1018	Vanderbilt U, Dyer Obs
+	5723	Griffith U
+	5755	Yale U
+5755	116473	Yale U, Dep Geol Geop
+5755	198903	Yale U, Dep Chem
+5755	198981	Yale U, Dep Ast
+5755	198982	Yale U, Dep Geol Geop
+5755	198983	Yale U, Dep Phy
+5755	A1708	Yale Sthrn Obs
+	5766	Connecticut Coll
+	5773	U Nrthn Alabama
+	5779	LSU
+5779	242454	LSU, Dep Phy Ast
+5779	A1101	LSU, Dep Geol Geop
+	5780	Loyola U New Orleans
+	5781	Sthrn U New Orleans
+	5783	Tulane U
+	5784	U New Orleans
+	5791	Iona Coll
+	5794	Westminster Coll
+	5798	Columbia U
+5798	139207	Columbia U, Dep Phy
+5798	155355	Columbia U, Dep Ast Astrop
+5798	156203	Columbia U, Dep Chem
+5798	191166	Columbia U, Dep Earth Sci
+5798	57699	Lamont-Doherty Earth Obs
+5798	5919	Barnard Coll
+5798	97058	Goddard Inst Sp Stud
+	5844	Marymount Manhattan Coll
+	5845	Niagara U
+	5894	NYU
+5894	167632	NYU, Abu Dhabi
+5894	34242	NYU Poly Inst
+5894	A1028	NYU, Dep Phys/CCPP
+	5922	Cornell U
+5922	12295	Cornell U Medical Coll
+5922	171540	Cornell U, Sch App Phy
+5922	251791	Cornell U, Dep Chem
+5922	251807	Cornell U, Dep Ast/Ctr Radiophy Sp Res
+5922	251809	Cornell U, Dep Phy
+5922	251813	Cornell U, Dep Comp Sci
+5922	47790	Cornell U, Dep Earth Atmos Sci
+5922	70235	Cornell U, Sch Eng
+5922	A1679	Cornell Sydney U
+	5923	Fordham U
+	5924	Hunter Coll
+	5926	New Sch U
+	5929	Rockefeller U
+	5963	AMNH
+	5965	NJIT
+5965	A1037	NJIT, Big Bear Solar Obs
+5965	A1038	NJIT, Ctr Solar Terr Res
+5965	A1039	NJIT, Dep Phy
+	5970	Rutgers U
+5970	145745	Rutgers U, Dep Earth Plan Sci
+5970	172333	Rutgers U, Dep Phy Ast
+	5972	U Delaware
+5972	172293	U Delaware, Bartol Res Inst
+	5982	U Newcastle
+5982	234783	U Newcastle, Sch Math Phy Sci
+	5994	Newcastle U
+5994	151502	Newcastle U, Dep Math
+5994	A1764	Newcastle U, Dep Phy
+	6013	Chr Newport U
+	6025	Bucks County Comm Coll
+	6029	Radboud U Nijmegen
+6029	226197	Radboud U Nijmegen, Dep Ast Phy
+	6041	Norfolk St U
+	6042	Old Dominion U
+	6048	Alabama A&M U
+	6049	Illinois St U, Normal
+	6087	U Northampton
+	6089	Smith Coll
+6089	A1027	Five Coll Rad Ast Obs
+	6091	Norwich U
+	6092	Carleton Coll
+	6093	St Olaf Coll
+	6097	Wheaton Coll, IL
+	6106	U E Anglia
+	6111	U Notre Dame
+6111	A1092	U Notre Dame, Dep Phy
+6111	A1093	U Notre Dame, Ctr Astrop
+	6122	Nottingham Trent U
+	6123	Nottingham U
+6123	309936	Nottingham U, Sch Phy Ast
+	6146	ORNL
+6146	A1053	ORNL, Phy Div
+	6167	Oberlin Coll
+	6174	U Sthrn Denmark, Odense
+	6177	TX Tech U
+	6181	Weber St U
+	6186	U Oklahoma, Oklahoma City
+	6187	U Oklahoma, Norman
+6187	A1112	U Oklahoma, Dep Phy Ast
+	6196	NY Inst Tech
+	6216	Creighton U
+	6218	Hartwick Coll
+	6221	U Wstrn Ontario
+6221	A1740	U Wstrn Ontario, Dep Phy Ast
+6221	A1741	U Wstrn Ontario, Dep Earth Sci
+	6226	Chapman U
+	6227	Lamar U
+	6230	S Carolina St U
+	6233	Orebro U
+	6234	Utah Valley U
+	6243	U Cen FL
+6243	A1056	U Cen FL, Dep Phy
+6243	A1057	U Cen FL, Coll Opt Phot
+	6250	U Maine
+6250	115973	U Maine, Walpole
+	6305	U Oslo
+6305	259823	ESST, Soc Sci Tech Euro Prog
+6305	87350	U Oslo, Ctr Cli Env Res
+6305	87361	U Oslo, Dep Phy
+6305	87506	U Oslo, Dep Geos
+6305	A1298	U Oslo, Inst Theo Astrop
+	6311	Mid Sweden U
+	6313	Can Dep Natl Def
+6313	60455	Def Res Dev Can
+6313	85459	Ryl Mil Coll Can
+	6314	Nat Resources Can
+6314	113445	Nat Resources Can, Dep Earth Sci
+6314	186595	GSCA, Geo Surv Can Atl
+6314	270611	GSCP, Geo Surv Can Pac
+	6339	Carleton U
+	6344	Can Dep Fish Oceans
+	6347	Env Can
+6347	113197	Met Svc Can
+6347	2085	NWRI, Can
+	6352	Intl Dev Res Ctr
+6352	108036	Intl Dev Res Ctr, Senegal 
+	6356	NRC, Can
+6356	10084	TRIUMF
+6356	103199	Herzberg Inst Ast Astrop
+6356	124088	DRAO
+	6363	U Ottawa
+6363	151178	U Ottawa, Dep Earth Sci
+6363	151180	U Ottawa, Dep Phy
+	6370	U Oulu
+6370	A3001	U Oulu, Dep Phy
+6370	A3002	U Oulu, Div Ast
+6370	A3004	Sodankyla Geop Obs
+	6395	Oxford Brookes U
+	6396	U Oxford
+6396	145276	U Oxford, Dep Phy
+6396	61466	U Oxford Brasenose Coll
+6396	61481	U Oxford Magdalen Coll
+6396	61483	U Oxford Merton Coll
+6396	61493	U Oxford St Catherine's Coll
+6396	61498	U Oxford St John's Coll
+6396	61503	U Oxford Trinity Coll
+6396	61504	U Oxford U Coll Oxford
+6396	61505	U Oxford Wadham Coll
+6396	61506	U Oxford Wolfson Coll
+6396	66089	U Oxford, Math Inst
+6396	69308	Oxford Dep Earth Sci
+6396	A1759	U Oxford, Dep Astrop
+	6413	U W Scotland
+	6420	Massey U
+	6429	Stanford U
+6429	164890	Stanford U, Sch Earth Sci
+6429	17220	SLAC
+6429	198869	Stanford U, Dep Aero Astnau
+6429	198871	Stanford U, Dep App Phy
+6429	201958	Stanford U, Dep Elect Eng
+6429	402869	Stanford U, Dep Geo Env Sci
+6429	A1203	Stanford U, Dep Ast
+6429	A1204	Stanford U, Dep Phy
+6429	A1205	Stanford U, Dep Geop
+6429	A1417	ICRA, Intl Ctr Reltv Astrop
+	6469	CalTech
+6469	224033	CalTech, Div Geo Plan Sci
+6469	306562	CalTech, Div Phy Math Ast
+6469	53411	CalTech, JPL
+6469	A1037	CalTech, Big Bear Solar Obs
+6469	A1207	CalTech, Tele Sci Ctrs
+6469	A1208	CalTech, Obs
+6469	A1209	CalTech, OVRO
+6469	A1210	CalTech, LIGO Lab
+	6489	U Wstrn Sydney
+	6491	U W FL
+	6496	Bradley U
+	6505	Wstrn Austr Mus
+	6515	Trent U
+	6527	Drexel U
+	6558	Temple U
+	6572	U Penn
+6572	212701	U Penn, Dep Chem
+6572	A1007	U Penn, Dep Ast
+6572	A1008	U Penn, Ctr Part Cosmo
+6572	A1009	U Penn, Dep Phy 
+	6594	Pittsburg St U
+	6606	La Roche Coll
+	6612	CMU
+6612	92971	CMU, Qatar
+6612	A1088	CMU, Dep Phy
+	6613	Duquesne U
+	6614	U Pittsburgh
+6614	142856	U Pittsburgh, Dep Phy Ast
+6614	A1084	U Pittsburgh, Allegheny Obs
+6614	A1086	U Pittsburgh, Dep Geol Plan Sci
+	6633	U Plymouth
+	6640	Idaho St U
+	6654	U Glamorgan
+	6657	Bournemouth U
+	6666	Eastrn NM U
+	6683	Lewis Clark Coll
+	6686	Reed Coll
+	6689	U Sthrn Maine
+	6697	U Portsmouth
+6697	416861	U Portsmouth, Inst Cosmo Grav
+6697	A1768	SEPnet
+	6704	Clarkson U
+	6711	Vassar Coll
+	6723	U Cen Lancashire
+6723	A1758	U Cen Lancashire, Ctr Astrop
+	6727	U Nrthn BC
+	6739	Princeton IAS
+	6740	Princeton U
+6740	140538	Princeton U, Dep Geos
+6740	17217	Princeton U, Plasma Phy Lab
+6740	226624	Princeton U, Dep Astrop Sci
+6740	A1023	Princeton U, Dep Phy
+	6752	Brown U
+6752	158378	Brown U, Dep Geo Sci
+6752	A1016	Brown U, Dep Phy
+	6756	Brigham Young U
+6756	14678	Brigham Young U, Hawaii
+6756	6860	Brigham Young U, Idaho
+6756	A1158	Brigham Young U, Dep Phy Ast
+	6760	Wash St U
+6760	312979	Wash St U, Dep Phy Ast
+6760	52670	Wash St U, Tri Cities
+6760	A1187	Wash St U, Sch Earth Env Sci
+	6798	NCSU
+6798	A1040	Triangle U Nucl Lab
+6798	A1042	NCSU, Dep Phy
+	6806	S Dakota Sch Mines Tech
+	6814	Euro Ctr Med Range Wthr For
+	6816	U Reading
+6816	150615	U Reading, Sch Math Phy Sci
+6816	205853	U Reading, Dep Metr
+	6822	Albright Coll
+	6832	U Redlands
+	6846	U Regina
+	6850	U Nevada Sys
+6850	14722	UNLV
+6850	6851	U Nevada, Reno
+6850	A1177	Desert Res Inst
+6851	A1175	U Nevada, Reno, Dep Geo Sci
+	6865	Pac NW Natl Lab
+	6885	Eastrn Kentucky U
+	6888	U Richmond
+	6889	Virginia Comm U
+	6918	Oakland U
+	6925	RIT
+6925	404578	RIT, Sch Phy Ast
+	6926	St John Fisher Coll
+	6927	U Rochester
+6927	A1026	U Rochester, Dep Phy Ast
+	6971	Rosemont Coll
+	6976	Roskilde U
+	7011	Arkansas Tech U
+	7017	Mt Allison U, Can
+	7037	Roanoke Coll
+	7046	U Salford
+	7060	U Utah
+7060	402023	U Utah, Dep Geol Geop
+7060	A1157	U Utah, Dep Phy Ast
+	7067	U TX Sys
+7067	12329	U TX, Arlington
+7067	12330	U TX, Austin
+7067	12331	U TX, Brownsville
+7067	12335	U TX, Dallas
+7067	12337	U TX, El Paso
+7067	12338	U TX, Galveston
+7067	12346	U TX, San Antonio
+	7072	SRI
+7072	133951	SRI, Boulder
+7072	330869	SRI, Dep Sp Sci
+7117	A1198	SDSU, Dep Ast
+	7174	TX St U San Marcos
+	7180	UNAM
+7180	111296	UNAM, Inst Ast
+7180	124154	UNAM, Inst Geop
+7180	173085	UNAM, Ctr Geos
+7180	56075	UNAM, Ctr Radioast Astrop
+7180	87782	UNAM, Inst Phy Sci
+7180	87792	UNAM, Inst Phy
+7180	87794	UNAM, Inst Nucl Sci
+	7202	NOAA, Wash
+7202	114091	NCEI
+7202	129423	NOAA Ctr Sat App Res
+7202	148449	NOAA Nat Geod Surv
+7202	314450	CIRES
+7202	53841	NAOO Great Lakes Env Res Lab
+7202	96721	NAOO Atl Ocean Met Lab
+7202	A1153	NOAA, Boulder
+7202	A1805	NOAA Pac Mar Env Lab
+7202	A1806	Jt Inst Stud Atmos Ocean
+	7230	Skidmore Coll
+	7235	U Saskatchewan
+7235	A1735	U Saskatchewan, Inst Sp Atmos Stud
+7235	A1736	U Saskatchewan, Dep Phy
+	7254	Union Coll
+	7259	U Scranton
+	7284	U Wash
+7284	189579	U Wash, Sch Ocean
+7284	198855	U Wash, Dep Phy
+7284	312706	U Wash, Dep Ast
+7284	312733	U Wash, Dep Earth Sp Sci
+7284	52576	U Wash, Bothell
+7284	A1186	U Wash, Dep Atmos Sci Geop
+7284	A1806	Jt Inst Stud Atmos Ocean
+	7296	Susquehanna U
+	7302	TX Lutheran U
+	7314	Sheffield Hallam U
+	7315	U Sheffield
+7315	152815	U Sheffield, Dep Phy Ast
+	7321	U Sherbrooke
+	7323	Austin Coll
+	7326	Centenary Coll
+	7334	John Brown U
+	7374	NM Inst Min Tech
+7374	A1174	NM Inst Min Tech, Dep Phy
+	7397	Mt Holyoke
+7397	A1006	Mt Holyoke, Dep Ast
+7397	A1027	Five Coll Rad Ast Obs
+	7423	U Southampton
+7423	152284	U Southampton, Sch Ocean Earth Sci
+7423	152285	U Southampton, Sch Phy Ast
+7423	410476	U Southampton, Aero Astnau
+7423	42254	Natl Ocean Ctr, UK
+7423	A1768	SEPnet
+	7471	Missouri St U
+7471	A1103	Missouri St U, Dep Phy Ast
+	7473	W New England U
+	7474	Wittenberg U
+	7486	St Andrews U
+7486	150642	St Andrews U, Sch Math Stat
+7486	150661	St Andrews U, Sch Phy Ast
+7486	A1755	SUPA
+	7497	Brock U
+	7501	Eastrn U
+	7506	Coll St Benedict St John's U
+	7512	Memorial U
+7512	A1748	Memorial U, Dep Earth Sci
+7512	A1749	Memorial U, Dep Phy
+	7547	St Louis U
+7547	16260	St Louis U, Madrid
+	7548	Wash U St Louis
+7548	366647	Wash U St Louis, Dep Earth Plan Sci
+7548	A1102	Wash U St Louis, Dep Phy
+	7549	Webster U
+	7569	Macalester Coll
+	7570	U St Thomas
+	7573	Gustavus Adolphus Coll
+	7575	Eckerd Coll
+	7581	Stetson U
+	7584	U Virgin Islands
+	7598	Arkansas St U
+	7604	Georgia Sthrn U
+	7608	Statoil ASA
+	7618	Oklahoma St U
+7618	A1120	Oklahoma St U, Dep Phy
+	7622	U Stirling
+	7644	Swedish Def Res Agency
+	7654	Ryl Swedish Acad Sci 
+	7655	KTH, Ryl Inst Tech 
+7655	11267	AlbaNova U Ctr
+7655	172280	NORDITA
+7655	A3014	KTH, Dep Phy 
+	7675	Stockholm U 
+7675	11267	AlbaNova U Ctr
+7675	132068	Stockholm U, Dep Phy 
+7675	172280	NORDITA
+7675	243047	Stockholm U, Dep Geo Sci 
+7675	A3010	Stockholm U, Dep Ast 
+	7699	U Pacific
+	7703	Staffordshire U
+	7709	U Highlands Islands
+	7728	Laurentian U
+	7759	U Coll Swansea
+	7761	Swarthmore Coll
+7761	A1087	Swarthmore Coll, Dep Phy Ast
+	7762	Sweet Briar Coll
+	7767	NERC
+7767	1292	Scottish Ass Mar Sci
+7767	369307	NCAS, Natl Ctr Atmos Sci
+7767	381666	NCEO, Natl Ctr Earth Obs
+7767	41819	British Geo Surv
+7767	41820	British Antarc Surv
+7767	41865	Ctr Ecology Hydro
+7767	42254	Natl Ocean Ctr
+7767	61564	Plymouth Mar Lab
+	7788	Macquarie U
+7788	117653	Macquarie U, Dep Earth Plan Sci
+7788	217003	Macquarie U, Dep Phy Ast
+7788	A1662	CCFS
+	7800	U New S Wales
+7800	155101	UNSW@ADFA
+7800	194360	U New S Wales, Inst Env Stud
+7800	A1663	U New S Wales, Ctr Cli Change Res
+7800	A1665	U New S Wales, Dep Astrop Opt
+7800	A1667	U New S Wales, Sch Phy
+	7812	U Puget Sound
+	7822	FL A&M U
+	7823	FL St U
+7823	A1062	FL St U, Dep Phy
+	7831	U S FL
+	7832	U Tampa
+	7839	Tampere U Tech
+	7856	Fairleigh Dickinson U
+	7864	ASU
+7864	200398	ASU, Dep Chem Bioch
+7864	271919	ASU, Dep Phy Ast
+7864	A1163	ASU, Sch Earth Sp Expl
+7864	A1164	ASU, Dep Geo Sci
+	7871	Indiana St U
+	7890	Lakehead U
+	7923	U Toledo, Ohio
+7923	A1326	U Toledo, Ohio, Dep Phy Ast
+	7932	U Sthrn Queensland
+	7938	U Toronto
+7938	194389	UT, Dep Phy
+7938	226216	CITA
+7938	233829	UT, Dep Ast Astrop
+7938	33530	UT, Scarborough
+7938	71637	UT, Mississauga
+7938	A1730	Mont Megantic Obs
+	7962	Ryl Ontario Mus
+	7964	Seneca Coll
+	7983	Ontario Mnstry N Dev Mines
+	7991	York U
+7991	A1733	York U, Dep Phy Ast
+7991	A1734	York U, Ctr Res Sp Terr Sci
+	8001	James Cook U
+	8002	Austr Inst Mar Sci
+	8016	U Tromso
+8016	A1303	U Tromso, Auroral Obs
+	8018	U Trondheim
+	8024	RPI
+8024	A1030	RPI, Dep App Phy Ast
+8024	A1031	RPI, Dep Phy App Phy Ast
+	8041	U Arizona
+8041	124300	U Arizona, Dep Plan Sci
+8041	164485	U Arizona, Dep Chem Bioch
+8041	165915	U Arizona, Dep Hydro Water Res
+8041	242727	U Arizona, Dep Ast Steward Obs
+8041	A1159	U Arizona, Coll Optical Sci
+8041	A1160	U Arizona, Dep Geos
+8041	A1417	ICRA
+	8050	U Tulsa
+	8058	U Turku
+8058	226341	Vaisala Inst Sp Phy Ast
+8058	226342	Tuorla Obs
+8058	226343	U Turku, Dep Phy Ast
+8058	226344	U Turku, Sp Res Lab
+	8063	U Alabama
+8063	14843	U Alabama, Huntsville
+8063	9968	U Alabama, Birmingham
+8063	A1098	U Alabama, Dep Phy Ast
+8063	A1099	U Alabama, Huntsville, Dep Phy
+	8075	Umea U 
+8075	325191	Umea U, Dep Phy 
+8075	A3017	Swedish Inst Sp Phys, Umea 
+	8080	Saginaw Valley St U
+	8082	Penn St U
+8082	183843	Penn St U, Sch Eng
+8082	250667	Penn St U, Dep Geos
+8082	43312	Penn St U, Erie Behrend Coll
+8082	52463	Penn St U, Worthington Scranton
+8082	52469	Penn St U, Lehigh Valley
+8082	52491	Penn St U, Wilkes-Barre
+8082	52527	Penn St U, Berks
+8082	97485	Penn St U, Dep Earth Sci
+8082	A1010	Penn St U, Dep Ast
+8082	A1011	Penn St U, Dep Phy
+	8083	U Miss
+	8087	Montclair St U
+	8089	Geo Surv Sweden 
+	8097	Uppsala U 
+8097	111166	Uppsala U, Dep Phy Ast 
+8097	111167	Uppsala Ast Obs 
+8097	325013	Swedish Inst Sp Phys, Uppsala 
+8097	A3013	Uppsala U, Dep Earth Sci 
+	8099	BNL
+	8101	U Illinois
+8101	14589	U Illinois, Urbana-Champaign
+8101	14681	U Illinois, Chicago
+8101	14682	U Illinois, Springfield
+	8125	U Utrecht
+8125	201225	U Utrecht, Dep Phy Ast
+8125	367844	U Utrecht, Dep Earth Sci
+8125	84481	U Utrecht, Fac Geos
+	8142	Valparaiso U
+	8166	UBC
+8166	175064	UBC, Dep Earth Sci
+8166	233825	UBC, Dep Phy Ast
+8166	97950	UBC, Okanagan
+	8177	Malardalens U
+	8191	U S Dakota
+	8205	U Victoria
+8205	A1742	U Victoria, Dep Phy Ast
+8205	A1743	U Victoria, Sch Earth Ocean Sci
+	8210	Villanova U
+8210	A1019	Villanova U, Dep Ast Astrop
+	8225	Wageningen U
+	8233	Whitman Coll
+	8243	Bentley U
+	8244	Brandeis U
+8244	A1015	Brandeis U, Dep Phy
+	8264	SI
+8264	53588	Natl Mus Nat Hist
+8264	53590	SI Air Sp Mus
+8264	61814	CfA
+8264	A1032	SAO
+8264	A1033	Whipple Obs, Mt. Hopkins
+	8315	U DC
+	8358	AAAS
+	8363	American U
+	8365	Catholic U
+8365	A1073	Catholic U, Dep Phy
+8365	A1074	Catholic U, Inst Astrop Comp Sci
+8365	A1075	Catholic U at NASA GSFC
+	8366	Gallaudet U
+	8367	George Wash U
+	8368	Georgetown U
+	8369	Howard U
+	8371	USRA
+8371	96587	LPI, Houston
+8371	A1802	Stratosph Obs IR Ast
+	8381	U.S. Dep Navy
+8381	32722	US Naval Acad
+8381	A1152	U.S. Dep Navy, NRL
+	8386	Lib Cong
+	8388	US NRC
+	8430	U Waterloo
+8430	153528	U Waterloo, Dep Earth Env Sci
+8430	153530	U Waterloo, Dep Phy Ast
+	8431	Wilfred Laurier U
+	8439	Colby Coll
+	8452	SW Oklahoma St U
+	8456	Wellesley Coll
+	8486	Natl Inst Water Atmos Res
+	8491	Victoria U Wellington
+8491	428627	Victoria U, Sch Chemical Phy Sci
+8491	A1650	Victoria U, Inst Geop
+8491	A1651	Victoria U, Dep Phy
+	8506	Bigelow Lab Ocean Sci
+	8510	W Chester U Penn
+	8517	U Hartford
+	8522	Purdue U
+8522	A1096	Purdue U, Dep Phy
+8522	A1097	Purdue U, Dep Earth Atmos Sci
+	8544	Regis Coll
+	8560	Wheaton Coll, MA
+	8562	Wheeling Jesuit U
+	8604	William Mary Coll
+	8605	Shepherd U
+	8606	Lycoming Coll
+	8609	Williams Coll
+8609	226622	Williams Coll, Dep Ast
+8609	226623	Williams Coll, Weston Obs
+	8620	UNC, Asheville
+	8637	U Windsor
+	8664	U Manitoba
+8664	A1745	U Manitoba, Dep Phy Ast
+	8665	U Winnepeg
+	8676	Wake Forest U
+	8678	Rollins Coll
+	8689	Acadia U
+	8691	U Wollongong
+	8704	Coll Wooster
+	8716	Clark U
+	8717	Coll Holy Cross
+	8718	WPI
+	8748	U York, UK
+8748	152543	U York, Dep Phy
+	8752	York Coll
+	8759	Eastrn Mich U
+8783	158085	UCLA, Dep Atmos Ocean Sci
+8783	158087	UCLA, Dep Earth Sp Sci
+8783	158089	UCLA, Dep Phy Ast
+8783	A1199	UCLA, Inst Geop Plan Phy
+8784	209674	UCSD, Dep Chem
+8784	70015	UCSD, Scripps Inst Ocean
+8784	A1196	UCSD, Ctr Astrop Sp Sci
+8784	A1197	UCSD, Dep Phy
+8786	166608	UCSB, Dep Earth Sci
+8786	A1195	UCSB, Dep Phy Ast
+8786	A1228	Las Cumbres Obs Global Tele
+8787	207028	UCSC, Dep Earth Plan Sci
+8787	A1192	UCSC, Dep Ast Astrop
+8787	A1193	UCSC, Dep Phy
+8788	A1194	UCI, Dep Phy Ast
+8789	173250	UCD, Dep Chem
+8789	198844	UCD, Dep Earth Plan Sci
+8789	240464	UCD, Dep Phy
+8790	A1191	UCR, Dep Phy Ast
+	8796	Natl U Ireland
+8796	8795	U Coll Cork
+8796	8797	U Coll Dublin
+8796	8798	Natl U Ireland Maynooth
+8796	8799	Natl U Ireland Galway
+	8807	Waterford Inst Tech
+	8808	U Limerick
+	8809	U Dublin Trinity Coll
+	8816	Galway Mayo Inst Tech
+	8818	Dublin City U
+	8819	Dublin Inst Tech
+	8820	Dublin IAS
+8820	138761	Dublin IAS, Sch Csmc Phy
+8820	311644	Dublin IAS, Theo Phy
+8820	371196	Dublin IAS, Geop
+8820	374585	Dublin IAS, Ast Astrop
+8820	82905	Dunsink Obs
+	8822	Cork Inst Tech
+	8849	St Patrick's Coll Maynooth
+	9142	Ruhr U, Bochum
+9142	153606	Ruhr U, Bochum, Dep Phy Ast
+9142	153648	Ruhr U, Bochum, Dep Geop
+9142	229942	Ruhr U, Bochum, Inst Exp Phy
+9142	234292	Ruhr U, Bochum, Inst Theo Phy
+9142	54216	Ruhr U, Bochum, Ast Inst
+	9144	Ruprecht-Karls U Heidelberg
+9144	226226	U Heidelberg, Dep Phy Ast
+9144	237039	U Heidelberg, Ctr Ast
+9144	54273	U Heidelberg, Inst Geos
+9144	68209	U Heidelberg, Inst Phy Chem
+	9147	U Regensburg
+	9149	U Stuttgart
+9149	235740	U Stuttgart, Inst Theo Phy
+9149	235782	U Stuttgart, Dep Phy
+9149	240102	U Stuttgart, Inst Sp Sci
+9149	357847	U Stuttgart, Inst Geop
+9149	84988	U Stuttgart, Inst Geod
+9149	A1501	Black Forest Obs
+	9151	Helmholtz Ass German Res Ctrs
+9151	120139	DLR, Braunschweig
+9151	14930	DLR, Cologne
+9151	163162	German Sp Agency, Bonn
+9151	249093	Helmholtz, Julich
+9151	277411	Helmholtz, Heidelberg
+9151	28332	DESY
+9151	28337	Helmholtz, Potsdam
+9151	28338	GKSS, Helmoltz
+9151	28339	Helmholtz, Darmstadt
+9151	28342	Helmholtz, Leipzig
+9151	28402	Inst Mar Res, Kiel
+9151	28414	Helmholtz,Dresden
+9151	305200	DLR, Neustrelitz
+9151	401635	Helmholtz, Hamburg
+9151	54363	Helmholtz, Berlin
+9151	84547	DLR, Berlin
+9151	84597	Alfred Wegener Inst Polar Mar Res
+9151	84646	DLR, Stuttgart
+9151	88767	DLR, Gottingen
+9151	88789	DLR, Wessling
+9151	A1481	Helmholtz, Munich
+9151	A1499	DLR, Bremen
+9151	A1504	Cen Inst Earth Phy
+9151	A1505	Helmholtz, Mainz
+	9163	Max Planck Soc Adv Sci
+9163	233528	MPI Env Sci, Garching
+9163	28264	MPI Math, Bonn
+9163	28266	MPI Radioast, Bonn
+9163	28267	MPI Mar MBio, Bremen
+9163	28269	MPI Phy Complex Sys, Dresden
+9163	28270	MPI Chem Phy Solids, Dresden
+9163	28273	MPI Biophy, Frankfurt
+9163	28278	MPIA, Garching
+9163	28279	MPIE, Garching
+9163	28280	MPI Plasma Phys, Garching
+9163	28281	MPI Quantum Opt, Garching
+9163	28282	MPI Biophy Chem, Gottingen
+9163	28283	MPI Dyn Self-Org, Gottingen
+9163	28289	MPI Metr, Hamburg
+9163	28292	Albert Einstein Inst, Hannover
+9163	28294	MPIA, Heidelberg
+9163	28297	MPI Nucl Phys, Heidelberg
+9163	28301	MPI Solar Sys Res, Lindau
+9163	28306	MPI Math Sci, Leipzig
+9163	28309	MPI Chem, Mainz
+9163	28311	MPI Bioch, Martinsried
+9163	28314	MPI Coal Res, Ruhr
+9163	28317	MPI Phys, Munich
+9163	28320	MPI Grav Phys, Potsdam
+9163	28325	MPI Int Sys, Tubingen
+9163	28326	MPI Solid St Res, Stuttgart
+9163	A1477	MP Res Group Dust Star Form Reg
+	9165	RWTH Aachen U 
+9165	234291	RWTH Aachen U, Dep Phy
+	9166	Free U Berlin
+9166	145013	Free U Berlin, Dep Geos
+9166	194002	Free U Berlin, Inst Metr
+9166	240407	Free U Berlin, Dep Phy
+9166	A1417	ICRA
+	9167	U Bielefeld
+	9168	U Bremen
+9168	229938	U Bremen, Dep Phy
+9168	240372	U Bremen, Dep Geos
+9168	371038	U Bremen, Ctr Mar Env Sci
+9168	68204	U Bremen, Ctr App Sp Tech Micrograv
+	9169	Tech U Dresden
+9169	153788	Tech U Dresden, Inst Phy
+9169	234060	Tech U Dresden, Inst Plan Geod
+	9170	U Dusseldorf
+	9171	U Erlangen-Nuremberg
+9171	374148	U Erlangen-Nuremberg, Ast Inst
+9171	54231	U Erlangen-Nuremberg, Dep Phy
+9171	54357	U Erlangen-Nuremberg, GeoCtr
+	9173	U Frankfurt
+9173	124117	U Frankfurt, Dep Geos
+9173	236209	U Frankfurt, Inst App Phy
+9173	426449	U Frankfurt, Dep Phy
+9173	54239	U Frankfurt, Inst Nucl Phy
+9173	A1475	U Frankfurt, Inst Theo Phy
+9173	A1476	U Frankfurt, Inst Adv Stud
+	9174	U Freiburg
+9174	234494	U Freiburg, Inst Geos
+9174	236182	U Freiburg, Inst Phy
+	9176	U Halle
+	9178	U Kassel
+	9179	U Kiel
+9179	243411	U Kiel, Inst Geos
+9179	28402	Inst Mar Res, Kiel
+9179	A1496	U Kiel, Inst Theo Phy Astrop
+9179	A1497	U Kiel, Inst Exp App Phy
+9179	A1498	U Kiel, Inst Pure App Nucl Phy
+	9180	U Leipzig
+9180	399752	U Leipzig, Dep Phy Geos
+	9182	U Mainz
+9182	54298	U Mainz, Inst Geop
+9182	54302	U Mainz, Inst Nucl Phy
+9182	54303	U Mainz, Inst Phy
+	9183	U Munich
+9183	130455	U Munich, Dep Phy
+9183	88809	U Munich, Dep Geos
+9183	A1474	U Munich, Inst Ast Astrop
+9183	A1478	Excel Cluster Uni
+	9184	Munich U Tech
+9184	84665	Munich U Tech, Dep Phy
+9184	A1478	Excel Cluster Uni
+9184	A1479	Munich U Tech, Inst Ast Phy Geod
+9184	A1482	DGFI
+	9185	U Munster
+9185	123967	U Munster, Inst Nucl Phy
+9185	234061	U Munster, Inst Planetology
+9185	68212	U Munster, Inst Phy
+9185	72112	U Munster, Inst Geop
+9185	A1494	U Munster, Inst Ast
+	9186	U Osnabruck
+	9187	U Rostock
+9187	28388	Leibniz Inst Atmos Phy
+9187	28389	Leibniz Inst Baltic Sea Res
+	9188	U Tubingen
+9188	54348	U Tubingen, Theo Astrop
+9188	68216	U Tubingen, Inst App Phy
+9188	68217	U Tubingen, Ast Inst
+9188	68218	U Tubingen, Inst Phy
+9188	88815	U Tubingen, Dep Geop
+	9189	U Ulm
+	9190	U Wurzburg
+	9191	U Lubeck
+	9275	U Giessen
+	9289	ISS, Ital Natl Inst Health
+	9294	Tech U Marche
+	9295	U Bari
+9295	117063	CNR, Bari
+9295	274275	U Bari, Dep Phy
+	9296	U Bologna
+9296	119634	INAF, Ast Obs Bologna
+9296	224925	U Bologna, Dep Phy Ast
+9296	321184	IRA, Bologna
+	9297	U Brescia
+	9298	U Catania
+9298	315036	U Catania, Dep Phy Ast
+9298	53294	INAF, Ast Obs Catania
+	9299	U Ferrara
+9299	198795	U Ferrara, Dep Phy
+9299	A1417	ICRA
+	9300	U Florence
+9300	119636	CNR, Florence
+9300	154991	U Florence, Dep Phy
+9300	56860	INAF, Ast Obs Arcetri
+9300	A1386	U Florence, Dep Ast Sp Sci
+	9301	G. D'Annunzio U Chieti-Pescara
+9301	A1398	IRSPS
+9301	A1417	ICRA
+	9302	U Genoa
+9302	276249	U Genoa, Dep Phy
+	9303	U L'Aquila
+9303	201850	U L'Aquila, Dep Phy
+	9304	U Milan
+9304	117007	CNR, Milan
+9304	150787	U Milan, Dep Phy
+9304	53284	INAF, Ast Obs Brera, Milan
+9304	87972	U Milan, Dep Earth Sci
+9304	A1383	IASF, Inst Csmc Phys, Milan
+	9305	U Milan-Bicocca
+9305	331097	U Milan-Bicocca, Dep Phy
+	9306	U Modena
+	9307	U Naples
+9307	154931	U Naples, Dep Phy
+9307	53291	INAF, Ast Obs Capodimonte
+9307	98793	U Naples, Complesso U di Monte Sant'Angelo
+	9308	U Padua
+9308	117059	CNR, Padua
+9308	224983	INAF, Ast Obs Padua
+9308	228710	U Padua, Dep Phy Ast
+	9309	U Perugia
+9309	225037	U Perugia, Dep Phy
+9309	A1392	U Perugia, Ast Obs
+	9310	U Pisa
+9310	117066	ISTI, Pisa
+9310	419161	U Pisa, Dep Phy
+	9311	Sapienza U, Rome
+9311	124238	Sapienza U, Dep Earth Sci
+9311	154899	Sapienza U, Dep Phy
+9311	154900	Sapienza U, Dep Chem
+9311	246694	IAPS, Rome
+9311	312480	Sapienza U, Dep Aero Sci
+9311	A1375	Sapienza U, Ast Inst
+9311	A1411	IGAG, Rome
+9311	A1417	ICRA
+	9312	U Sassari
+	9313	U Siena
+9313	154896	U Siena, Dep Phy Earth Sci
+	9314	U Torino
+9314	111640	CNR, Torino
+9314	274286	U Torino, Dep Phy
+9314	56869	INAF, Ast Obs Torino
+	9315	U Trieste
+9315	18473	ICTP, Abdus Salam Intl Ctr Theo Phy
+9315	243302	U Trieste, Dep Phy Ast
+9315	53287	INAF, Ast Obs Trieste
+	9316	U Udine
+	9317	Campus Bio-Medico U
+	9318	Tor Vergata U, Rome
+9318	96981	CNR, Tor Vergata
+9318	A1377	Tor Vergata U, Dep Phy
+9318	A1378	Tor Vergata U, Dep Ast
+	9327	CNR
+9327	111640	CNR, Torino
+9327	117007	CNR, Milan
+9327	117059	CNR, Padua
+9327	117060	IFSI, Rome
+9327	117063	CNR, Bari
+9327	117064	IGG, Pavia
+9327	117066	ISTI, Pisa
+9327	119634	INAF, Ast Obs Bologna
+9327	119636	CNR, Florence
+9327	124224	ISMAR, Venice
+9327	124228	ISAC, Bologna
+9327	124247	CNR, Perugia
+9327	231873	CNR, Genoa
+9327	246694	IAPS, Rome
+9327	321184	IRA, Bologna
+9327	366607	INFM
+9327	368062	CNR, Venice
+9327	368728	IPCF, Rende
+9327	428768	CSCC
+9327	56859	CNR, Bologna
+9327	56860	INAF, Arcetri
+9327	96974	CNR, Inst App Math, Rome
+9327	96981	CNR, Tor Vergata
+9327	96982	IMAA, Potenza
+9327	A1379	Interuniv Cons Sp Phy
+9327	A1380	TeSRE, Bologna
+9327	A1383	IASF, Milan
+9327	A1384	CSFNSM, Catania
+9327	A1406	IAS, Frascati
+9327	A1410	IMIP, Rome
+9327	A1411	IGAG, Rome
+	9370	U Parma
+	9373	U Berlin
+9373	234383	U Berlin, Inst Phy
+9373	54206	Mus Nat Hist, Berlin
+	9374	U Bonn
+9374	234384	U Bonn, Dep Phy Ast
+9374	234385	U Bonn, Bethe Ctr Phy
+9374	240406	U Bonn, Inst Rad Nucl Phy
+9374	243270	U Bonn, Inst App Phy
+9374	54217	U Bonn, Argelander Inst Ast
+	9375	U Gottingen
+9375	229941	U Gottingen, Inst Astrop
+9375	232031	U Gottingen, Ctr Geop
+9375	236201	U Gottingen, Inst Phy
+	9376	U Magdeburg
+	9377	U Marburg 
+	9378	U Jena
+9378	232660	U Jena, Dep Phy Ast
+9378	232661	U Jena, Astrop Inst
+9378	399410	U Jena, Inst Geos
+	9379	U Saarland
+	9917	Natl Phy Lab, UK
+	9980	Atom En Can
+	10209	Ryl Dutch Inst Sea Res
+	10236	Anglo Amer Plc
+10236	347078	Anglo Amer Res Lab
+	10627	WHOI
+10627	A1803	MIT/WHOI Jt Prog Ocean
+	10645	Emmanuel Coll
+	10647	Olin Coll Eng
+	10648	New Coll FL
+	10684	Metro St U Denver
+	10691	Palomar Coll
+	10833	NIST
+10833	A1219	NIST, Boulder
+	10939	US Nuc Reg Comm
+	10953	NSF
+10953	212145	AUI
+	11233	Oldenuerg
+	11239	UAE U
+	11240	Diego Portales U
+	11248	Chalmers U Tech 
+11248	376165	Chalmers U, Dep Earth Sp Sci 
+11248	69666	Onsala Sp Obs 
+11248	A3011	Chalmers U, Dep Ast Astrop 
+	11303	Norweg Polar Inst
+	11321	CSC, IT Ctr Sci
+	11341	Amer U Cairo
+	11361	UK Atom En Auth
+	11365	Met Office, UK
+	11377	Irish Met Svc
+	11381	Geo Surv Ireland
+11414	A1178	U Alaska, Fairbanks, Geop Inst
+11414	A1179	U Alaska, Fairbanks, Arctic Res Ctr
+	11436	Freshwater Biol Ass, UK
+	11466	Ryl Ast Soc
+	11469	Ryl Inst Great Britain
+	11609	Stonyhurst U
+12226	397757	U Colo, Denver, Dep Phy
+	12265	UMD, Baltimore
+12265	A1044	Jt Ctr Astrop, UMD, Baltimore
+12265	A1045	CRESST
+12265	A1046	GEST, UMD, Baltimore
+12329	A1133	U TX, Arlington, Dep Phy
+12330	171771	U TX, Austin, Dep Geo Sci
+12330	225420	U TX, Austin, Ctr Sp Res
+12330	374722	U TX, Austin, Dep Ast
+12330	A1130	U TX, Austin, Dep Phy
+12331	A1134	U TX, Brownsville, Dep Phy Ast
+12335	A1131	U TX, Dallas, Dep Phy
+12335	A1132	U TX, Dallas, Ctr Sp Sci
+12337	A1137	U TX, El Paso, Dep Phy
+12346	A1136	U TX, San Antonio, Dep Phy Ast
+	12377	Zhejiang U
+	12378	China Geo Surv
+	12379	Capital Normal U, Beijing
+	12381	CAS
+12381	53037	CAS, Shenyang
+12381	53038	CAS, Changchun
+12381	53039	CAS, Shanghai
+12381	53040	CAS, Heifi Inst Phy Sci
+12381	53041	CAS, Wuhan
+12381	53042	CAS, Guangzhou
+12381	53043	CAS, Chengdu
+12381	53044	CAS, Xinjiang
+12381	53045	CAS, Lanzhou
+12381	85384	CAS, Nanjing
+12381	85415	CAS, Beijing
+12381	85425	CAS, Kunming
+12381	85429	CAS, Xian
+	12388	Guangxi Normal U
+	12389	Wuhan U
+	12392	China U Min Tech
+	12394	E China Inst Tech
+	12399	Dalian U Tech
+	12402	Shenyang Normal U
+	12404	S Cen U Natlities
+	12407	State Ocean Admin, China
+12407	177486	Polar Res Inst China
+12407	420009	Natl Mar Env For Ctr, China
+	12410	Shijiazhuang U Econ
+	12411	Henan U
+	12412	Changzhou U
+	12413	Jinan U
+	12416	Hunan U Arts Sci
+	12418	Changsha U Sci Tech
+	12419	Chongqing U Posts Telecom
+	12421	Dalian Maritime U
+	12423	Fuzhou U
+	12425	Fujian Normal U
+	12426	Lanzhou U
+	12428	Harbin Eng U
+	12434	Northeastern U, China
+	12435	NW Normal U
+	12436	Nanjing U Sci Tech
+	12440	Liaoning U
+	12441	Shanxi U
+	12442	Tsinghua U
+12442	A1571	Tsinghua U, Ctr Astrop
+	12446	Huazhong Normal U
+	12462	Hohai U
+	12465	PKU
+12465	327249	PKU, Sch Phy
+12465	420740	PKU, Sch Earth Sp Sci 
+12465	A1562	PKU, Beijing Astrop Ctr
+12465	A1565	Kavli Inst Ast Astrop
+	12466	Xiamen U
+	12470	Chin Acad Social Sci, Beijing
+12470	105734	Chin Acad Sci Grad U
+	12474	Shanghai Jiaotong U
+	12476	Tongji U
+	12478	Fudan U
+	12479	Xian U Tech
+	12480	Xian Jiaotong U
+	12487	Anhui U
+	12496	Beijing U Tech
+	12507	U Sci Tech, Beijing 
+	12510	Jilin U
+	12514	Anhui Normal U
+	12518	Hunan U Sci Tech
+	12523	Tianjin Normal U
+	12526	S China Agr U
+	12530	Sichuan U
+	12534	Nanjing Normal U
+	12538	Nankai U
+	12544	Shanghai Normal U
+	12561	Henan Poly U
+	12563	Hubei U
+	12564	China U Geos, Wuhan
+	12565	Wuhan U Tech
+	12568	Hunan Normal U
+	12569	Hunan U
+	12570	Cen S U
+	12571	Cen S U Forestry Tech
+	12575	Hunan Agr U
+	12576	Inner Mongolia U
+	12579	Southeast U
+	12581	Nanjing U
+12581	A1568	Nanjing U, Dep Ast
+12581	A1569	Nanjing U, Dep Phy
+12581	A1570	Nanjing U, Dep Earth Sci
+	12582	Soochow U
+	12589	Shandong U
+12589	154528	Shandong U Weihai
+	12591	Ocean U China
+	12593	Qingdao U
+	12599	U Elec Sci Tech
+	12604	Chin Acad Eng Phy
+12604	71037	Inst App Phy Comp Math, Beijing
+	12605	Tianjin U
+	12606	Hebei U Tech
+	12624	Zhejiang U Tech
+	12626	Hangzhou Dianzi U
+	12633	Beihang U Aero Astnau
+	12635	Yunnan U
+	12636	Zhengzhou U
+	12651	China Elec Tech Group Corp
+12651	124162	China Res Inst Rad Wave Prop
+	12652	U Sci Tech China
+12652	A1563	U Sci Tech China, Dep Ast
+12652	A1564	U Sci Tech China, Dep Earth Sp Sci
+	12655	E China Normal U, Shanghai
+	12657	Northwest U
+	12663	China Aero Sci Tech Corp
+12663	118153	China Acad Sp Tech
+	12664	Guangxi U
+	12665	Xiangtang U
+	12676	Jiangsu U
+	12682	Yantai U
+	12683	Jimei U
+	12686	Guizhou Normal U
+	12687	Bohai U
+	12695	Fujita Health U
+	12696	Ritsumeikan U
+	12698	Aoyama Gakuin U
+12698	A1600	Aoyama Gakuin U, Dep Phy
+	12700	Aichi U Educ
+	12707	Aichi U
+	12709	Aichi U Tech
+	12712	Akita U
+	12716	Aomori U
+	12718	Asahikawa Coll Tech
+	12720	Asahi U
+	12737	Chiba U
+12737	A1633	Chiba U, Dep Phy
+	12740	Chubu U
+	12744	U Hyogo
+	12745	Chukyo U
+	12751	Tokyo Denki U
+	12754	Hokkaido Info U
+	12755	Dokkyo U
+	12757	Doshisha U
+	12760	Ehime U
+12760	A1637	Ehime U, Res Ctr Sp Csmc Ev
+12760	A1638	Ehime U, Dep Earth Sci
+12760	A1639	Ehime U, Dep Phy
+	12772	Fukuoka U Educ
+	12774	Fukuoka U
+	12776	Fukushima U
+	12780	Gakushuin U
+	12785	Gifu U
+	12794	Nihon Fukushi U
+	12794	Nippon Fukushi U
+	12800	Hirosaki U
+	12801	Hiroshima City U
+	12803	Hiroshima U
+12803	427258	Hiroshima U, Dep Phy
+12803	A1631	Hiroshima U, Astrop Sci Ctr
+12803	A1632	Hiroshima U, Dep Earth Plan Sci
+	12804	Hitotsubashi U
+	12808	Hokkai Gakuen U
+	12810	Hokkaido U
+12810	A1610	Hokkaido U, Dep Earth Plan Sci
+12810	A1611	Hokkaido U, Dep Phy
+12810	A1612	Hokkaido U, Inst Seis Volc
+12810	A1613	Hokkaido U, Inst Cosmosc
+	12814	Hosei U
+	12817	Hyogo U
+	12818	Hyogo Coll Med
+	12819	Ibaraki U
+12819	A1634	Ibaraki U, Inst Astrop Plan Sci
+	12823	Intl Christian U
+	12826	Kyushu Sangyo U
+	12829	Chiba Inst Tech
+	12833	Iwate Medical U
+	12836	Iwate U
+	12845	Joetsu U Educ
+	12849	Japan Women's U
+	12850	Kagawa U
+	12851	Kagoshima U
+12851	A1641	Kagoshima U, Dep Phy Ast
+	12852	Kanagawa Inst Tech
+	12853	Kanagawa U
+	12856	Kanazawa Inst Tech
+	12858	Kanazawa U
+12858	300662	Kanazawa U, Sch Nat Sci Tech
+12858	A1635	Kanazawa U, Dep Earth Sci
+12858	A1636	Kanazawa U, Dep Phy
+	12860	Kansai U
+	12867	Kyoto City U Arts
+	12869	Keio U
+	12872	Kinki U
+	12875	Kyoto Inst Tech
+	12877	Kitasato U
+	12879	Kibi Intl U
+	12885	Kobe U
+12885	A1596	Kobe U, Ctr Plan Sci
+12885	A1597	Kobe U, Dep Phy
+	12888	Kochi U
+	12892	Kokugakuin U
+	12893	Kokushikan U
+	12907	Kwansei Gakuin U
+	12915	Kyoto Gakuen U
+	12916	Kyoto Pharm U
+	12918	Kyoto U
+12918	198755	Kyoto U, Inst Geoth Sci
+12918	234959	Kyoto U, Dep Earth Plan Sci
+12918	68336	Kyoto U, Dep Phy Ast
+12918	73804	Kyoto U, Dis Prev Res Inst
+12918	88362	Kyoto U, Inst Sust Humanosphere
+12918	A1581	Kyoto U, Yukawa Inst Theo Phy
+12918	A1582	Kyoto U, Dep Geop
+12918	A1583	Kyoto U, Hida Kwasan Obs
+12918	A1584	Kyoto U, Ctr Sp Stud
+12918	A1585	Kyoto U, Rad Atmos Sci Ctr
+	12919	Kyoto Women's U
+	12923	Kyushu U
+12923	A1622	Kyushu U, Dep Earth Plan Sci
+12923	A1623	Kyushu U, Sp Env Res Ctr
+12923	A1624	Kyushu U, Dep Phy
+	12924	Kyushu U Tech
+	12925	Gunma U
+	12930	Matsue Natl Coll Tech
+	12936	Osaka City U
+	12938	Shimane U
+	12939	Meiji U
+	12940	Meiji Gakuin U
+	12942	Meijo U
+	12944	Tokyo Metro U
+12944	A1625	Tokyo Metro U, Dep Phy
+	12946	Mie U
+	12948	Miyagi U Educ
+	12952	Miyazaki U
+	12961	Nagasaki U
+	12963	Nagoya City U
+	12965	Nagoya U
+12965	198771	Nagoya U, Solar Terr Env Lab
+12965	318751	Nagoya U, Dep Earth Env Stud
+12965	A1593	Nagoya U, Dep Phy Astrop
+12965	A1594	Nagoya U, Inst Origin Part Uni
+	12967	Nara Medical U
+	12969	Nara Women's U
+	12970	Naruto U Educ
+	12976	Nihon U
+	12978	Niigata U
+	12982	Nagoya Inst Tech
+	12992	Ochanomizu U
+	12995	Oita U
+	12997	Okayama U
+12997	133691	Okayama U, Inst Study Ear Int
+	13003	Meisei U
+	13004	Osaka Elec-Comm U
+	13007	Osaka Gakiun U
+	13009	Osaka Kyoiku U
+	13011	Osaka Sangyo U
+	13013	Osaka U
+13013	A1586	Osaka U, Dep Earth Sp Stud
+13013	A1587	Osaka U, Res Ctr Nucl Phy
+13013	A1588	Osaka U, Dep Phy
+13013	A1589	Osaka U, Inst Laser Eng
+	13019	Okayama U Sci
+	13022	Rakuno Gakuen U
+	13024	Rikkyo U
+13024	A1621	Rikkyo U, Dep Phy
+	13025	Rissho U
+	13027	Ryukoku U
+	13030	Saga U
+	13032	Saitama U
+	13033	Hokkaido U Educ
+	13038	Musashi U
+	13045	Senshu U
+	13052	Shiga U
+	13056	Shinshu U
+	13063	Shumei U
+	13065	Saitama Inst Tech
+	13070	Sophia U
+	13075	Kobe Women's U
+	13088	Takushoku U
+	13089	Tamagawa U
+	13094	Teikyo U
+	13097	Tokyo U Tech
+	13100	Tokyo Med Dental U
+	13101	Tohoku U
+13101	221508	Tohoku U, Dep Earth Sci
+13101	427701	Tohoku U, Dep Phy
+13101	84063	Tohoku U, Inst Mat Res
+13101	A1579	Tohoku U, Ast Inst
+13101	A1580	Tohoku U, Dep Geos
+	13103	Toho U
+	13104	Tohoku Inst Tech
+	13107	Tokiwa U
+	13109	Tokushima U
+	13114	Tottori U
+	13115	Tokyo U Pharm Life Sci
+	13117	Toyo U
+	13120	Tsuda Coll
+	13121	U Tsukuba
+13121	A1603	U Tsukuba, Dep Phy
+13121	A1604	U Tsukuba, Dep Geos
+	13122	Tsuru U
+	13125	Tokyo U Agr
+	13130	Tokyo Woman's Christian U	
+	13132	Aizu U
+	13133	U Elec-Comm
+	13135	Tokyo Gakugei U
+	13137	U Occupation Env Health
+	13140	Shizuoka U
+	13141	Shiga Pref U
+	13142	Tokai U
+13142	52762	Kyushu Tokai U
+13142	A1626	Tokai U, Dep Phy
+	13143	U Tokyo
+13143	105219	U Tokyo, Grad Sch Frontier Sci
+13143	111073	U Tokyo, Inst Ast
+13143	133696	U Tokyo, Inst Csmc Ray Res
+13143	133718	U Tokyo, Dep Phy
+13143	133719	U Tokyo, Dep App Phy
+13143	234975	U Tokyo, Dep Earth Plan Env Sci
+13143	305779	U Tokyo, Dep Ast
+13143	98988	U Tokyo, Earthquake Res Inst
+13143	A1616	U Tokyo, Dep Earth Sci Ast
+13143	A1617	U Tokyo, Kavli Inst Phy Math Uni
+13143	A1618	U Tokyo, Res Ctr Early Uni
+13143	A1619	U Tokyo, Atmos Ocean Res Inst
+13143	A1620	U Tokyo, Ctr Nucl Study
+13143	A1621	U Tokyo, Ctr Cli Sys Res
+13143	A1622	U Tokyo, Dep Geo Sci
+13143	A1627	U Tokyo, Geop Inst
+	13144	Utsunomiya U
+	13146	Wakayama U
+	13148	Waseda U
+13148	214339	Waseda U, Adv Res Inst Sci Eng
+13148	A1609	Waseda U, Dep Phy Ast
+	13149	Yamagata U
+	13150	Yamaguchi U
+	13153	Yamanashi Gakuin U
+	13154	Yokohama Natl U
+	13155	Yokohama City U
+	13160	Akita Jr U
+	13177	Grad U Adv Stud
+13177	A1578	Grad U Adv Stud, Dep Ast Sci
+13177	A1601	Grad U Adv Stud, Dep Sp Astnau Sci
+13177	A1602	Grad U Adv Stud, Dep Part Nucl Phy
+	13187	Open U Japan
+	13192	Kagoshima Natl Coll Tech
+	13202	Konan U
+	13205	Kumamoto U
+	13218	Keizai U
+	13221	Nara Pref U
+	13251	Saitama Pref U
+	13284	Tohoku Gakuin U
+	13290	Tokyo Inst Tech, Ookayama
+13290	374360	Tokyo Inst Tech, Dep Phy
+13290	A1614	Tokyo Inst Tech, Dep Earth Plan Sci
+	13295	Tokyo Metro Coll Indus Tech
+	13299	Tsuroka Natl Coll Tech
+	13307	Yamagata Women's Jr Coll
+	13311	Osaka Pref U
+	13312	Nara U Educ
+	13313	Osaka U Health Sports Sci
+	13314	Natl Def Acad
+	13317	Muroran Inst Tech
+	13329	Cen Res Inst Elec Power Indus
+	13501	Japan Sci Tech Agency
+	13506	NICT
+13506	119127	NICT, Sp Res Ctr
+13506	A1592	Rad Res Lab
+	13508	Natl Inst Adv Indus Sci Tech, Sansoken
+13508	119882	Natl Inst Adv Indus Sci Tech, Geo Surv Japan
+13508	73459	Natl Inst Adv Indus Sci Tech, Tsukuba
+	13514	Intl Res Ctr Japan Stud, Kyoto
+	13520	Natl Inst Radiol Sci
+	13532	Res Org Info Sys
+13532	13507	Inst Stat Math
+13532	13513	Natl Inst Info
+	13534	Natl Building Res Inst
+	13551	KEK, Hi En Acc Res Org
+	13554	NIPR
+	13557	JAXA
+13557	133622	JAXA, Inst Sp Astnau Sci
+13557	222895	JAXA, Earth Obs Res Ctr
+13557	A1599	JAXA, Aero Res Dev Directorate
+	13570	JAMSTEC
+13570	133695	JAMSTEC, Kochi Inst Core Sample Res
+13570	A1605	JAMSTEC, Inst Res on Earth Evolution
+13570	A1606	JAMSTEC, Ctr Deep Earth Expl
+13570	A1607	JAMSTEC, Earth Simulator Ctr
+13570	A1608	JAMSTEC, Frontier Res Ctr Global Change
+	13585	NIES
+	13588	Natl Mus Nature Sci, Japan
+	13589	Natl Inst Agro Env Stud, Japan
+	13592	NINS, Japan
+13592	52752	NAOJ, Japan
+13592	A1595	Natl Inst Mol Sci, Japan
+	13593	RIKEN, Japan
+13593	375236	RIKEN, Inst Phy Chem Res
+13593	A1590	RIKEN, Astrop Lab
+13593	A1591	RIKEN, Csmc Rad Lab
+13593	A1642	JASRI, Japan 
+	13913	Ashikaga Inst Tech
+	14309	U Cologne
+14309	199858	U Cologne, Inst Theo Phy
+14309	240183	U Cologne, Inst Geop
+14309	54290	U Cologne, Inst Phy
+14309	A1495	U Cologne, Inst Plan Res
+	14311	Tech U Dortmund
+	14312	U Siegen
+14589	A1121	U Illinois, Dep Ast
+14589	A1122	U Illinois, NCSA
+14589	A1123	U Illinois, Dep Phy
+14589	A1124	U Illinois, Dep Geol
+	14616	UNC, Greensboro
+	14621	UNC, Wilmington
+	14643	Baylor U
+14643	A1339	Baylor U, Ctr Astrop Sp Phy Eng Res 
+	14654	U Guanajuato
+14654	113847	U Guanajuato, Inst Phy
+14654	A1723	U Guanajuato, Dep Ast
+	14655	U Chile
+14655	111299	U Chile, Dep Ast
+14655	124147	Natl Ast Obs, Chile
+14655	419962	U Chile, Dep Geop
+14655	A1711	U Chile, Dep Phy
+	14658	U Arkansas, Little Rock
+14658	A1105	U Arkansas, Little Rock, Dep Phy
+14658	A1106	U Arkansas, Little Rock, Ctr Sp Plan Sci
+	14660	U Arkansas, Pine Bluff
+	14684	Indiana U, Kokomo
+	14686	Indiana U, S Bend
+	14719	U Nebraska, Lincoln
+14719	A1109	U Nebraska, Lincoln, Dep Phy Ast
+	14720	U Nebraska, Omaha
+14722	A1176	U Nevada, Las Vegas, Dep Phy Ast
+	14727	UNC, Charlotte
+14736	168601	TX A&M U, Coll Station, Dep Phy Ast
+14736	171873	TX A&M U, Coll Station, Dep Geol Geop
+14751	A1128	U Wisc, Milwaukee, Ctr Grav Cosmo Astrop
+14751	A1129	U Wisc, Milwaukee, Dep Phy
+	14915	U Hamburg
+14915	153609	U Hamburg, Dep Phy
+14915	417737	U Hamburg, Inst Theo Phy
+14915	54264	U Hamburg, Hamburg Obs
+14915	A1500	U Hamburg, Inst Exp Phy
+	15550	Janes Hutton Inst
+	15585	Sci Tech Fac Council
+15585	42207	Ryl Obs Edinburgh
+15585	97008	RAL
+	15618	Georgia Coll St U
+	15619	Edinboro U
+	15663	Utica Coll
+	16345	U San Pablo, Spain
+	16379	CSIC
+16379	120422	CAB, Madrid
+16379	16625	Mus Nat Sci, Madrid
+16379	172281	ICFO, Barcelona
+16379	172283	Inst Phys, Cantabria
+16379	203227	IFT, Madrid
+16379	317277	IEEC, Catalona
+16379	54341	Inst Mar Sci, Barcelona
+16379	54395	Inst Sp Sci, Barcelona
+16379	54399	CEAB, Blanes
+16379	54408	Inst Fisica Corp, Valencia
+16379	54412	Inst Astrop Andalusia
+16379	54435	Ebro Obs
+16379	54445	Inst Earth Sci Andalusia
+16379	54456	INTA
+16379	59540	IEM, Madrid
+16379	73054	Inst Earth Sci, Barcelona
+16379	73080	Inst Geop Andalusia
+16379	82825	Inst Microelectr, Barcelona
+16379	83098	IPNA, Inst Prod Nates y Agrob
+16379	A1316	IFAE, Barcelona
+16379	A1320	IAG, Madrid
+16379	A1324	LAEFF
+16379	A1325	IMFP, Madrid
+16379	A1336	CEFCA, Ctr Res Astrop Cosmo, Aragon
+	16402	U Basque Country
+16402	A1331	U Basque Country, Dep Phy
+	16532	Inst Catalan Stud
+	16535	Span Inst Ocean
+	16541	Span Inst Geol Min
+	16718	U Alacant
+	16719	Auton U Barcelona
+16719	172281	ICFO, Barcelona
+16719	317277	IEEC, Inst Sp Stud, Catalona
+16719	54341	Inst Mar Sci, Barcelona
+16719	54395	Inst Sp Sci, Barcelona
+16719	73054	Inst Earth Sci, Barcelona
+16719	82825	Inst Microelectr, Barcelona
+16719	A1316	IFAE, Barcelona
+	16720	U Alcala
+	16721	U Almeria
+	16722	Auton U Madrid
+16722	A1322	Auton U Madrid, Dep Phy
+	16724	U Barcelona
+16724	117370	ICREA
+16724	203269	Catalan Inst Cli Sci
+16724	223309	U Barcelona, Dep Phy
+16724	317277	IEEC, Catalona
+16724	368914	U Barcelona, Dep Ast Metr
+16724	54341	Inst Mar Sci, Barcelona
+16724	54395	Inst Sp Sci, Barcelona
+16724	73054	Inst Earth Sci, Barcelona
+16724	A1329	ICC, Barcelona
+	16725	U Burgos
+	16726	U Madrid
+16726	203227	IFT, Madrid
+	16727	U Cadiz
+	16733	U Castilla-La Mancha
+	16734	Complutense U Madrid
+16734	213131	Complutense U Madrid, Dep Phy
+16734	A1320	Inst Ast Geop, Madrid
+16734	A1323	Complutense U Madrid, Dep Ast
+	16735	U Cordoba
+	16737	U Coruna
+	16738	U Girona
+	16739	U Lleida
+	16740	Euro U Madrid
+	16741	U Granada
+16741	73080	Andalusian Inst Geop
+16741	A1317	U Granada, Dep Phy
+	16743	U Huelva
+	16745	U Balearic Islands
+16745	A1334	Ast Obs Mallorca
+	16747	U Jaen
+16747	A1332	U Jaen, Dep Phy
+	16748	Jaume I U
+	16749	U La Laguna
+16749	223323	U La Laguna, Dep Phy
+16749	A1308	U La Laguna, Dep Astrop
+16749	A1309	IAC
+	16750	U Las Palmas
+	16751	U Murcia
+	16752	U Malaga
+	16753	U Miguel Hernandez Elche
+	16754	Public U Navarra, Pamplona
+	16757	Natl U Distance Educ
+	16759	U Extremadura
+	16760	Intl U Catalunya
+	16761	U Cantabria
+16761	172283	Inst Phys, Cantabria
+	16763	U Oviedo
+	16764	U La Rioja
+	16765	U Zaragoza
+	16767	Tech U Catalona
+16767	A1328	Tech U Catalona, Dep Phy
+	16769	Tech U Cartagena
+	16771	Tech U Madrid
+	16774	Tech U Valencia
+	16776	King Juan Carlos U, Madrid
+	16777	U Rovira Virgili
+	16778	U Sevilla
+	16779	U Salamanca
+	16780	U Santiago Compostela
+	16781	U Valencia
+16781	54408	Inst Fisica Corp, Valencia
+16781	A1318	U Valencia, Dep Ast Astrop
+16781	A1319	U Valencia, Dep Phy
+	16782	U Valladolid
+	16784	U Vigo
+	17046	Mt San Antonio Coll
+	17067	City Coll San Francisco
+	17104	WMO
+	17157	DARPA
+	17212	Idaho Natl Lab
+	17221	Thomas Jeff Natl Acc Fac
+	17942	Ital Mnstry Educ Univ Res
+	18114	ENEA
+	18251	INFN
+18251	111222	INFN, Ferrara
+18251	119608	INFN, Trieste
+18251	124218	INFN, Catania
+18251	154896	U Siena, Dep Phy Earth Sci
+18251	154899	Sapienza U, Dep Phy
+18251	18258	INFN, Legnaro
+18251	18473	ICTP, Abdus Salam Intl Ctr Theo Phy
+18251	201836	INFN, Lecce
+18251	226477	INFN, Trento
+18251	385891	U Salerno, Dep Phy
+18251	388422	Roma Tre U, Dep Math Phy
+18251	415682	INFN, Pisa
+18251	97028	INFN, Frascati
+18251	97029	Ital Natl Lab South, Catania
+18251	97030	INFN, Gran Sasso Natl Lab, L'Aquila
+18251	A1377	Tor Vergata U, Dep Phy
+18251	A1387	INFN, Florence
+18251	A1388	INFN, Torino
+18251	A1389	INFN, Genoa
+18251	A1393	INFN, Perugia
+18251	A1396	INFN, Cosenza
+18251	A1401	INFN, Pavia
+18251	A1403	INFN, Bologna
+18251	A1404	INFN, Milan
+18251	A1405	INFN, Cagliari
+18251	A1407	INFN, Bari
+18251	A1408	INFN, Padua
+18251	A1409	INFN, Naples
+	18313	INGV
+18313	119630	INGV, Catania
+18313	119651	INGV, Palermo
+18313	120343	INGV, Bologna
+18313	124221	INGV, Milan
+18313	18312	INGV, Naples
+18313	A1391	INGV, Pisa
+	18443	OGS, Natl Inst Ocean Exp Geop
+	18726	Ital Air Force
+	18951	Tech U Bari
+	18952	U Sannio
+	18953	U Bergamo
+	18956	U Bolzano
+	18959	U Camerino
+	18960	U Molise
+	18962	U Cassino
+	18975	U Salento
+18975	208962	U Salento, Dep Phy
+	18980	U Messina
+	18981	Tech U Milan
+	18993	Parthenope U Naples
+	18994	Second U Naples
+	18998	U Palermo
+18998	325565	U Palermo, Dep Phy
+18998	53286	INAF, Ast Obs Palermo
+	19001	U Pavia
+19001	117064	IGG, Pavia
+19001	124251	U Pavia, Dep Earth Sci
+19001	18329	IUSS, Scuola Sup, Pavia
+19001	A1400	U Pavia, Dep Phy
+	19004	Scuola Normale Sup, Pisa
+	19006	U Basilicata
+19006	96982	IMAA, Potenza
+	19009	U Calabria
+19009	A1395	U Calabria, Dep Phy
+	19012	Roma Tre U
+19012	388422	Roma Tre U, Dep Math Phy
+	19028	U Salerno
+19028	385891	U Salerno, Dep Phy
+	19031	U Teramo
+19031	119621	INAF, Ast Obs Teramo
+	19032	Tech U Torino
+	19034	U Trento
+19034	A1394	U Trento, Dep Phy
+	19040	SISSA, Intl Sch Adv Stud
+19040	A1385	SISSA, Astrop Sect
+	19044	U Urbino
+	19045	U Insubria
+19045	189767	U Insubria, Dep Phy
+	19047	U Ca Foscari
+	19050	U Eastrn Piemonte
+	19051	U Verona
+	19054	U Tuscia
+	25795	Chin Cult U, Taiwan
+	25809	U Hong Kong
+25809	A1574	U Hong Kong, Dep Phy
+	26248	U Ryukyus
+	26274	Gunma Natl Coll Tech
+	26300	JAEA
+26300	50169	JAEA, Tono Geos Ctr
+26300	A1642	JASRI
+	26336	Kyoto Sangyo U
+	26412	Tokyo U Mar Sci Tech
+	26423	Fukui U
+	26451	Chin U Hong Kong
+	26462	Natl Inst Metro
+	26463	Southwest U, China
+	26467	S China U Tech
+	26469	Zhongshan U
+	26476	Three Gorges U
+	26487	NW Poly U
+	26494	Hangzhou Normal U
+	26495	Wenzhou U
+	26522	U Augsburg
+	26523	U Bayreuth
+26523	240137	U Bayreuth, Inst Phy
+26523	98919	U Bayreuth, Inst Geop
+	26524	Tech U Berlin
+26524	234383	U Berlin, Inst Theo Phy
+26524	414958	Tech U Berlin, Inst Theo Phy
+26524	A1488	Tech U Berlin, Ctr Ast Astrop
+	26527	Tech U Braunschweig
+26527	234683	Tech U Braunschweig, Inst Geop Sp Phy
+26527	A1492	Tech U Braunschweig, Inst Theo Phy
+26527	A1493	Tech U Braunschweig, Inst Geop Metr
+	26534	Tech U Clausthal
+	26536	Tech U Darmstadt
+26536	54227	Tech U Darmstadt, Dep Phy
+	26545	Tech U Bergakademie Freiburg
+	26552	U Greifswald
+	26553	U Hagen
+	26555	Leibniz U
+26555	414350	Leibniz U, Inst Theo Phy
+	26558	U Hohenheim
+	26559	Tech U Ilmenau
+	26562	Tech U Kaiserslautern
+	26567	U Konstanz
+	26573	U Mannheim
+	26576	Bundeswehr U
+	26578	U Paderborn
+	26583	U Potsdam
+26583	232659	U Potsdam, Inst Phy Ast
+26583	A1485	U Potsdam, Inst Geos
+	26595	U Trier
+	26603	Bergische U Wuppertal
+26603	A1506	Bergische U Wuppertal, Dep Phy
+	26656	U Gent
+26656	366750	U Gent, Dep Phy Ast 
+	26658	U Liege
+26658	A1244	U Liege, Dep Astrop, Geop Ocean
+26658	A1246	U Liege, Lab Plan Atmos Phy
+	26660	U Antwerpen
+26660	198991	U Antwerpen, Dep Phy Ast
+	26679	Hong Kong Baptist U
+	26680	Hong Kong Poly U
+	26682	Chiang Mai U
+	26683	Chulalongkorn U
+	26684	Khon Kaen U
+	26685	Mahidol U
+	26689	U Sains
+	26697	Stellenbosch U
+	26706	U Porto
+26706	131675	U Porto, Ctr Astrop
+26706	A1301	U Porto, Inst Phy
+	26714	Chonbuk Natl U
+	26715	Chungnam Natl U
+26715	A1558	Chungnam Natl U, Dep Ast Sp Sci
+	26716	Hanyang U
+	26717	Ewha Womans U
+26717	A1557	Ewha Womans U, Inst Early Uni
+	26718	Inha U
+	26719	Inje U
+	26720	Gyeongsang Natl U
+	26721	Yonsei U, Seoul
+26721	250472	Yonsei U, Dep Ast
+	26723	Kyung Hee U
+26723	A1555	Kyung Hee U, Dep Ast Sp Sci
+26723	A1556	Kyung Hee U, Sch Sp Res
+	26725	Seoul Natl U
+26725	140837	Seoul Natl U, Dep Phy Ast
+26725	A1551	Seoul Natl U, Sch Earth Env Sci
+	26729	Chung Ang U
+	26732	Ben Gurion U Negev
+26732	98507	Blaustein Inst Desert Res
+26732	A1510	Ben Gurion U Negev, Dep Phy
+	26742	Hebrew U, Jerusalem
+26742	108747	Hebrew U, Inst Earth Sci
+26742	A1509	Hebrew U, Racah Inst Phy
+	26745	Tel Aviv U
+26745	208982	Tel Aviv U, Sackler Fac Sci
+26745	A1513	Tel Aviv U, Dep Ast
+26745	A1514	Tel Aviv U, Dep Geop Plan Sci
+	26908	Ecole Normale Sup, Cachan
+	26909	Ecole Normale Sup, Paris
+	26911	Ecole Normale Sup Lyon
+26914	129781	Obs Paris, DEMIRM
+26914	129830	Obs Paris, SYRTE
+26914	129965	Obs Paris, IMCCE
+26914	130002	Obs Paris, LUTH
+26914	130006	Obs Paris, LESIA
+26914	130007	Obs Paris, GEPI
+26914	130008	Obs Paris, LERMA
+26914	26915	Obs Paris, Dep Radioast
+26914	A1274	Obs Paris, DARC
+26914	A1275	Obs Paris, DASOP
+26914	A1276	Obs Paris, DASGAL
+26914	A1277	Obs Paris, CAI
+26914	A1279	Obs Paris, DESPA
+26914	A1280	Obs Paris, LATMOS
+	26993	U Picardie Jules Verne
+	26995	U d'Angers
+	26998	U d'Avignon
+	27000	U Besancon
+	27002	U Bretagne
+	27003	U Caen
+	27004	U Cergy-Pontoise
+	27005	U Savoie Mont-Blanc
+27005	131745	LAPTh
+27005	69234	LAPP
+	27006	U d'Auvergne
+	27007	U Blaise Pascal
+	27009	U Corse
+	27010	U Paris-Est Creteil XII
+	27011	U Bourgogne
+	27012	U Littoral Cote d'Opal
+27012	130001	U Littoral Cote d'Opal, Lab PhysicoChimie Atm
+	27013	U d'Evry
+	27014	Inst Poly Grenoble
+27015	131746	UJF Grenoble, Inst Plan Astrop
+27015	57479	UJF Grenoble, Lab Phy Subatom Cosmo
+27015	57507	LGGE, Lab Glac Geop Env
+27015	A1248	Obs Grenoble
+27015	A1251	UJF Grenoble, Inst des Sci Terre
+27015	A1272	Inst Neel, Grenoble
+	27017	U Toulon
+	27018	U La Rochelle
+	27019	U Havre
+	27020	U Maine, Le Mans
+	27022	U Lille I
+	27025	U Limoges
+	27031	U Paris-Est Marne-la-Vallee X
+27031	A1250	LISA, Lab Inter U des Atm
+	27037	U Montpellier II
+27037	113906	Geos, Montpellier
+27037	A1255	U Montpellier II, LPTA
+	27040	U Rouen
+	27041	U Haute Alsace
+	27045	U Nantes
+27045	131902	U Nantes, Lab Plan Geod
+	27046	U Nice Sophia Antipolis
+27046	57478	Obs Cote d'Azur
+27046	A1258	U Nice Sophia Antipolis, Lab d'Astrop
+27046	A1417	ICRA
+	27047	U d'Orleans
+27047	56432	U d'Orleans, Inst Sci Terre
+27047	69253	Lab Chimie Env Espace
+	27048	U Paris-Sud
+27048	130028	U Paris-Sud, Int Dyn Env Surface
+27048	394474	U Paris-Sud, Dep des Sci Terre
+27048	56437	Inst Phy Nucl d'Orsay
+27048	57498	IAS, Inst d'Astrop Spat
+27048	57499	CSNSM, Ctr Spect Nucl Spect Masse
+27048	A1294	U Paris-Sud, Lab Acc Lin
+27048	A1295	U Paris-Sud, Dep Phy
+	27051	CNRS, Ctr Natl Rech Sci
+27051	113906	Geos, Montpellier
+27051	129678	ISTeP
+27051	129867	CNRM
+27051	129878	CNRS, Inst Phy Theo
+27051	131745	LAPTh
+27051	131911	Lab Math Phy Theo
+27051	246574	CNRS, Toulouse
+27051	246577	CNRS, Strasbourg
+27051	246615	CNRS, Marseille
+27051	26914	Obs Paris
+27051	27099	Inst Phy Globe Paris
+27051	54693	GeoRessources
+27051	55937	Inst Henri Poincare
+27051	56170	INSU
+27051	56437	Inst Phy Nucl d'Orsay
+27051	56591	CNRS, Orleans
+27051	57480	INPNP
+27051	57486	CDS, Strasbourg
+27051	57488	IRAM
+27051	57498	IAS
+27051	57506	IAP, Paris
+27051	69234	LAPP
+27051	90253	Besancon Obs
+27051	97032	CNRS, Grenoble
+27051	A1250	LISA
+27051	A1255	U Montpellier II, LPTA
+27051	A1256	CETP, Obs St Maur
+27051	A1257	CNRS, Ctr Faibles Radio
+27051	A1261	CETP, Velizy
+27051	A1262	CNRS, Orsay
+27051	A1268	CNRS, St Maur des Fosses
+27051	A1271	IPSL
+27051	A1310	IAC, La Palma Obs
+	27053	CEA, Atom En Comm
+27053	129945	CEA, Ctr Phy Theo
+27053	70610	CEA, Grenoble
+27053	84294	CEA, Saclay
+27053	84440	CEA, St Paul lez Durance
+	27056	IRD
+	27057	INRA
+27057	111099	INRA, Nantes
+	27063	U Paris Sorbonne
+27063	111111	U Paris Sorbonne, APC
+27063	27099	Inst Phy Globe Paris
+	27066	U Paris Diderot
+27066	111111	U Paris Diderot, APC
+27066	129728	CEA Saclay, Svc d'Astrop
+27066	27099	Inst Phy Globe Paris
+27066	57505	LPNHE
+27066	A1250	LISA
+27066	A1253	CEA Saclay, Svc Aero
+27066	A1296	CEA Saclay, Svc Phy
+	27067	U Paris Dauphine
+	27068	U Pierre Marie Curie
+27068	129678	ISTeP
+27068	55937	IHP
+27068	57506	IAP, Paris
+	27073	U Pau et des Pays
+	27074	U Perpignan
+	27077	U Poitiers
+	27078	U Reims
+	27079	U Rennes 1
+27079	129635	U Rennes 1, Inst Phy
+27079	57511	U Rennes 1, CAESS Geos
+	27081	U Paris St-Denis VIII
+	27083	U Strasbourg Louis Pasteur
+27083	54872	ULP, Ecole Obs Sci Terre
+27083	A1288	CDS
+27083	A1289	Obs Ast Strasbourg
+27083	A1291	ENSPS
+	27090	U Toulouse Jean Jaures
+	27091	U Toulouse Paul Sabatier
+27091	69624	Obs Mid Pyrenees
+	27092	U Tours
+27092	131911	Lab Math Phy Theo
+	27096	U Versailles St-Quentin-en-Yvelines
+27096	A1256	CETP, Obs St Maur
+	27097	U Paris Nord XIII
+	27170	U Duisburg
+	27209	U Basel
+27209	111068	U Basel, Dep Phy Ast
+27209	A1286	U Basel, Ast Inst
+	27210	U Bern
+27210	172549	U Bern, Phy Inst
+27210	A1287	U Bern, Ast Inst
+	27211	U Fribourg
+	27212	U Geneva
+27212	111087	U Geneva, Data Ctr Astrop
+27212	151063	U Geneva, Phy Sec
+27212	70322	U Geneva, Ast Obs
+27212	A1267	ISDC
+	27213	U Lausanne
+	27214	U Neuchatel
+	27216	U Lugano
+	27217	U Zurich
+27217	A1293	U Zurich, Inst Phy
+	27218	Ecole Poly Fede Lausanne
+27218	150727	Ecole Poly Fede Lausanne, Sec Phy
+27218	A1266	Ecole Poly Fede Lausanne, Lab d'Astrop
+	27219	ETH Zurich, Eidgenossische Tech Hoch
+27219	111841	ETH Zurich, Dep Earth Sci
+27219	28498	Paul Scherrer Inst
+27219	415243	ETH Zurich, Geo Inst
+27219	54165	ETH Zurich, Inst Ast
+27219	54177	ETH Zurich, Dep Phy
+27219	A1292	ETH Zurich, Inst Geop
+	27253	Tech U Graz
+	27255	U Innsbruck
+27255	226174	U Innsbruck, Inst Theo Phy
+27255	A1354	U Innsbruck, Inst Astrop
+	27257	U Salzburg
+	27258	U Vienna
+27258	360818	U Vienna, Dep Phy
+27258	52729	U Vienna, Dep Metr Geop
+27258	A1353	U Vienna, Dep Ast
+	27259	Tech U Vienna
+27259	282278	Tech U Vienna, Dep Phy
+	27266	JKU, Linz
+	27267	KFU Graz
+27267	151416	KFU Graz, Inst Earth Sci
+27267	52728	KFU Graz, Inst Geop, Astrop Metr
+27267	64722	KFU Graz, Inst Phy
+	27268	U Leoben
+	27280	Medical U Innsbruck
+	27713	Black Hills St U
+	27716	WGL, Gottfried Wilhelm Leibniz Sci Comm
+27716	28343	Leibniz Inst Astrop, Potsdam
+27716	28372	Leibniz Inst Nontherm Plasmaphys
+27716	28382	Kiepenheuer Inst Solar Phy
+27716	28386	Leibniz Inst App Geos
+27716	28388	Leibniz Inst Atmos Phy
+27716	28389	Leibniz Inst Baltic Sea Res
+27716	28394	Leibniz Inst Solid St Mat Res
+27716	28397	Leibniz Inst Troposph Res
+27716	28402	Inst Mar Res, Kiel
+27716	54206	Mus Nat Hist, Berlin
+	27745	Tech Inst Sonora
+	27746	Monterrey Inst Tech Hi Educ
+	27758	Auton U Baja Cal
+	27762	Auton U Chiapas
+	27763	Auton U Chihuahua
+	27765	Auton U Coahuila
+	27768	Auton U Guerrero
+	27771	Auton U Nuevo Leon
+	27772	Auton U Carmen
+	27772	Auton U Queretaro
+	27773	Auton U San Luis Potosi
+	27774	Auton U Sinaloa
+	27779	Auton U Zacatecas
+	27781	Auton U St Hidalgo
+	27783	Auton U St Morelos
+	27786	UAM, Metro Auton U Mexico
+	27800	U Colima
+	27802	U Guadalajara
+	27806	U Americas Puebla
+	27808	U Monterrey
+	27811	U Quinatana Roo
+	27813	U Sonora
+	27822	Valle Mexico U
+	27829	Ibero Amer U
+	27836	U Juarez Auton Tabasco
+	27852	U Michoacana San Nicolas Hidalgo
+27852	325665	U Michoacana San Nicolas Hidalgo, Inst Phy Math
+	27865	Tech U Mixteca
+	27870	Veracruzana U
+	27882	Natl Poly Sch, Ecuador
+	27884	Pontif Catholic U Ecuador
+	27902	San Francisco U Quito
+	27915	U Costa Rica
+	27929	Natl U Costa Rica
+	27939	Costa Rican Elec Inst
+	27967	U Antonio Narino, Colombia
+	27983	U Antiquia, Colombia
+	27991	U Andes, Colombia
+	27993	U Medellin, Colombia
+	27994	U Narino, Colombia
+	28001	U Atl, Colombia
+	28006	U Valley, Colombia
+	28007	U Distrital Francesco Jose Caldas, Colombia
+	28014	Tech U Santander, Columbia
+	28021	Natl U Colombia
+	28023	Ped Tech U Colombia
+	28025	Pontif Bolivarian U, Colombia
+	28031	Tech U Pereira, Colombia
+	28033	Pontif Catholic U Chile
+28033	A1710	Pontif Catholic U Chile, Dep Ast Astrop
+	28034	U Adolfo Ibanez
+	28035	U Arturo Prat
+	28040	U Sthrn Chile
+	28045	Catholic U Most Holy Conception
+	28047	Pontif Catholic U Valparaiso
+	28049	Catholic U North
+	28052	U Antofagasta
+	28054	U Atacama
+	28056	U Concepcion
+28056	A1714	U Concepcion, Dep Ast
+28056	A1715	U Concepcion, Dep Phy
+	28057	U La Frontera
+	28058	U La Serena
+	28062	U Magallanes
+	28065	U Santiago Chile
+	28066	U Talca
+	28067	U Tarapaca
+	28068	Valparaiso U
+28068	A1713	Valparaiso U, Dep Phy Ast
+	28072	U del Mar
+	28085	Metro U Educ Sci
+	28087	Andres Bello U
+	28090	Tech U Federico Santa Maria
+	28094	Fed U Itajuba
+	28097	Fed U Paraiba
+	28099	Pontif Catholic U Rio de Janeiro
+	28105	Sao Paulo Fed U
+	28108	UNESP, St U Paulista Julio Mesquita Filho
+28108	133637	UNESP, Inst Phy
+	28110	Fluminense Fed U
+	28111	Fed U Bahia
+	28112	Fed U Alagoas
+	28113	Fed U Juiz Fora
+	28114	Fed U Minas Gerais
+	28115	Fed U Ouro Preto
+	28116	Fed U Pernambuco
+	28117	Fed U Santa Catarina
+	28118	Fed U Santa Maria
+	28119	Fed U Uberlandia
+	28120	Fed U Vicosa
+	28121	Fed U Ceara
+	28122	Fed U Parana
+	28123	Fed U Rio Grande North
+28123	A1722	Fed U Rio Grande North, Dep Phy
+	28124	Fed U Rio Grande South
+28124	133642	Fed U Rio Grande South, Inst Phy
+	28125	Fed U Rio de Janeiro
+28125	133645	Fed U Rio de Janeiro, Inst Phy
+28125	341420	Fed U Rio de Janeiro, Valongo Obs
+	28126	Fed U Espirito Santa
+	28128	U Brasilia
+	28130	Rio de Janeiro St U
+28130	A1721	Rio de Janeiro St U, Inst Phy
+	28132	U Campinas
+28132	344101	U Campinas, Inst Phy
+28132	A1719	U Campinas, Dep Ast
+	28133	USP
+28133	117186	USP, Inst Phy
+28133	54541	USP, IAG
+	28186	Pontif Catholic U Argentina
+	28196	U Buenos Aires
+28196	124146	Res Ctr Atmos Sea Sci, Argentina
+28196	54485	IAFE, Buenos Aires
+28196	54487	Argentine Inst Rad Ast
+28196	62927	IPP, Buenos Aires
+28196	A1706	U Buenos Aires, Dep Geo Sci
+28196	A1707	U Buenos Aires, Dep Phy
+	28204	U Mendoza
+	28217	Natl U Cordoba, Argentina
+28217	120752	El Leoncito Ast Complex
+28217	121580	Natl U Cordoba, Fac Math Ast
+28217	230222	IATE, Cordoba
+28217	387837	Natl U Cordoba, Ast Obs
+	28218	Natl U Cuyo
+	28222	Natl U Gen Sarmiento
+	28225	Natl U La Pampa
+	28226	Natl U Patagonia
+	28228	Natl U La Plata
+28228	120752	El Leoncito Ast Complex
+28228	172471	Nat Sci Mus, La Plata
+28228	226544	Inst Phys, La Plata
+28228	243751	Inst Astrop, La Plata
+28228	243760	Natl U La Plata, Fac Ast Geop Sci
+28228	54487	Argentine Inst Rad Ast
+	28233	Natl U Mar del Plata
+	28237	Natl U Rosario
+28237	121570	Inst Phys, Rosario
+	28238	Natl U Salta
+	28239	Natl U San Juan
+28239	120752	El Leoncito Ast Complex
+28239	A1708	Yale Sthrn Obs
+	28240	Natl U San Luis
+	28242	Natl U Third February
+	28243	Natl U Tucuman
+	28245	Natl U Cen Buenos Aires
+	28246	Natl U Comahue
+	28247	Natl U Littoral
+	28249	Natl U Sthrn Argentina
+	28250	Natl Tech U Argentina
+28294	A1333	Calar Alto Obs
+	28424	Fraunhofer Soc App Sci
+28424	28445	EMI
+28424	28468	Fraunhofer Inst Metr
+	28499	EAWAG
+	28500	WSL
+	28501	EMPA
+	28521	Loyola U, Baltimore
+	28546	Pondicherry U
+ 	28548	Andhra U
+	28552	Osmania U
+	28570	CSIR
+28570	201499	CSIR, Ctr Math Modelling Comp Sim
+28570	28600	CSIR, Natl Geop Res Inst
+28570	28955	CSIR, Natl Inst Ocean
+28570	62398	CSIR, Natl Phy Lab, New Delhi
+	28614	U Hyderabad
+	28656	Sri Krishnadevaraya U
+	28661	Sri Venkateswara U
+	28675	Dibrugarh U
+	28676	Gauhati U
+	28678	Ind Inst Tech, Guwahati
+	28686	Assam U
+	28688	Tezpur U
+	28692	Ind Sch Mines
+	28721	Pandit Ravishanka Shukla U
+	28733	Barkatullah U
+	28742	U Delhi
+28742	326269	U Delhi, Dep Phy Astrop
+	28754	Jawaharlal Nehru U, New Delhi
+	28800	India Met Dep, Delhi
+	28817	Ind Inst Tech, Delhi
+	28827	Indira Gandhi Open U
+	28849	Jamia Millia Islamia
+	28961	Goa U
+	28971	Gujarat U
+	28997	St Xaviers Coll, Ahmedabad
+	29011	Maharaja Sayajirao U Baroda
+	29027	Saurashtra U
+	29037	Sardar Patel U
+	29056	Kurukshetra U
+	29057	Natl Inst Tech, Kurukshetra
+	29066	Himachal Pradesh U
+	29070	Ind Inst Adv Study
+	29074	U Jammu
+	29079	U Kashmir
+	29082	Mangalore U
+	29090	Geo Surv India
+	29100	Bangalore U
+	29120	Ind Inst Sci
+29120	314951	Ind Inst Sci, Div Phy Sci
+	29123	ISRO
+29123	270340	ISRO, Sat Ctr
+29123	29162	ISRO, Sp App Ctr
+29123	54643	ISRO, Vikram Sarabhai Sp Ctr
+	29130	Nehru Ctr Adv Sci Res, Bangalore
+	29146	TIFR
+29146	54640	TIFR, Natl Ctr Radiophy, Pune
+29146	A1536	TIFR, Astrop Group
+	29243	U Mysore
+	29263	U Kerala
+	29265	Natl Ctr Earth Sci Stud
+	29288	Cochin U Sci Tech
+	29318	Mahatma Gandhi U
+	29396	U Mumbai
+	29403	Amravati U
+	29422	Shivaji U
+	29429	Swami Ramanand Teerth Marathwada U
+	29445	Bhabha Atom Res Ctr
+	29491	Ind Inst Tech, Mumbai
+	29638	U Pune
+	29661	Manipur U
+	29666	North-Eastrn Hill U
+	29689	Devi Ahilya U
+	29702	U Jabalpur
+	29707	Awadhesh Pratash Singh U
+	29708	Hari Singh Gour U Sagar
+	29731	Utkal U
+	29732	Sambalpur U
+	29734	Ravenshaw U
+	29740	Guru Nanek Dev U
+	29750	Panjab U
+	29766	Punjab U
+	29780	U Rajasthan
+	29794	Birla Inst Sci Tech
+	29798	Mohanlal Sukhadia U
+	29817	Anna U
+	29821	U Madras
+	29839	Inst Math Sci
+	29895	Annamalai U
+	29897	Barathiar U
+	29929	Gandhigram Rural Inst
+	29943	Arul Anandar Coll
+	29944	Madurai Kamaraj U
+	30031	Agra Coll
+	30037	Aligarh Muslim U
+	30043	Allahabad U
+	30045	Govind Ballabh Pant Inst Him Env Dev
+	30057	Wadia Inst Him Geol
+	30064	DDU Gorakhpur U
+	30065	Hindi Post Grad Coll
+	30073	Bundelkhand U
+	30077	Ind Inst Tech, Kanpur
+	30096	U Lucknow
+	30102	Kumaun U
+	30112	Ind Inst Tech, Roorkee
+	30114	Banaras Hindu U
+30114	A1541	Banaras Hindu U, Dep Phy
+	30126	U Burdwan
+	30130	Ind Inst Eng Sci Tech
+	30131	Ramakrishna Mission Vivekananda U
+	30132	U Kalyani
+	30133	Ind Inst Tech, Kharagpur
+	30141	Bose Inst, Calcutta
+	30160	Ind Stat Inst
+	30163	U Calcutta
+30163	A1542	U Calcutta, Inst Rad Phy
+30163	A1545	U Calcutta, Ctr Sp Phy
+	30167	Jadavpur U, Calcutta
+	30169	Maulana Azad Coll, Calcutta
+	30173	Presidency U, Calcutta
+	30176	Saha Inst Nucl Phy
+30176	A1544	Saha Inst Nucl Phys, Astrop Phy Cosmo
+	30177	St Xaviers Coll, Calcutta
+	30178	Bose Natl Ctr Basic Sci, Calcutta
+	30189	U N Bengal
+	30190	Visva Bharati U
+	30361	Bern Mus Nat Hist
+	30437	U App Sci NW Switzerland
+	30446	U App Sci Sthrn Switzerland
+	30531	CERN
+30531	A1265	CERN, Theo Div
+	30600	Geneva Mus Nat Hist
+	31189	Austrian Inst Tech
+	31296	FH Joanneum GmbH
+	31390	Austrian Acad Sci
+31390	231598	Austrian Inst Sp Sci Res
+	31475	Medical U Graz
+	31481	Nat Hist Mus, Vienna
+	32172	Morehouse Coll
+	32331	Wilbur Wright Coll
+	32661	Wentworth Inst Tech
+	32833	Cen Arizona U
+33052	A1184	Montana St U, Bozeman, Dep Phy
+	33176	Cen U Venezuela
+	33177	U Centrooccidental Lisandro Alvarado
+	33178	U Carabobo
+	33179	U Andes
+33179	A1702	U Andes, Ctr Theo Astrop
+33179	A1703	U Andes, Ctr Fund Phy
+	33180	U Oriente
+	33181	U Zulia
+	33184	Metro U, Venezuela
+	33193	Natl Exp U Tachira
+	33201	Simon Bolivar U
+33201	A1704	Simon Bolivar U, Dep Phy
+	33209	Natl U San Marcos, Peru
+	33216	Cayetano Heredia U
+	33561	NTU
+33561	111184	ASIAA, Taiwan
+33561	71511	Acad Sinica, Inst Phys, Taiwan
+33561	A1531	NTU, Inst Astrop
+33561	A1532	NTU, Dep Phy
+33562	71553	Acad Sinica, Inst Earth Sci, Taiwan
+	33694	Stevens Inst Tech
+	34288	Warren Wilson Coll
+	34419	Hashemite U
+	34706	U Sthrn China
+	34747	Shanghai U
+	34763	Teikyo U Sci
+	34815	Toyama Pref U
+	34823	Toyama U
+	34835	Okayama Shoka U
+	34843	Natl Auton U Honduras
+	34849	U San Carlos, Guatamala
+	34850	U Guatamala Valley
+	34874	Natl Sun Yat-sen U
+	34879	NTNU, Taiwan
+	34881	NTHU, Taiwan
+34881	111184	ASIAA, Taiwan
+34881	150418	NTHU, Dep Phy
+34881	71511	Acad Sinica, Inst Phys, Taiwan
+34881	71553	Acad Sinica, Inst Earth Sci, Taiwan
+34881	A1530	NTHU, Inst Ast
+	34883	Natl Yunlin U Sci Tech
+	34886	Tamkang U
+	34900	Chung Yuan Christian U
+	34903	Fu Jen Catholic U
+	34911	NCU, Taiwan
+34911	A1526	NCU, Inst Sp Sci
+34911	A1527	NCU, Inst Ast
+34911	A1528	NCU, Dep Phy
+34911	A1529	NCU, Inst Geop
+	34912	Natl Cheng Kung U
+34912	A1533	Natl Cheng Kung U, Inst Sp Astrop Plasma Sci
+	34913	Natl Chengchi U
+	34914	Natl Chiao Tung U
+	34915	Natl Chung Cheng U
+	34916	Natl Chung Hsing U
+	34919	Ajou U
+	34926	Jeju Natl U
+	34929	Cheongju U
+	34931	Chonnam Natl U
+	34932	Chosun U
+	34933	Chungbuk Natl U
+34933	A1553	Chungbuk Natl U, Dep Ast Sp Sci
+34933	A1554	Chungbuk Natl U, Dep Phy
+	34942	Dongguk U
+	34947	Korea Aero U
+	34950	Hanseo U
+	34955	Hoseo U
+	34958	Incheon Natl U
+	34961	Gangneung-Wonju Natl U
+	34962	Kangwon Natl U
+	34965	Konkuk U
+	34967	Kookmin U
+	34968	Korea Adv Inst Sci Tech
+34968	145567	KSA, KAIST
+	34969	Korea Mar Ocean U
+	34971	Korea Natl U Educ
+	34973	Korea U, Seoul
+	34976	Weizmann Inst Sci
+34976	407557	Weizmann Inst Sci, Dep Phy
+34976	A1511	Weizmann Inst Sci, Astrop Group
+34976	A1512	Weizmann Inst Sci, Dep Earth Plan Sci
+	34985	Kyungnam Natl U
+	34986	Kyungpook Natl U
+	34991	Mokpo Natl U
+	34995	Pohang U Sci Tech
+	34996	Pusan Natl U
+	34998	Pukyong Natl U
+	35006	Sejong U, Seoul
+35006	A1552	Sejong U, Dep Ast
+	35010	U Seoul
+	35014	Sogang U
+	35016	Soongsil U
+	35017	Sung Kyun Kwan U
+	35022	Sun Moon U
+	35488	Vikram U
+	36578	Qatar Found
+36578	323125	Qatar Env En Res Inst
+	37139	Ondokuz Mayis U
+	37268	Ind Inst Tech, Madras
+	37442	U Szeged
+37442	A1346	U Szeged, Ast Obs
+37442	A1347	Baja Ast Obs
+	37447	U Malaysia
+	37449	U Putra
+	37502	Akdeniz U
+37502	A1424	Turkish Natl Obs
+	37503	Ataturk U
+	37504	Ankara U
+37504	A1423	Ankara U, Dep Ast
+37505	Baskent U
+	37506	Cukurova U
+	37507	Dicle U
+	37508	Dokuz Eylul U
+	37509	Ege U
+37509	322579	Ege U, Dep Ast Sp Sci
+	37510	Firat U
+	37511	Gazi U
+	37512	Gaziantep U
+	37515	Hacettepe U
+	37516	Istanbul U
+	37519	Kahramanmaras U
+	37523	Uludag U
+	37546	Tartu U
+	37563	U Malta
+	37568	Lagos St U
+	37589	IVIC
+	37595	U Zimbabwe
+	37597	U Brunei
+	37599	U Debrecen
+37599	A1345	MTA Atomki
+	37602	Addis Ababa U
+	37603	Kuwait U
+	37607	Lebanese Amer U
+	37611	Sultan Qaboos U
+	37624	U Rijeka
+	37631	U Zagreb
+37631	A1337	U Zagreb, Hvar Obs
+	37637	Semmelweis U
+	37656	U Pecs
+	37663	U Ljubljana
+37663	A1340	U Ljubljana, Ctr Excel SPACE SI
+	37702	U Free St
+	37707	U Witwatersrand
+37707	196583	U Witwatersrand, Sch Geos
+37707	A1691	U Witwatersrand, Sch Phy
+	37716	U Cape Town
+37716	124263	U Cape Town, Dep Geo Sci
+37716	274458	S African Env Obs Network
+37716	A1686	U Cape Town, Ast Cosmo Grav Ctr
+37716	A1687	U Cape Town, Dep Ast
+37716	A1688	U Cape Town, Dep Phy
+	37740	Charles U, Prague
+37740	138735	Charles U, Dep Phy
+37740	A1359	Charles U, Ast Inst
+	37748	Masaryk U
+37748	A1364	Masaryk U, Dep Phy Astrop
+	37777	U Crete
+37777	A1432	U Crete, Dep Phy
+	37782	Aristotle U Thessaloniki
+37782	162236	Aristotle U Thessaloniki, Dep Phy
+37782	A1425	Aristotle U Thessaloniki, Dep Ast
+	37791	U Thrace
+	37795	U Patras
+37795	A1431	U Patras, Dep Phy Ast
+	37796	U Ioannina
+37796	328103	U Ioannina, Dep Phy
+	37799	Jagiellonian U, Krakow
+37799	A1370	Jagiellonian U, Ast Obs
+	37809	U Lisbon
+37809	111162	U Lisbon, Astrop Inst
+37809	325982	IPFN
+37809	72971	U Lisbon, Inst Sup Tec
+37809	A1278	U Lisbon, Dep Phy
+	37829	U Coimbra
+37829	166402	U Coimbra, Dep Phy
+37829	A1282	U Coimbra, Geop Ast Obs
+	37848	King Abdul Aziz U
+37848	A1520	King Abdul Aziz U, Dep Ast
+	37850	King Saud U
+	37862	Pavel Jozef Safarik U
+	37864	Comenius U
+37864	132058	Comenius U, Ast Inst
+	37892	Fed U Maranhao
+	37894	St U Londrina
+	37955	U Contantine
+	37957	U des Antilles Guyane
+	37964	U Tunis El Manar
+	37967	U Sfax
+	37975	Daegu U
+	37981	Catholic U Daegu
+	38017	Acad Sinica, Taiwan
+38017	111184	ASIAA, Taiwan
+38017	111184	Inst Ast Astrop Acad Sinica, Hawaii
+38017	71511	Acad Sinica, Inst Phys, Taiwan
+38017	71553	Acad Sinica, Inst Earth Sci, Taiwan
+38017   Inst Ast Astrop Acad Sinica
+	38041	China Inst Atom En
+	38043	Yangzhou U
+	38080	Kanagawa Pref Nursing Coll
+	38146	Yamanashi U
+	38284	Kanagawa U Human Svc
+	38291	Aichi Shukutoku U
+	38869	Tech U Chemnitz
+	38871	Brandenburg U Tech
+	38899	U Koblenz-Landau
+	38950	Tech U Wildau
+	38987	Tech U Hamburg
+	39007	Munich U App Sci
+	39027	BGR, Fed Inst Geos Nat Res
+	39428	PTB, Natl Metro Inst Germany
+	39985	Berlin Acad Sci
+	40073	Gottingen Acad Sci
+	40092	Heidelberg Inst Theo Stud
+	40108	Bav Acad Sci
+40737	102695	Cold Reg Res Eng Lab
+	40742	Lowell Obs
+	40743	AURA
+40743	230211	Gemini Obs
+40743	33468	NOAO
+40743	41574	Natl Solar Obs
+40743	A1228	Las Cumbres Obs Global Tele
+	40975	Dakota St U
+	41327	Dixie St U
+	41487	NRL
+41487	A1049	Hurlbut Ctr Sp Res, NRL
+	41530	STScI
+	41573	NRAO
+41573	124318	NRAO, Mauna Kea
+41573	261206	NRAO, Green Bank
+41573	273889	NRAO, Tucson
+41573	53945	NRAO, Socorro
+41573	A1052	ALMA, Chile
+	41590	Kutztown U Penn
+	41616	Tarbiat Modares U
+41819	381654	British Geo Surv, Edinburgh
+	41822	British Natl Sp Ctr
+	42019	Mar Biol Ass, UK
+	42475	Brazilian Mnstry Sci Tech Innovation
+	42477	Lutheran U Brazil
+	42487	St U Maringa
+	42505	Natl Ast Obs, Brazil
+	42521	Brazilian Mnstry Educ
+	42524	Mackenzie Presbyterian U
+42524	A1718	CRAAM
+	42534	Ctr Ast Res, Venezuela
+	42576	Natl Poly Inst, Mexico
+42576	250523	CINVESTAV
+	42592	Mexican Inst Petro
+	42659	Natl Atom En Comm, Argentina
+	42690	INGEMMET
+	42692	Pontif Catholic U Peru
+	42715	Open U Israel
+	42730	Jerusalem Coll Tech
+	42763	Swedish Mus Nat Hist
+	42786	Battelle Mem Inst
+	47483	Guangdong U Tech
+	47485	Guangzhou U
+	47743	Kochi U Tech
+	47745	Shibaura Inst Tech
+	47761	Al Akhawayn U Ifrane
+	47767	Amer U Sharjah
+	47797	Cen Euro U
+47797	72310	Collegium Budapest
+	47819	Changchun U Sci Tech
+	47821	Northeast Normal U
+	47822	Harbin Inst Tech
+	47825	Jilin Normal U
+	47829	Beijing Jiaotong U
+	47833	Beijing Inst Tech
+	47836	Beijing Normal U
+	47840	N China Elec Power U
+	47846	Taiyuan U Tech
+	47854	Nanjing U Aero Astnau
+	47856	Shandong Normal U
+	47860	E China U Sci Tech, Shanghai
+	47861	Nanchang U
+	47862	Ningbo U
+	47863	Shanghai U Sci Tech
+	47867	Panyu Poly
+	47877	Guangdong Indus Tech Coll
+	47887	Qiongzhou U
+	47890	Shenzhen U
+	47895	Huazhong Agr U
+	47896	Hubei U Tech
+	47897	Yangtze U
+	47900	Wuhan U Sci Tech
+	47905	Xidian U
+	47907	Xinjiang U
+	47908	Chengdu U Tech
+	47909	Chengdu U Info Tech
+	47910	Kunming U Sci Tech
+	47913	Chongqing U
+	48058	Umm Al-Qura U
+	48080	King Fahd U Petro Min
+	48133	Saudi Geo Surv
+	48138	U Hail
+	48144	King Khalid U
+	48207	Palacky U
+	48217	Silesian U, Opava
+	48220	Tech U Prague
+	48250	Czech Geo Surv
+	48271	Bohemian U
+	48274	Brno U Tech
+	48278	Tech U Ostrava
+48278	A1366	Ostrava Obs
+	48282	U Hradec
+	48283	JE Purkyne U
+	48311	ASCR
+48311	A1360	ASCR, Ast Inst
+48311	A1361	ASCR, Inst Phy
+48311	A1362	ASCR, Inst Geop
+	48408	Alzahra U
+	48410	Amir Kabir U Tech
+	48414	Atom En Org Iran
+	48425	U Tehran
+48425	219933	U Tehran, Inst Geop
+48425	A1515	U Tehran, Dep Phy
+	48427	Damghan U
+	48432	Tabriz U
+	48435	Shiraz U, Fars
+	48437	U Isfahan
+	48440	Ferdowsi U
+	48442	Ilam U
+	48449	Inst Res Fund Sci, Tehran
+	48456	Isfahan U Tech
+	48494	Razi U
+	48511	Shahid Bahonar U
+	48512	Shahid Beheshti U
+	48528	U Birjan
+	48529	U Kashan
+	48530	U Kurtistan
+	48531	U Mazandaran
+	48537	Yazd U
+	48544	St Petersburg St U
+48544	133938	St Petersburg St U, Inst Phy
+48544	133940	St Petersburg St U, Ast Inst
+48544	409694	St Petersburg St U, Dep Phy
+	49551	Cardinal Wyszynski U
+	49557	Tech U Gdansk
+	49559	Polish Acad Sci
+49559	124356	Polish Acad Sci, Sp Res Ctr
+49559	124357	Polish Acad Sci, Inst Geop
+49559	317748	Nicolaus Copernicus U, Ast Inst
+49559	414281	Polish Acad Sci, Inst Nucl Phy
+49559	49618	Polish Acad Sci, Ctr Theo Phy
+49559	56640	Nicolaus Copernicus Ast Ctr, Warsaw
+	49562	Adam Mickiewicz U
+	49566	Warsaw U Tech
+	49567	Wroclaw U Tech
+	49568	U Silesia
+	49572	U Wroclaw
+49572	A1368	U Wroclaw, Inst Ast
+	49576	Opole U
+	49577	Nicolaus Copernicus U, Torun
+49577	317748	Nicolaus Copernicus U, Ast Inst
+	49584	Tech U Lodz
+	49602	U Lodz
+	49605	U Warsaw
+49605	226285	U Warsaw, Dep Phy
+49605	367765	U Warsaw, Dep Ast
+49605	56640	Nicolaus Copernicus Ast Ctr, Warsaw
+49605	A1369	U Warsaw, Inst Geop
+	49632	Poznan U Tech
+	49642	Catholic U Lublin
+	49646	U Gdansk
+	49663	U Bialystok
+	49674	U Warmia Mazury
+	49686	Maria Curie-Sklodowska U
+	49690	Polish Geo Inst 
+	49693	Jan Kochanowski U
+	49726	U Rzeszow
+	49792	U Zielona Gora
+	49811	AGH U Sci Tech, Krakow
+	52735	U Chem Tech, Prague
+	52743	Hiroshima Inst Tech
+	52747	NIMS
+52752	198741	NAOJ, Nobeyama Obs
+52752	198757	NAOJ, Nobeyama Rad Obs
+52752	226618	Subaru Tele
+52752	418217	NAOJ, Chile Obs
+52752	418389	NAOJ Mizusawa
+52752	52756	NAOJ, Nobeyama Solar Rad Obs
+52752	52769	NAOJ, Okayama Astrop Obs
+52752	A1575	NAOJ, ALMA Project Office
+52752	A1576	NAOJ, Fujii Bisei Ast Obs
+52752	A1628	NAOJ, Theo Div
+52752	A1629	NAOJ, Optical Infrared Div
+52752   NAOJ
+	52780	FH Aachen U App Sci 
+	52784	U App Sci, Bonn-Rhein-Sieg
+	52808	Ecole Mines Paris
+	52810	BRGM
+	52815	ParisTech
+	52827	MNHN
+	52830	Ecole Poly
+52830	129919	LULI
+52830	129945	CEA, Ctr Phy Theo
+52830	129948	Ecole Poly, LPP
+52830	57505	LPNHE
+52830	A1249	Ecole Poly, Ctr Phy Theo
+	52842	IFREMER, French Res Inst Expl Sea
+52842	113970	IFREMER, Bretagne
+52842	153875	IFREMER, Mediterranee
+52842	70611	IFREMER, Nantes
+52842	72846	IFREMER, Lab Domaines Ocean
+	52843	Coll France
+52843	A1263	Coll France, LPCC
+52843	A1264	Coll France, APC
+	52849	ENSTA
+	52863	Ecole Cen Nantes
+	52864	Ecole Cen Lyon
+	52868	Ecole Mines Nantes
+	52925	FGI, Finnish Geos Res Inst
+	52926	GTK, Geo Surv Finland
+	52931	Finnish Met Inst
+	52942	Abant Izzet U
+	52944	Anadolu U
+	52947	Beykent U
+	52948	Bilkent U
+52948	315166	Bilkent U, Dep Phy
+	52949	Bogazici U
+52949	164052	Bogazici U, Kandilli Obs
+52949	A1421	Feza Gursey Inst Phy
+	52950	Canakkale Onsekiz Mart U
+	52954	Cumhuriyet U
+	52955	Dogus U
+	52956	Dumlupinar U
+	52957	E Mediterranean U
+	52958	Erciyes U
+	52961	Gaziosmanpa U
+	52970	Istanbul Cult U
+	52971	Istanbul Tech U
+52971	315932	Istanbul Tech U, Dep Phy
+52971	A1422	Istanbul Tech U, Dep Ast Sp Sci
+	52972	Izmire Inst Tech
+	52976	Karadeniz Tech U
+	52979	Koc U
+	52980	Kocaeli U
+	52981	Maltepe U
+	52982	Marmara U
+	52983	Mersin U
+	52984	Middle E Tech U
+	52985	Mimar Sinan U
+	52986	Mugla U
+	52989	Nigde U
+	52991	Sabanci U
+	52992	Sakarya U
+	52993	Selcuk U
+	52994	Suleyman Demirel U
+	52999	Yildiz Tech U
+	53000	Yuzuncu Yil U
+	53001	Zonguldak Karaelmas U
+	53002	Afton Kocatepe U
+	53003	Balikesar U
+53003	426033	Balikesar U, Dep Phy
+	53004	Eskisehir Osmangazi U
+	53025	City U Hong Kong
+53031	71121	CAS, Yunnan Obs
+53031	71126	CAS, Pur Mt Obs
+53031	71139	CAS, Shanghai Obs
+53031	85327	CAS, Xinjiang Obs
+53031	85420	CAS, Changchun Obs
+53041	74612	CAS, Inst Geod Geop
+53042	74718	CAS, S China Sea Inst Ocean
+53043	74709	CAS, Inst Opt Elec
+53045	71200	CAS, Inst Modern Phys, Lanzhou
+53045	74779	CAS, Qinghai Inst Salt Lakes
+53045	A1572	CAS, Ctr Theo Nucl Phy
+	53283	INAF
+53283	119621	INAF, Teramo
+53283	119634	INAF, Bologna
+53283	119635	INAF, Cagliari
+53283	224983	INAF, Padua
+53283	246694	IAPS, Rome
+53283	321184	IRA, Inst Radioast, Bologna
+53283	53284	INAF, Brera, Milan
+53283	53285	INAF, Rome
+53283	53286	INAF, Palermo
+53283	53287	INAF, Trieste
+53283	53291	INAF, Capodimonte
+53283	53294	INAF, Catania
+53283	56860	INAF, Arcetri
+53283	56869	INAF, Torino
+	53335	Fukuoka Inst Tech
+	53347	Japan Soc Prom Sci
+53411	291561	JPL, IPAC
+53411	A1211	JPL, Sp Sci Div
+53411	A1212	JPL, Earth Sci Plan Div
+53468	A1162	NOAO,Chile
+53468	A1712	Cerro Tololo Interamer Obs
+	53572	Ball Aero Tech Corp
+	53573	Denver Mus Nature Sci
+	53744	Fermi Natl Acc Lab
+	53796	Maria Mitchell Obs
+	53824	AIP
+	54249	ESO
+54249	42681	ESO, Chile
+54249	A1478	Excel Cluster Uni
+54249	A1480	ESO, STECF
+	54344	Karl Schwarzschild Obs
+54344	A1507	Sonneberg Obs
+54412	A1333	Calar Alto Obs
+54456	120422	CAB, Madrid
+54456	A1324	LAEFF
+	54501	U Namur
+	54521	U Mons
+	54525	Bulg Acad Sci
+54525	277131	Bulg Acad Sci, Inst Nucl Res
+54525	A1434	Bulg Acad Sci, Ast Inst
+54525	A1435	Bulg Acad Sci, Natl Ast Obs
+54525	A1438	Bulg Acad Sci, Inst Sp Res
+	54526	New Bulg U
+	54527	U Sofia
+54527	A1435	U Sofia, Natl Ast Obs
+54527	A1436	U Sofia, Dep Ast
+54527	A1437	U Sofia, Dep Phy
+	54531	CNEN
+	54545	U Cruzeiro do Sul
+	54547	U Botswana
+	54548	Belarus NAS
+54548	231808	Belarus NAS, Inst Phy
+	54551	Natl Svc Geol Min, Chile
+	54557	U Cyprus
+	54561	Tallinn Tech U
+	54562	Alexandria U
+	54570	FORTH
+	54571	Natl Obs Athens
+54571	130170	IAADET
+	54572	NCSR
+	54574	Natl Hellenic Res Found
+	54583	Rudjer Boskovic Inst, Zagreb
+	54589	Hung Acad Sci
+54589	162159	Res Inst Part Nucl Phys, Budapest
+54589	194231	Hung Met Svc
+54589	54595	Konkoly Obs
+54589	61765	Cen Res Inst Phys, Budapest
+54589	72857	Geodetic Geop Res Inst, Hungary
+54589	A1345	MTA Atomki
+54589	A1347	Baja Ast Obs
+54589	A1352	Debrecen Heliophys Obs
+	54610	U W Hungary
+	54616	Eotvos Lorand U
+54616	190216	Eotvos Lorand U, Geop Inst
+54616	A1348	Eotvos Lorand U, Dep Ast
+54616	A1349	Eotvos Lorand U, Dep Phy
+	54630	Raman Res Inst, Bangalore
+	54634	Phy Res Lab
+54634	A1537	Phy Res Lab, Ast Astrop Div
+54634	A1538	Phy Res Lab, Sp Atmos Sci Div
+54634	A1539	Phy Res Lab, Plan Sci Expl Prog
+54634	A1540	Phy Res Lab, Udaipur Solar Obs
+	54637	ARIES
+	54638	Ind Inst Geomag
+	54649	Agr U Iceland
+	54653	Natl En Auth, Iceland
+	54658	U Jordan
+	54692	U Peradeniya
+	54694	Vilnius U
+54694	A1450	Inst Theo Phy Ast
+	54712	U Eduardo Mondlane, Mozambique
+	54715	Obafemi Awolowo U
+	54716	U Port Harcourt
+	54721	U San Carlos, Philippines
+	54724	Ateneo Manila U
+	54726	U Philippines Sys
+54726	54727	U Philippines, Diliman
+54726	54729	U Philippines, Los Banos
+	54736	U Peshawar
+	54739	Romanian Acad
+54739	251323	Romanian Acad, Ast Inst
+54739	A1356	Romanian Acad, Inst Phy
+54739	A1358	Romanian Acad, Inst Sp Sci
+	54741	Babes Bolyai U
+	54743	Irkutsk St U
+	54744	RAS, Moscow
+54744	104659	RAS, Prokhorov Inst Gen Phy
+54744	104712	RAS, Rostov
+54744	124203	RAS, Lebedev Phy Inst, Moscow
+54744	124205	RAS, Sp Res Inst, Moscow
+54744	124209	RAS, Geop Inst, Moscow
+54744	133836	RAS, Inst Dyn Geos, Moscow
+54744	133837	RAS, Inst Prob Mech, Moscow
+54744	133838	RAS, Inst Ast, Moscow
+54744	133854	RAS, Pushkov Inst Terr Magn, Ionosphere Radiowave Propogation, Troitsk
+54744	133858	RAS, Inst Nucl Res
+54744	133861	RAS, Inst Radioengineering Elec
+54744	133880	RAS, Inst Phy Earth
+54744	133898	RAS, Shirshov Inst Ocean
+54744	133901	RAS, Pushchino Sci Ctr
+54744	133919	RAS, Inst Spectr, Troitsk
+54744	133929	RAS, Ussuriisk Astrop Obs
+54744	155402	RAS, Inst Biomedical Prob, Moscow
+54744	164234	RAS, Vernadsky Inst Geochemistry
+54744	199813	RAS, Keldysh Inst App Math
+54744	220328	RAS, Inst Phy Atm
+54744	226301	RAS, St Petersburg
+54744	228825	RAS, Bach Inst Bioch
+54744	231814	RAS, Borok Geop Obs
+54744	231858	RAS, Tatarstan
+54744	242097	RAS, Tomsk
+54744	243805	RAS, Pushchino Radioast Obs
+54744	307730	RAS, Troitsk
+54744	307778	RAS, Karelian Inst Geol
+54744	387260	RAS, Inst Sp Phy Res Rad Wave Prop
+54744	54745	All Russian Res Inst
+54744	54749	SAO, Special Astrop Obs
+54744	68248	RAS, Landau Inst Theo Phy
+54744	68434	RAS, Siberian Branch
+54744	68533	RAS, Steklov Math Inst
+54744	68564	RAS, Polar Geop Inst, Murmansk
+54744	68640	RAS, Ural Branch
+54744	89107	RAS, Far East
+54744	A1463	RAS, Ussuriysk Astrop Obs
+54744	A1473	RAS, Ast Council
+54749	133956	RAS, Cen Ast Obs, Pulkovo
+	54765	U Maribor
+	54775	Kasetsart U
+	54782	Natl Elec Comp Tech, Thailand
+	54800	Vietnam Natl U
+54800	106160	Ho Chi Minh City U Sci
+	54801	U Belgrade
+54801	229718	U Belgrade, Dep Phy
+54801	89101	U Belgrade, Vinca Inst Nucl Sci
+54801	A1342	U Belgrade, Dep Ast
+	54908	Thales Alenia Sp
+54908	207743	Thales Alenia Sp, Italia
+	55097	BIPM
+	55292	CNET
+55292	A1261	CETP
+	55381	Inst des Hautes Etudes Sci
+	55408	CNES, Paris
+55408	214042	CNES, Toulouse
+	55409	Meteo France
+55409	84308	SATMOS
+	55439	ONERA
+55439	52800	ONERA, Toulouse
+55439	97067	ONERA, Palaiseau
+	55536	Synchr SOLEIL
+	55553	ESRF
+	55925	Pole U Leonard de Vinci
+	55943	NIKHEF
+55957	A1234	ESTEC, Astrop Div
+55957	A1235	ESTEC, Sp Sci Dep
+55957	A1236	ESTEC, Sci Support Dep
+	55958	Ryl Dutch Metr Soc
+	55960	Dutch Natl Aero Lab
+	55964	Cape Breton U
+	55983	Dawson Coll
+	55999	CSA, Can
+	56053	Inst Laue-Langevin
+	56056	U Beira Int
+	56057	U Madeira
+	56059	U Minho
+	56062	U Aveiro
+	56066	U Tras-os-Montes e Alto Douro
+	56070	New U Lisbon
+	56081	Chang Gung U
+	56082	Ming Chi U Tech
+	56089	Chung Shan Inst Sci Tech
+	56188	Inst Math Marseille
+	56351	Geos Austr
+	56354	Austr Ast Obs
+	56390	U Wstrn Cape
+56390	A1694	U Wstrn Cape, Dep Phy Ast
+	56391	Durban U Tech
+	56394	U KwaZulu-Natal
+56394	A1689	U KwaZulu-Natal, Astrop Cosmo Res Unit
+56394	A1692	U KwaZulu-Natal, Dep Phy
+	56405	NWU
+56405	A1693	NWU, Ctr Sp Res 
+	56410	U Pretoria
+	56416	Geo Surv S Africa
+	56417	CSIR
+	56499	ENSPM
+	56616	IRF, Kiruna 
+56616	325013	IRF, Uppsala 
+56616	A3016	IRF, Lund 
+56616	A3017	IRF, Umea 
+	56632	Norweg Def Res Estab
+	56667	Hebei U
+	56708	China Astnau Res Training Ctr
+	56711	SW Jiaotong U
+	56714	China W Normal U
+	56723	Nelson Mandela Metro U
+	56783	Kazimierz Wielki U
+	56865	S African Nucl En Corp
+	56866	U S Africa
+	56882	Korea Inst Adv Study
+	56942	Semnan U
+	56944	Iran U Sci Tech
+	56957	Harish Chandra Res Inst
+	57322	Oxford Inst, PLC
+57478	131933	Obs Cote d'Azur, Artemis Lab
+57478	131950	Obs Cote d'Azur, Lagrange Lab
+57478	131998	Obs Cote d'Azur, GeoAzur Lab
+57478	153873	Obs Cote d'Azur, Calern
+57488	117017	IRAM, Granada
+	57507	LGGE
+	57577	Southwest U
+	57815	NSSRC, Natl Synchr Rad Res Ctr
+	57870	Oak Ridge Assoc U
+	57904	Daido U
+	57916	Kitami Inst Tech
+	57921	Kogakuin U
+	57935	Osaka Inst Tech
+	57945	Tokyo Metro Indus Tech Res Inst
+	58158	Biosphere 2
+	58207	Hong Kong U Sci Tech
+	58286	Huaibei Normal U
+	58292	Luoyang Normal U
+	58294	Natl U Def Tech, China
+	58588	Makerere U
+	58802	U Caxias do Sul
+	58816	Macau U Sci Tech
+	58818	U Colombo, Sri Lanka
+	58835	U Ghana
+	58953	Agency Def Dev
+	58987	U Ibadan
+	58989	Ahmadu Bello U
+	59100	Rhodes U
+	59105	U Sharjah, UAE
+	59121	U Bahrain
+	59166	Gadjah Mada U
+	59176	Al-Hussein Bin Talal U
+	59178	Mutah U
+	59179	Yarmouk U
+	59192	Macau U Sci Tech
+	59198	Covenant U
+	59212	Naresuan U
+	59215	Natl United, Taiwan
+	59503	Al-Balqa App U Jordan
+	60451	Camosun Coll
+	60499	Oslo Coll Eng
+	60738	CECS, Chile
+	60994	Philips Res Lab
+	61147	Al Quds U
+	61244	Geo Surv Israel
+	61375	Heidelberg Acad Sci
+	61758	U Sci Tech Houari Boumediene
+	61767	Al al-Bayt U Jordan
+	61768	Lithuanian Acad Sci
+61768	A1450	Inst Theo Phy Ast
+	61769	U Latvia
+61769	A1448	U Latvia, Ast Obs
+	61770	U Benghazi, Libya
+	61771	U Mauritius
+	61774	Intl Islamic U Malaysia
+	61775	U Kebangsaan
+	61778	Pakistan Atom En Comm
+	61779	PINSTECH
+	61780	Qatar U
+	61783	U Bucharest
+61783	A1355	U Bucharest, Inst Phy
+	61791	Tech U Bratislava
+	61794	King Mongkut's Inst Tech
+	61796	U Carthage, Tunisia
+	61797	Vietnam Acad Sci Tech
+	61798	U Zululand
+	61799	U Johannesburg
+	61801	NRF, S Africa
+61801	274458	S African Env Obs Network
+61801	61800	S African Natl Sp Agency
+61801	61802	Hartebeesthoek Rad Ast Obs
+61801	61803	SAAO
+	61807	Natl U Lesotho
+	61810	Budapest U Tech Econ
+61814	A1231	CfA, Submm Array
+	61864	Draper Lab
+	62384	Baku St U
+	62386	Ind Inst Astrop, Bangalore
+	62389	Solid St Phy Lab, Delhi
+	62390	Inst Plasma Res
+	62392	Raja Ramanna Ctr Adv Tech
+	62393	Inter-U Acc Ctr
+	62395	IUCAA
+	62397	Ind Ass Cult Sci
+	62707	U W Indies
+62783	120752	El Leoncito Ast Complex
+	62823	Kuwait Inst Sci Res
+	62873	CONICET, Argentina
+62873	121570	Inst Phys, Rosario
+62873	124146	Res Ctr Atmos Sea Sci, Argentina
+62873	226544	Inst Phys, La Plata
+62873	230222	IATE, Cordoba
+62873	243751	Inst Astrop, La Plata
+62873	372654	CONICET, Ast Inst Earth Sp Sci
+62873	54485	IAFE, Inst Ast Sp Phys, Buenos Aires
+62873	54487	Argentine Inst Rad Ast
+62873	62927	Inst Plasma Phys, Buenos Aires
+62873	63019	Ctr Sci Tech Res, Argentina
+62873	63043	Sthrn Ctr Sci Res, Argentina
+	62938	Argentina Mnstry Def
+	63094	DSO Natl Lab, Singapore
+	63101	Natl App Res Lab Ctr Hi-Per Comp, Taiwan
+	63129	ITRI, Taiwan
+	63225	Nanyang Tech U
+63225	203287	Singapore-MIT Alliance Res Tech Ctr
+	63271	Chien Hsin U
+	63283	Natl Taipei U Educ
+	63285	Natl Taitung U
+	63353	Natl App Res Lab, Taiwan
+	63358	Ling Tung U
+	63364	Minghsin U Sci Tech
+	63370	Natl Formosa U
+	63373	Natl Dong Hwa U
+	63374	Natl Hsinchu U Educ
+	63403	Mnstry Econ Affairs, Taiwan
+63403	63407	Cen Geo Surv, Taiwan
+	63497	Vanung U
+	63526	Cairo U
+63526	A1695	Cairo U, Dep Ast
+	63541	U Iceland
+	63572	Lebanese U
+	63579	Ss Cyril Methodius U
+	63596	U Karachi
+	64007	Isik U
+	64023	TUBITAK
+64023	A1421	Feza Gursey Inst Phy
+64023	A1424	Turkish Natl Obs
+	64072	Cag U
+	64386	DWD
+	64391	U Akureyri
+	64396	Iceland Inst Nat Hist
+	64401	Reykjavik U
+	64733	U Indonesia
+	64750	LIPI
+64750	186339	Natl Inst Aero Sp, Indonesia
+64750	215236	BPPT, Indonesia
+64750	340978	BRKP, Indonesia
+64750	A1523	BMKG, Indonesia
+	64784	Canberra Deep Sp Comm Complex
+	64883	Samara St U
+	64890	Blagoveshchensk St Ped U
+	64897	Volgograd St Ped U
+	64900	Altai St U
+	64902	Bashkir St U
+64902	387265	Sterlitamak St Ped Acad
+	64909	Chelyabinsk St U
+	64915	Far Eastrn St U
+	64920	Kant Baltic St U
+	64922	Kazan St U
+64922	A1464	Kazan St U, Dep Ast
+	64935	MSU
+64935	124208	MSU, Sternberg Ast Inst
+64935	133936	MSU, Inst Nucl Phy
+64935	133937	MSU, Dep Phy Ast
+64935	324908	MSU, Bogoliubov Inst Theo Prob Mech
+64935	A1447	MSU, Crimea
+	64937	Nizhny Novgorod St U
+	64941	Novosibirsk St U
+	64948	People's Friend U Russia
+	64949	Perm St U
+	64958	Saratov St U
+	64966	Syktyvkar St U
+	64969	Tomsk St U
+	64970	Tver St U
+	64972	Udmurt St U
+	64973	Ulyanovsk St U
+	64974	Ural St U
+	64975	Vladimir St U
+	64977	Volgograd St U
+	64978	Voronezh St U
+	64979	NE Fed U, Yakutsk
+	64980	Yaroslavl St U
+	64994	Irkutsk St Tech U
+	64998	Udmurt St Tech U
+	64999	Kazan Tech U
+	65000	Kazan St Tech U
+	65011	Moscow Av Inst
+	65014	Moscow Inst Phy Tech
+	65024	Moscow St Tech U
+	65025	Moscow St Tech U Civil Av
+	65031	Moscow St U Geod Cart
+	65034	Murmansk St Tech U
+	65035	Novgorod St Tech U
+	65050	Russian St Hydromet U
+	65055	Samara St Aero U
+	65056	Samara St Tech U
+	65058	Saratov St Tech U
+	65060	Siberian St Tech U
+	65065	St Petersburg U Aero Instr
+	65066	St Petersburg St Mar U
+	65067	St Petersburg St Min Inst
+	65068	St Petersburg St Tech U
+	65071	St Inst Fine Mech Opt
+	65078	Tomsk St Tech U
+	65285	U Tunku Abdul Rahman
+	65289	Malaysia U Sci Tech
+	65361	Kongju Natl U
+	65408	Korea Res Inst Stand Sci
+	65419	Gwangju Inst Sci Tech
+	65450	Kunsan Natl U
+	65464	Daejin U
+	65483	Catholic U Pusan
+	65490	Daejeon Inst Sci Tech
+	65524	Korea Air Force Acad
+	65563	Korea Env Inst
+	65678	ETRI
+	65679	Korea Inst Geos Min Res
+	65683	Ulsan U
+	66172	Acad Sci, Florence
+	66280	Qingdao U Sci Tech
+	66331	Sichuan Normal U
+	66339	Suzhou U Sci Tech
+	66343	Yunnan Normal U
+	66344	Zhejiang Normal U
+	66350	Chang An U
+	66359	Dali U
+	66360	Yuxi Normal U
+	66447	Hebei Normal U
+	66449	Harbin U
+	66479	Nantong U
+	66486	Huaihai Inst Tech
+	66515	Guilin U Tech
+	66519	Henan Normal U
+	66523	Liaoning Normal U
+	66559	Jiaxing U
+	66564	Chongqing U Sci Tech
+	66573	Inst Sp Tech, Islamabad
+	66715	COMSATS Info Tech, Islamabad
+	66746	Fed Urdu U Arts Sci Tech
+	66757	Quaid-i-Azam U
+	66778	PIEAS
+	66843	NED U Eng Tech, Karachi
+	66847	SUPARCO
+	66851	Sir Syed U Eng Tech
+	66877	Forman Christian Coll
+	66878	Gvmnt Coll U Lahore
+	66901	U Cen Punjab
+	66906	U Punjab
+	66914	U Eng Tech, Lahore
+	66959	Natl U Sci Tech, Islamabad
+	66975	Khan Inst Eng Sci Tech
+	67026	Notre Dame U Louaize
+	67110	Bedford Inst Ocean
+	67129	Can Natl Inst Opt
+	67181	Kumamoto Inst Tech
+	67181	Soka U
+	67420	Poly Sch U Sao Paulo
+	67655	Paraiba Valley U
+	67714	Fed U Pelotas
+	67824	Fed U Goias
+	67826	Fed U Mato Grosso
+	67828	Fed U Sao Carlos
+	67836	St U Feira Santan
+	67843	St U Ceara
+	67883	St U Ponta Grossa
+	67891	U Taubate
+	67892	Fed U Amazonas
+	67920	Fed U Rio Grande
+	67994	King Mongkut's U Tech
+	68004	Mae Fah Luang U
+	68052	Ubon Ratchathani U
+	68106	Islamic Azad U
+68106	A1516	Islamic Azad U, Dep Phy
+	68257	Bu Ali Sina U
+	68259	Shahrood U Tech
+	68260	Sharif U Tech
+	68311	Tezukayama U
+68434	104647	RAS, Inst Biophysics
+68434	104668	RAS, Inst App Phys, Novgorod
+68434	104683	RAS, Inst Nucl Phys, Novosibirsk
+68434	133875	RAS, Vinogradov Inst Geoch
+68434	133905	RAS, Inst Solar Terr Phy
+68434	133909	RAS, Inst Earth's Crust
+68434	133940	St Petersburg St U, Ast Inst
+68434	196706	RAS, United Inst Geol, Geop Min
+68434	291262	RAS, Geop Svc, Obninsk
+68434	307735	RAS, Inst Cosmophys Res Aero
+	68597	Karpinsky Geo Inst
+	68600	Cen Inst Roentgen Radiol
+	68634	JINR, Dubna
+	68636	Kurchatov Inst Atom En
+68636	68421	Petersburg Nucl Phy Inst
+68636	68641	Inst Hi En Phy
+	68637	RFNC, Russian Fed Nucl Ctr
+68640	133915	Inst Contin Media Mech
+	68779	Mansoura U
+	68781	Tanta U
+	68786	Mnstry Hi Educ Sci Res
+68786	113310	Natl Inst Ocean Fisheries
+68786	124207	Natl Res Inst Ast Geop
+68786	68787	Natl Res Ctr
+	68791	Ain Shams U
+	68796	Assiut U
+	68799	Zagazig U
+	68816	Benha U
+	68831	Suez Canal U
+	68843	Minia U
+	68849	Menoufia U
+	68889	Sohag U
+	68891	Egypt Geo Surv Min Auth
+	68892	Egypt Atom En Auth
+	68898	S Valley U
+	68900	Helwan U
+	68987	ESA, Paris
+68987	120422	CAB, Madrid
+68987	39410	ESOC
+68987	55957	ESTEC
+68987	69269	ESAC
+68987	69270	EAC, Cologne
+68987	A1300	Norweg Sp Ctr
+68987	A1321	Madrid Deep Sp Comm
+68987	A1324	LAEFF
+68987	A1376	ESRIN
+68987	A1397	ASDC
+	68992	Hellenic Open U
+	68993	U Athens
+68993	130169	U Athens, Dep Phy
+68993	A1429	U Athens, Dep Ast
+	68994	Tech U Athens
+	68996	Harokopio U
+	68997	Ionian U
+	68998	U Aegean
+	69000	U Pireaus
+	69002	Tech U Crete
+	69091	Hellenic Mnstry Cult
+	69100	Acad Athens
+69100	A1426	Acad Athens, Res Ctr Ast App Math
+69100	A1427	Acad Athens, Office Sp Res
+	69104	Tech Educ Inst Athens
+	69211	U Poloponnese
+69624	124105	Obs Mid Pyrenees, IRAP
+69624	131854	Obs Mid Pyrenees, LEGOS
+69624	A1283	Obs Mid Pyrenees, LMTG
+69624	A1284	Obs Mid Pyrenees, DTP
+	69695	Jan Dlugosza U
+	69697	U Podlasie
+	69698	Mil U Tech, Warsaw
+	69701	Soltan Inst Nucl Stud
+	70291	Austr Bureau Metr
+70291	124135	IPS Rad Sp Svc
+70291	A1675	CASWR, Ctr Austr Wthr Cli Res
+	70309	Kaunas Tech U 
+	70493	VU, Brussels
+70493	401978	VU, Brussels, Ast Astrop Res Group
+70493	417398	VU, Brussels, Dep Phy
+70493	A1241	VU, Brussels, Earth Sys Sci Dep
+	70597	Harwell Sci Innovation Campus
+	70670	U Lagos
+	70679	U Fort Hare
+	70866	Poly Inst Leiria
+	70912	LNEG, Natl Lab En Geol (Portugal)
+	70924	Poly Inst Tomar
+	70984	U Acores
+	70985	U Algarve
+	70989	U Evora
+	70990	Fernando Pessoa U
+	71066	Dezhou U
+	71072	Nanyang Normal U
+	71119	Hong Kong Obs
+	71127	Nanjing U Info Sci Tech
+	71136	China U Petro, Huadong
+	71148	SW Inst Phys, China
+	71181	Shijiazhuang U
+	71207	Guilin U Elec Tech
+	72207	Cen Seis Obs, Erlangen
+	72585	Natl U Singapore
+72585	203287	Singapore-MIT Alliance Res Tech Ctr
+72585	215139	Natl U Singapore, Dep Phy
+	72896	Triura U
+	72990	NORSAR, Norweg Tech Sci Res Council
+	73052	Span Natl Obs, Madrid
+	73359	Komazawa U
+	73481	Japan Met Agency
+73481	198735	Kakioka Magn Obs
+73481	198768	Sapporo Dist Met Obs
+73481	73482	Fukuoka Dist Met Obs
+73481	73763	Osaka Dist Met Obs
+73481	73818	Sendai Dist Met Obs
+73481	74269	Matsushiro Seis Obs
+73481	83525	Met Res Inst, Tsukuba
+	73524	Future U Hakodate
+	73617	Hot Spring Res Inst
+	73659	Natl Res Inst Fisheries Sci
+	73758	Natl Res Ctr Dis Prev, Japan
+	73885	Nagoya Women's U
+	73923	Met Coll, Japan
+	74063	Res Inst Innovative Tech Earth, Japan
+	74251	Geos Info Auth Japan
+	74346	St U W Para
+	74350	CBPF
+	74354	Fed U Tech, Parana
+	74355	Fed Ctr Tech Educ
+	74361	Santa Cruz St U
+	74362	Fed U ABC
+	74382	U Santa Catarina St
+	74383	Fed U Sao Joao
+	74385	Fed U Tocantins
+	74391	Fed U Sergipe
+	74422	U Split
+	74441	Acad Sci Moldova
+	74455	U Zilina
+	74462	Armenian NAS
+74462	230747	Byurakan Astrop Obs
+74462	A1452	Garny Sp Ast Inst
+	74489	Philosopher U Nitra
+	74495	Peoples Liberation Army
+	74505	Chin Acad Geo Sci
+74505	124165	CAGS, Inst Geol
+	74537	China U Petro, Beijing
+	74547	Dalian U
+	74595	Shanghai Ocean U
+	74602	SW Petro U
+	74684	Beijing U Agr
+	74691	China Met Admin
+74691	248884	China Acad Met Sci
+74691	53016	CAS, Natl Sp Sci Ctr, Beijing
+	74707	Chengdu U
+	74736	Changchun U
+	74789	Shandong U Sci Tech
+	74848	Ryl Obs Belgium
+74848	A1243	Ryl Obs Belgium, Dep Solar Phy
+	74870	Ryl Mil Acad Belgium
+	74974	Berhampur U
+	74998	W Bengal U Tech
+	75029	Tilka Manjhi Bhagalpur U
+	75082	Jiwaja U
+	75103	Jawaharlal Nehru Tech U, Hyderabad
+	75613	BRA Bihar U
+	76313	Gvmnt Auton Coll
+	76322	Nagpur U
+	76793	Manipal U
+	78081	Veer Kunwar Singh U
+	79436	Sharda Group Inst
+	81872	U du Luxembourg
+	82505	Siberian St U
+	82968	VNIITF, Russian Fed Nucl Intitute
+	83332	ASI
+83332	A1376	ESRIN
+83332	A1397	ASDC, ASI Sci Data Ctr
+	83415	U Catholique Leuven
+83415	193389	U Catholique Leuven, Dep Phy
+83415	193390	U Catholique Leuven, Dep Ast Geop
+	83529	Tech Educ Inst Cen Macedonia, Seres
+	83546	Chuo U
+	83861	NAS
+	83974	RIST, Japan
+	84131	Shonan Inst Tech
+	84159	Aichi Toho U
+84294	123971	IRFU
+84294	129728	CEA Saclay, Svc d'Astrop
+84294	129878	CEA, Inst Phy Theo
+84294	A1253	CEA Saclay, Svc d'Aero
+84294	A1296	CEA Saclay, Svc Phy
+	84331	Inst Natl Geog
+	84398	Ctr Rech et Restauration des Musees France
+	84498	Jacobs U, Bremen
+	84514	Euro Org Expl Metr Sat
+	84981	U Novi Sod
+	85013	Atom En Comm Syria
+	85053	Inst Adv Stud, Venezuela
+85384	85403	CAS, Nanjing Inst Ast Opt Tech
+85415	47849	CAS, Inst Phys, Beijing
+85415	53016	CAS, Natl Sp Sci Ctr, Beijing
+85415	53023	CAS, Inst Mech
+85415	53031	CAS, Natl Ast Obs
+85415	58289	CAS, Inst Geog Sci Nat Res Res
+85415	66451	CAS, Inst Geol Geop
+85415	71035	CAS, Inst Hi En Phys, Beijing
+85415	71036	CAS, Inst Theo Phys, Beijing
+85415	74516	CAS, Inst Remote Sensing Digital Earth, Beijing
+85415	74519	U Chin Acad Sci
+85415	74521	CAS, Inst Atmos Phys, Beijing
+85415	74529	CAS, Inst Tibetan Plateau Res
+85415	85320	CAS, Acad Math Sys Sci
+85415	85396	CAS, Acad Opto-Elec
+85415	A1560	CAS, Beijing Natl Obs
+85415	A1562	CAS, Beijing Astrop Ctr
+85415	A1565	Kavli Inst Ast Astrop
+85425	85408	CAS, Inst Geoch
+85429	74762	CAS, Natl Time Svc Ctr
+	85458	U Ontario Inst Tech
+	86754	Ryl Met Inst Belgium
+	87016	Danish Met Inst
+	87109	U Faroe Islands
+	87171	Slovak Acad Sci
+	87188	U Plovdiv
+	87241	Klaipeda U 
+	87246	Vilnius Ped U 
+	87254	Riga Tech U
+	87266	Stefan cel Mare U Suceava
+	87271	Tech U Iasi
+	87276	Tech U Kosice
+	87472	Norweg Inst Air Res
+	87749	MeteoSwiss, Swiss Fed Office Metr Cli
+	87796	Res Inst Indus Sci Tech
+	87811	CIRA, Ital Aero Res Ctr
+	88383	Natl Inst Res Env, Japan
+	88420	Res Inst Humanity Nature, Kyoto
+	88913	Intl U Bremen
+89107	104703	RAS, Inst Volc Seis
+	89110	Fed U Roraima
+	89113	St U Rio Grande North
+	89211	Inst U France
+	89224	ITB, Inst Tech Bandung
+89224	309666	Bosscha Obs
+89224	A1522	Inst Tech Bandung, Dep Ast
+	89230	U Cheikh Anta Diop, Senegal
+	89660	Qassim U, Saudi Arabia
+	89687	Art Inst Chicago
+	91588	Liaoning Tech U
+	91594	Anhui U Sci Tech
+91594	A1566	Anhui U Sci Tech, Dep Ast
+91594	A1567	Anhui U Sci Tech, Dep Earth Sp Sci
+	91597	Tibet U
+	91599	Nanjing U Tech
+	91725	Japan Hydrographic Ocean Dep
+	92036	Remote Sensing Tech Ctr Japan
+	92037	Tohoku Natl Fisheries Res Inst
+	92055	Okayama Inst Quantum Phy
+	92172	Natl Inst Fusion Sci, Japan
+	92265	Yuncheng U
+	92335	Mnstry Transport Comm, Taiwan
+	92935	Acad Sci, Cuba
+	92955	U Kelaniya
+	92956	U Hassan II Casablanca
+	93064	Natl Remote Sensing Agency
+	93083	Ind Inst Tropical Metr, Pune
+	93785	Cen Wthr Bureau, Taiwan
+	96648	FNRS, Fonds Natl Rech Sci
+	96984	Catholic U Brescia
+97007 Jt Ast Ctr UK
+97008	381668	RAL, Sp Sci Tech Dep
+97032	57507	LGGE, Lab Glac et Geop Env
+97032	A1272	Inst Neel, Grenoble
+	97828	Tokyo Metro Gvmnt
+	97974	Favoloro U
+	97983	Tribhuvan U, Nepal
+	98503	Austr Res Council
+98503	A1659	Ctr Excel Ore Dep
+98503	A1660	Antarc Cli Ecosys Coop Res Ctr
+98503	A1661	CAASTRO, Ctr Excel All Sky Astrop
+98503	A1662	CCFS
+	98799	Al-Farabi Kazakh Natl U
+	98801	Amer U Beirut
+	99007	Ind Inst Sci Educ Res, Calcutta
+	99013	Ispra, Euro Comm Jt Res Ctr
+	99404	U Namibia
+	104631	Dubna Intl U
+	104670	NIRFI
+	104686	Novosibirsk St Tech U
+	104710	Rostov Sthrn Fed U
+104710	243808	Rostov Sthrn Fed U, Inst Phy
+	104723	Vavilov St Opt Inst
+	104732	Syktyvkar Forest Inst
+	105344	Ecole Cen Marseille
+	105430	Yerevan St U
+105430	A1452	Garny Sp Ast Inst
+	105450	Natl Library Republic Moldova
+	105797	Guiyang U
+	105809	Jing Gangshan U
+	105955	Khalifa U Sci Tech Res
+	106026	Wesleyan U
+106026	A1029	Wesleyan U, Dep Ast
+	106103	Haluoleo U
+	106190	Natl U Mongolia
+	107629	Fujian Acad Agr Sci
+	107660	U Dar es Salaam
+	107736	U Mohammed V Agdal
+	107738	Fed U Tech Akure
+	107745	U Benin
+	107750	U Ouagadougou, Burkina Faso
+	107751	U Yaounde I
+	107769	U Nigeria
+	107788	U Burundi
+	107790	U Abomey-Calavi
+	107811	U Cadi Ayyad
+	107832	U Oran
+	107834	U Asmara
+	107853	Moi U
+	107854	U Nairobi
+	107864	Kenyatta U
+	107907	U Sidi Mohamed Ben Abdallah
+	108005	Rivers St U Sci Tech
+	108042	Damascus U
+	108123	Mbarara U Sci Tech
+	108234	U Zambia
+	108243	Natl U Sci Tech, Zimbabwe
+	108285	U Ilorin
+	108491	U Baghdad
+	108522	Sanaa U
+	108853	Intl Inst Earthquake Seis
+	108871	KN Toosi U
+	110120	Modern U Tech Info
+	111111	U Paris, APC
+	111229	Kiev Shevchenko Natl U
+111229	231835	Main Ast Obs, Kiev
+111229	A1445	Kiev Shevchenko Natl U, Dep Phy Ast
+	111230	NASU
+111230	124296	NASU, Inst Phy Eng, Donetsk
+111230	132059	NASU, Inst Radiophy Elec, Kharkov
+111230	132060	NASU, Inst Low Temp Phy Eng, Kharkov
+111230	132061	NASU, Inst Phy Tech, Kharkov
+111230	199832	NASU, Inst Rad Ast, Kharkov
+111230	202064	NASU, Dep Phy Ast
+111230	202067	NASU, Inst Nucl Res, Kiev
+111230	230200	Crimean Astrop Obs
+111230	231804	NASU, Inst Botany, Kiev
+111230	231832	NASU, Inst Geop, Kiev
+111230	231835	Main Ast Obs, Kiev
+111230	231848	NASU, Inst Theo Phys, Kiev
+111230	288071	Ukrainian Natl Mus Nat Hist
+111230	A1443	NASU, Sp Res Inst, Lviv
+	111247	Karpov Instutute Phy Chem
+	111281	Russian Ctr Hydromet Env Mon
+	111282	AAI, Arctic Antarc Res Ctr
+	111285	Estonian Acad Sci
+111285	A1467	Tartu Obs
+	111289	Moldova St U, Chisinau
+111289	A1459	Moldova St U, Ast Obs
+111296	326020	UNAM, Natl Ast Obs, San Pedro Martir
+	111392	Tech U Lublin
+	111417	Ped U Krakow
+	111865	Lviv Franko Natl U
+111865	A1446	Lviv Franko Natl U, Dep Phy Ast
+	112015	Poly Inst Coimbra
+	112152	Tech Educ Inst Pireaus
+	112156	Tech Educ Inst Ionian Islands
+	112169	NCMR
+	112170	Tech Educ Inst Lamia
+	112178	Tech Educ Inst Crete
+	112192	Tech Educ Inst Chalkis
+	112217	U Wstrn Macedonia
+	112337	Albanian Acad Sci
+	112338	Tech U Tirana
+	112354	U Sarajevo
+	112400	U Nis
+	112478	Georgian NAS
+112478	132042	Georgian NAS, Inst Phy
+112478	186953	Abastumani Astrop Obs
+112478	186973	Georgian NAS, Inst Geop
+	112482	Tbilisi St U
+112482	361573	Tbilisi St U, Inst Phy
+	112624	Iceland Met Inst
+	112657	Eurasian St Natl U
+	112678	Vilnius Gediminas Tech U
+	112700	Ventspils U Coll
+112700	A1449	Ventspils Intl Rad Ast Ctr
+	112702	Moldova Ped U
+	112774	Tomsk St Ped U
+	112866	Odessa Mechnikov Natl U
+112866	A1442	Ast Obs Odessa
+	112877	Belarus St Tech U
+	112930	Alexander Ioan Cuza U Iasi
+	112969	Ovidius U Constanta
+	112971	Dunarea Jos U Galati
+	113020	U Marta Abreu Las Villas
+	113025	U Camaguey
+	113028	Carlos Rafael Rodriguez U Cienfuegos
+	113031	U Havana
+	113069	U Piura
+	113084	China U Geos, Beijing
+	113086	Natl U Eng
+	113104	Alberta Res Council
+	113498	Geo Surv Can Calgary
+	113612	Fanshawe Coll
+	113675	Natl Sci Eng Res Council
+113675	226216	CITA, Can Inst Theo Astrop
+	113957	Intl Space U
+	114243	Geo Surv Denmark Greenland
+	114311	Norweg Met Inst
+	115503	CONACYT, Mexico
+115503	42621	Natl Inst Astrop, Opt Elec, Mexico
+115503	54698	Ctr Sci Res Yucatan
+115503	7082	CICESE
+	115510	Houston Adv Res Ctr
+	115526	St U Amazonas
+	116935	Numazu Natl Coll Tech
+	116937	Yonago Natl Coll Tech
+	117058	Natl Auton U Nicaragua
+	117267	NYAS
+	117301	Al Azhar U
+	117566	Ryl Austr Air Force
+	117730	Shaanxi U Tech
+	117757	Shangqiu Normal U
+	117763	Taiyuan U Sci Tech
+	117776	Zhengzhou U Light Indus
+	117788	Chuzhou U
+	117793	Shanxi Datong U
+	117801	Hubei U Educ
+	117802	Hunan Inst Tech
+	117813	Nanjing Inst Tech
+	117816	Nanjing Aero Inst
+	117823	Quanzhou Normal U
+	118018	Hanoi U Sci Tech
+	118102	Nagaoka U Tech
+	118195	Guangdong Prov Dep Educ
+	118249	Xian U Sci Tech
+	118250	Shaanxi Normal U
+	118378	Zhanjiang Normal U
+	118397	Xinyang Normal U
+	118460	Hunan U Humanities Sci Tech
+	118520	ZAMG, Cen Inst Metr Geod
+	118529	WRC, World Rad Ctr, Davos
+	118966	Iceland Natl Land Surv
+	118985	Jomo Kenyatta U Agr Tech
+	119001	Kazakhstan NAS
+119001	A1454	Kazakhstan NAS, Astrop Inst
+	119031	Mongolian Acad Sci
+	119068	U Papua New Guinea
+	119110	U Nova Gorica
+	119500	IPEN, Brazil
+	119542	Fed U Para
+	119667	Christ U, Bangalore
+	119825	Tokyo City U
+	119883	Kapitzy Inst Phy Prob
+	119969	CIC, Argentina
+	119991	Span St Metr Agency
+	120168	Hoch Mannheim
+	120323	Laser Ctr, Hannover
+	120633	British U Egypt
+	121343	U Nicosia
+	121568	Natl U St Augustin
+	121678	Bhilai Inst Tech
+	121871	German Acad Sci, Leipzig
+	121991	Cyprus U Tech
+	122218	Maritime U Szczecin
+	123264	Gurukula Kangri U
+	123290	Gorgan U
+	123305	Taibah U, Saudi Arabia
+	123378	Korea Res Council Fund Sci Tech
+123378	123591	Korea Polar Res Inst
+123378	124272	Natl Fusion Res Inst
+123378	54669	Korea Aero Res Inst
+123378	54680	Korea Ast Sp Sci Inst
+123378	65351	Korea Inst Sci Tech Info
+123378	65355	Korea Inst Ocean Sci Tech
+123378	65398	Korea Basic Sci Inst
+123378	65405	Korea Atom En Res Inst
+	123582	Ramakrishna Vivekananda Mission
+	123591	Korea Met Admin
+	123972	China Seis Bureau
+	124184	NSPO, Taiwan
+	124186	S China Normal U
+124203	243763	RAS, Lebedev Phy Inst, Astro Sp Ctr
+	124261	Islamia Coll, Peshawar
+	124264	Geo Surv Namibia
+	124268	Ind Inst Sci Educ, Manauli
+	124275	Azerbaijan NAS
+124275	132038	Azerbaijan NAS, Inst Phy
+124275	A1455	Azerbaijan NAS, Shemakhy Obs
+	124282	Natl Atmos Res Lab
+	124283	Natl Ctr Antarc Ocean Res
+	124291	Tech U Timisoara
+	124745	U Badji Mokhtar Annaba
+	125117	Quest U
+	125282	Alberta Geo Surv
+	125635	Noor U
+	125649	Arak U
+	125791	Enugu St U Sci Tech
+	125815	Natl U Callao
+	126208	Lovely Prof U
+	126675	Poly U Pachuca
+	127355	King Abdullah U Sci Tech
+	127740	U Kragujevcu
+	128158	Bahir Dar U
+	128165	Mekelle U
+	128173	Kumasi U Sci Tech
+	128778	U Tirana
+	128791	Aix-Marseille U
+128791	399211	Aix-Marseille U, Dep Phy
+128791	57487	Obs Ast Haute Provence
+128791	57490	Aix-Marseille U, Lab d'Astrop
+128791	A1259	Aix-Marseille U II
+128791	A1260	Aix-Marseille U III, Paul Cezanne
+	129867	CNRM
+129867	55409	Meteo France
+130459	9190	U Wurzburg, Dep Phy Ast
+	131639	Ulsan Natl Inst Sci Tech
+	131981	Lab Chimie Env
+	132043	Ilia St U
+132043	186953	Abastumani Astrop Obs
+	133614	U Lyon
+133614	117124	Obs Lyon
+133614	27028	U Lumiere Lyon II
+133614	27029	U Jean Monnet St Etienne
+133614	27098	U Lyon I Claude Bernard
+	133616	U Bordeaux
+133616	124107	Obs Bordeaux
+133616	131882	U Bordeaux, Ctr d'Etudes Nucl
+133616	A1254	U Bordeaux, Dep Geol Ocean
+	133618	U Grenoble Alpes
+133618	27015	UJF Grenoble I
+133618	27016	U Stendhal Grenoble III
+133618	27101	U Pierre Mendes-France Grenoble II
+	133632	CTA, Brazil
+133632	243366	Inst Adv Stud, Brazil
+133632	74360	ITA, Brazil
+133632	A1720	INPE, Brazil
+	133746	Nagoya Muni Indus Res Inst
+	133872	ITEP
+	133886	Kazan St Ped U
+	133889	Mendelev Sci Res Inst Metro
+	133933	Cen Aero Inst
+	137665	U Lorraine
+137665	105366	U Lorraine, Ecole Natl Sup Geol
+137665	54693	GeoRessources
+	143447	Univ Sys Ohio
+143447	1076	U Akron
+143447	1354	Ohio U
+143447	2514	U Cincinnati
+143447	2564	Cleveland St U
+143447	2816	Wright St U
+143447	4229	Kent St U
+143447	6403	Miami U
+143447	8756	Youngstown St U
+	145310	St Bureau Surv Mapping
+	145440	Azarbaijan U Tarbiat Moallem
+	145456	Tajik NAS
+145456	A1456	Tajik NAS, Inst Astrop
+	145632	Inst Opt Phy Measurements
+	145637	Russian Av Sp Agency
+145637	242116	Russian Inst Sp Device Eng
+145637	276950	Cen Design Bureau Mach Building
+	145760	Can Inst Adv Res
+	148362	Natl U Rio Negro
+	149211	Tech Inst Ensenada
+	150232	KIT
+150232	153622	KIT, Dep Phy
+150232	240182	KIT, Inst Geod
+150232	72099	KIT, Inst Geop
+150232	A1501	Black Forest Obs
+150232	A1502	KIT, Inst Metr Cli
+150232	A1503	KIT, Inst Exp Nucl Phy
+	150847	Scottish U Env Res Ctr
+	151313	Wales Inst Math Comp Sci
+	152634	Kunming U
+	153570	Tech U Chile
+	154550	Sichuan U Arts Sci
+	154624	Fed U Campina Grande
+	154703	Hellenic Air Force
+	158223	Nrthn Borders U
+	158401	Fayoum U
+	158406	Beni Suef U
+	162296	Adiyaman U
+	163043	U Eastrn Finland
+	165047	SETI Inst
+	169737	Herzen Ped U
+	170296	NM Mus Nat Hist Sci
+	170512	Natl ICT Austr
+	172273	Perimeter Inst Theo Phy
+172280	A3007	NORDITA, Copenhagen
+	172383	Tech U Sofia
+	174277	Aalto U
+174277	313154	Aalto U, Dep Rad Sci Eng
+174277	313157	Aalto U, Metsahovi Rad Obs
+	175503	Syiah Kuala U
+	176863	Cen City U Rio de Janeiro
+	177507	Nanchang Inst Tech
+	177544	Suzhou U
+	178422	Eng Sch Antioquia, Colombia
+	183413	Ctr Res Developing Tech
+	183421	Poly U Baja Cal
+	185134	Zanjan U
+	185147	Tafresh U
+	185149	Ardibili U
+	185151	U Qom
+	185179	Kyrgyzstan NAS
+	185185	Kyrgyz-Russian Slavic U
+	185186	Kyrgyz St Tech U
+	185786	U Jakarta
+	185936	Tech U Kenya
+	185980	U Shumen
+	185981	SWU Neofit Rislki
+	186074	Fed U Reconcavo
+	186630	U Banja Luka
+	186710	Belarusian St U Info Radioelec
+	186959	Free U Georgia
+	186968	Tech U Georgia
+	186969	U Georgia
+	187007	Latvian Acad Sci
+187007	A1449	Ventspils Intl Rad Ast Ctr
+	187024	Anambra St U
+	187039	Geop Inst Peru
+	187076	CONIDA, Peru
+	187153	U Montenegro
+	187173	Natl U Asuncion
+	187434	Bitlis Eren U
+	187476	Siirt U
+	187485	Kharkov Tech U
+	187495	Kiev Tech U
+	187500	Mikolaiv Makarova Natl U
+	187505	Simferopol Tavrian Natl U
+	187902	Tashkent St Ped U
+	187919	Uzbekistan NAS
+187919	A1457	Uzbekistan NAS, Ast Inst
+	187925	Natl U Uzbekistan
+	189785	Ind Inst Sci Educ, Bhopal
+	191073	Natl Inst Amazonian Res
+	193038	U Trnava
+	193158	Ind Inst Sci Educ Res, Pune
+	193159	Ind Inst Sci Educ, Trivandrum
+	194785	Geo Surv Pakistan
+	194903	Masdar Inst Sci Tech
+	194912	Libyan Ctr Remote Sensing Sp Sci
+	195061	Tech U Bucharest
+	195697	Ind Inst Sp Sci Tech
+	196593	CPRM
+	197447	Basque Found Sci
+197447	226245	Donostia Intl Phy Ctr
+	197939	Hanoi U Min Geol
+	198807	CRAAG, Algeria
+	199790	Vatican Obs
+	199798	Mongolian U Sci Tech
+	199800	Natl Inst Nucl Res, Mexico
+	199811	Bashkir St Ped U
+	199818	Tajik St Natl U
+	199830	Dnipropetrovsk Natl U
+	201268	Papua New Guinea U Tech
+	201391	Huanghuai U
+	201492	Ctr Excel Basic Sci, Mumbai
+	201959	NorthW Res Assoc
+201959	A1148	NorthW Res Assoc, Boulder
+	202010	ITER, Span Inst Tech Renewable Ener
+	202831	Wloclawek U Tech
+	204579	Natl Ctr Sci Tech Res, Morocco
+	204580	Moroccon Inst Sci Tech Res
+	207607	Gujarat Tech U
+	208293	Jai Narain Vyas U
+	208869	Raja Peary Mohan Coll
+	209969	Fergusson Coll
+	210392	U Bejaia
+	210770	Khalsa Coll
+	211273	Meerut Coll
+	211435	Virudhnagar Hindu Nadars Senthikumara Nadar Coll
+	211670	Natl Lab Astrop
+	211958	Raja Balwant Singh Coll
+	212165	U Mohammed I Ouida
+	213006	Montana Tech
+	213429	Uzhgorod Natl U
+	213477	Natl Cart Ctr
+	215108	Fukui U Tech
+	215194	CONAE, Argentina
+215194	215195	Argentinian Antarc Inst
+	215272	Peruvian Inst Ast
+	216798	Wuhan Textile U
+	217140	U Enna Kore
+	218432	Mogilev St U
+	218459	Una U Ctr
+	219734	CRC
+	220778	Nat Hist Mus, Frankfurt
+	220779	Biodiv Cli Res Ctr, Frankfurt
+	223773	Natl Mus Wales
+	226164	Nucl Mat Auth
+226226	226227	U Heidelberg, Kirchhoff Inst Phy
+226226	236229	U Heidelberg, Inst Env Phy
+226226	54271	U Heidelberg, Inst Phy
+226226	54271	U Heidelberg, Inst Phy Astrop
+226226	A1483	U Heidelberg, Inst Theo Phy
+	226274	Vilnius Ctr Phy Sci Tech
+	226300	Novgorod Ped St U
+226301	104736	RAS, Inst Atmos Opt
+226301	124201	RAS, Inst App Ast
+226301	124209	RAS, Inst Geop
+226301	133956	RAS, Pulkovo Obs
+226301	68635	RAS, Ioffe Inst Phy Tech
+	226303	Yaroslavl St Ped U
+	226315	NCTS, Taiwan
+	226328	Lviv Tech U
+	226333	Hanoi Natl U Educ
+	226340	Helsinki Inst Phy
+	226363	Bureau Longitudes
+	226400	W Bengal St U, Calcutta
+	226420	Gurucharan Coll
+	226427	Cotton Coll
+	226432	Jalpaiguri Gvmnt Eng Coll
+	226471	Interuniv Cons Sci Phy Matter
+226471	A1379	Interuniv Cons Sp Phy
+	226515	China Ctr Adv Sci Tech
+	226543	Argentine Inst Snow Res, Glac Env Stud
+	226545	Atacama Large Millimeter Submm Array
+	226547	Hi Inst App Sci Tech, Cuba
+	226571	CNISM, Natl Interuniv Cons Phy Sci Matter
+	226634	Sci Sys App Inc.
+	226652	Ohio Aerosp Inst
+	226675	LIGO Hanford Obs
+	226957	Ind Inst Tech, Indore
+	226963	Ind Inst Tech, Ropar
+	229769	Geomagnetic Inst, Serbia
+	230198	Natl Ast Res Inst Thailand
+230211	243741	Gemini Obs Sthrn Op Ctr
+	230742	Yerevan Alikhanian Phy Inst
+	231173	U Douala
+	231254	CU Shah Coll Eng Tech
+	231511	Delhi Tech U
+	231985	Pailan Coll Manage Tech
+	232460	Disha Educ Soc
+	232543	Coll Eng Trivandrum
+	232555	Chennai Math Inst
+	233152	Fed Agency Cart Geod, Frankfurt
+233152	A1482	DGFI
+	233394	Intl U Valencia
+	233773	Landmark U, Nigeria
+	236780	Scotland Mar Lab
+237039	54270	ARI
+237039	54276	U Heidelberg, Inst Theo Astrop
+237039	54277	U Heidelberg, Ast Obs
+	242275	Ind Inst Tech, Gandhinagar
+	242752	U Connecticut
+	243006	Turkmenistan NAS
+	243362	Manly Astrop
+	243556	Copernicus Ctr Interdisc Stud
+	243571	Voeykov Main Geop Obs
+	243737	Ast Geop Inst, Cuba
+	243738	Ctr Tech App Nucl Dev, Cuba
+	243740	Inst Cybernetics, Math Phys, Cuba
+	243752	Pierre Auger Sthrn Obs
+	243772	Federov Inst App Geop
+	243795	Inst Phy Power Eng, Obninsk
+	244013	Keck Tele
+	244028	Natl Inst Math Sci
+	245062	U Rio Verde Valley
+	245071	Catholic U Petroplis
+	245076	Fed U W Para
+	245475	China Metallurgical Geol Bureau
+	245568	Natl Inst Tech Raipur
+	248051	Melbourne Inst Tech
+	249276	U Mandalay
+	250161	Jain U
+	251248	Odessa Tech U
+	252535	U Hadj Lakhdar Batna
+	256451	Kharkov Karazin Natl U
+256451	A1444	Kharkov Natl U, Ast Inst
+	257251	U Kasdi Merbah Ouargia
+	260616	Beijing Inst Sp Sci Tech Info
+	267791	Hachinohe Inst Tech
+	270495	Pwani U
+	271538	Acharya Prafulla Chandra Coll
+	271784	Hubei U Natlities
+	273451	Chernivtsi Fedkovych Natl U
+	275285	Ryazan St U
+	278737	Tropical Forest Res Inst
+	284451	NASRDA, Nigeria
+	285931	Ctr Dev Renewable Energies
+	288614	e2v Tech, PLC
+	289164	Port Said U
+	291546	Res Inst Ast Astrop, Maragha
+	293475	Pskov St Ped Inst
+	295033	Nepal Dep Mines Geol
+	301221	Hi Inst App Sci Tech, Syria
+	302187	Bapurao Deshmukh Coll Eng
+	303779	Jaipur Eng Coll
+	305952	SCM, Sci Ctr Monaco
+	305980	Shri Ram Inst Tech
+	306206	Min Res Auth, Papua New Guinea
+	306303	Cen St U Wstrn Zone
+	306864	Anhanguera U Sao Paulo
+	307078	U Montana
+307078	A1185	U Montana, Dep Phy Ast
+	307200	African Inst Math Stud
+307730	387260	RAS, Inst Sp Phy Res Rad Wave Prop
+	311816	UMN Sys
+311816	14713	UMN, Duluth
+311816	5635	UMN, Twin Cities
+	316378	RASC
+	316399	U Yangon, Myanmar
+	316449	AAVSO
+	317112	SAF
+	318255	Intl Seis Ctr
+	319791	APEC Cli Ctr, Korea
+	319806	Beijing Aero Comm Contr Ctr
+	322779	AER
+	322796	Baja Cal Inst Adv Stud
+	334039	Marconi U
+	339563	Manila Obs
+	339693	U Jijel
+	343375	Calcutta Inst Tech
+	355223	Ryl Mus Greenwich
+355223	223879	Ryl Greenwich Obs
+355223	4943	Natl Maritime Mus, UK
+	355333	Satish Chandra PG Coll
+	357321	Jesuit U Ignatianum
+	359758	Honeybee Robotics
+	359772	Zewail City Sci Tech
+	364806	Inst Basic Sci, Korea
+	366033	Skolkovo Inst Sci Tech
+	366420	Natl Sp Ctr, Leicester
+	366849	U Kota
+	366873	Ctr Adv Stud Arid Zones
+	367407	IE U, Segovia
+	370377	Ecole Cen Paris
+	372245	Baise U
+	373633	Geo Surv Wstrn Austr
+	374702	Addis Ababa Inst Tech
+374722	124340	McDonald Obs
+	374816	Springer Nature
+374816	38684	Springer Sci
+374816	53264	NPG
+	376547	Asia Pac Ctr Theo Phys, Seoul
+	379564	Natl U Public Svc, Budapest
+	380965	U Sci Tech, Korea
+	383000	Marrakech Fac Sci Tech
+	386213	Moscow St Ped U
+	387735	U Johpur
+	391143	Natl Inst Seis, Volc, Metr, Hydro, Guatamala
+	394118	Norweg Acad Sci Letters
+	396790	Ast Group Sabadell
+	399514	Intl Ast Union
+	400875	Tokyo U Sci
+	414042	BAA
+	415819	Griffith Obs
+418389	154327	NAOJ Mizusawa, VERA Obs
+	418442	Hubei U Sci Tech
+	421102	Belarusian St Ped U
+	428635	Austr Synchr Co.
+	566278	U Stavanger
